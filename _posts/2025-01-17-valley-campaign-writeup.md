@@ -18,7 +18,7 @@ For the past few months I've been running a weekly [Cairn](https://cairnrpg.com/
 
 ## The Cast
 
-**Eamon** - Cutpurse (Status: _Hiding in the Mountains_)
+**Eamon** - Cutpurse (Status: _Commanding the Mayor of Little Motte_)
 - After being cursed by a Mosswitch, his focused stare can break mirrors.
 - Aspiring Thief, looking for a big score after failed bankrobbery.
 - Branded by firelight, a wanted man.
@@ -68,7 +68,7 @@ For the past few months I've been running a weekly [Cairn](https://cairnrpg.com/
 
 ## Ten Thorn Tavern (Fame: x3)
 
-The players own an old tavern together. They've invested time and money to upgrade its features, and are growing in fame and fortune (however slowly).
+The players own an old tavern together. They've invested time and money to upgrade its features, and are growing in fame and fortune (however slowly). It also acts as a secret base for the Riverkeeper League.
 
 | Feature    | Score | Notes | 
 | -------- | ------- | ------- |
@@ -77,7 +77,6 @@ The players own an old tavern together. They've invested time and money to upgra
 | **FOOD** | 12 | Delicious bramblecakes and fresh fruits keep travelers happy. | 
 | **TABLOID** | 11 | A collection of news, rumors, and ads. Floundering while the editor-in-chief is captured. | 
 | **FLOWER SHOP** | 12 | Beautiful, fragrant, and/or delicious, there are rumors of a mushroom growing bed coming soon. | 
-| **RIVERKEEPER LEAGUE** | 18 | A hideout and secret base of operations for this guerilla organization. | 
 
 ![valleyflowers_map.jpg](/images/posts/valleyflowers_map.jpg)
 
@@ -124,7 +123,7 @@ _The Players secretly decides they may still want to work with the Riverkeepers 
 
 _Eamon, Willow, Gerrick_
 
-**MORNING**. The Players leave the Champion and Blackguard (waiting for the Knights to leave first to avoid an ambush). They come across Willow who is looking for travelling partners. An hour or two later they see Gluster Fumm {Aspiring Hero} asking for help along the roadside. Gluster fire his arrow at something in the sky, and wants their help finding it. But first he plans to tie his heroic ribbon to the Festschrift Tree.
+**MORNING**. The Players leave the Champion and Blackguard (waiting for the Knights to leave first to avoid an ambush). They come across Willow who is looking for travelling partners. An hour or two later they see Gluster Fumm {Aspiring Hero} asking for help along the roadside. Gluster fires his arrow at something in the sky, and wants their help finding it. But first he plans to tie his heroic ribbon to the Festschrift Tree.
 
 **AFTERNOON**. The Players arrive at the Festschrift Tree, but the keeper, Alastor {Garden Neutrality} will not let Gluster tie a ribbon until he actually accomplishes something heroic. Willow swears an Oath of Garden Neutrality, and Alastor accepts it. ♠ Alastor gives Willow a letter for Grymothy {Wizard}. The Players nap in the safety of Alastor's grove. 
 - ♠ Eamon dreams of a man shackled to a tall tower. 
@@ -196,27 +195,6 @@ Sleeping near the tower grants visions and dreams:
 **AFTERNOON**. They approach the front doors of Nevruné Hall, noticing that the entire place is divided down the middle, with the left side covered in dark purple flowers, and the right side blooming bright red roses. Past the doors is a large courtyard where a platoon of Flower Knights are engaging in a formal battle, moving like pieces on a chess board. The two noble sisters watch on, hoping to defeat the other. ♠ Lady Gemna {Bright Red Knights} and Lady Scarlova {Dark Purple Knights} have an ongoing feud that divides their family. Madrigal sits on the purple side, MayFae sits on the red side, while Eamon and Willow watch from a neutral place. After the battle ends, Madrigal spars with the knights, earning their respect. Willow and MayFae talk to some of the spectators: Meldrim {Silver Noble} and Haurice DeBecque {Conclave Priest}. MayFae ingratiates herself with Lady Gemna while Eamon sneaks past some knights into the greenhouse. Eamon steals some soil from the greenhouse; the same soil used to grow new Flower Knights.
 
 **NIGHT**. Eamon and MayFae enjoy a dress-up montage with Lady Gemna while Willow and Madrigal help setup the dance floor. Eamon sneaks off to join Lady Scarlova. Turns out both ladies have a plan to assassinate the other during the dance tonight, and The Party tries to make BOTH assassinations happen at the same time. They succeed, at the cost of Willow getting beat up and thrown out into the bushes outside. The others attempt to sneak into the greenhouse and steal some Flower Knight bulbs, but are forced to flee. The Players spend the night hiding in the mountains while Nevruné Hall erupts into chaos.
-
-
-## DAY 16
-
-_Theo, Madrigal, Eamon_
-
-**MORNING**. The Players awaken in the hills, bruised but safe (mostly). They sneak back and sent Theo to scout the status of Nevrune hall. Theo hears fighting and activity happening within, and The Players decide to leave for now and return in the future. They still want one of those flower knight bulbs and strange bloody dirt. For now they head towards Little Motte to find rest.
-
-**AFTERNOON**. Along the way they meet Haurice arguing with an eclict mage named Methiew {Aspiring Wizard}. The two are debating the merits of "death magicks" and the players help dissolve the argument. Haurice returns to Salmuri Chapel and Methiew joins The Players on their walk to Little Motte. Methiew proffers a bottle of sweet smelling brandy from Little Motte. Methiew claims that the bottle has a hint of death magic to it, and she's curious to know more.
-
-**NIGHT**. The group arrives in the evening and admires the many flower beds and scented pathways of this charming little village. They enter the Stinky Cheese Tavern to rest for the evening. Eamon sneaks around outside and sees that something is wrong with the town; people walk with their heads down and seem subdued. ♠ The bartender, Eldora {Outsider} mentions that her wife (Ambrosia {Local}) is sleeping off a strange sickness upstairs. Over the next few hours townsfolk trickle in, and even the mayor arrives. The Players sneak upstairs to listen in on the town council and learn that the townspeople are panicked, and the mayor has no idea how to help.
-
-## DAY 17
-
-_Theo, Madrigal, Eamon_
-
-**MORNING**. After breakfast, Theo agrees to examine Ambrosia, but can't identify the sickness. ♠ Those infected, sleep, drink, laugh, and dance in some kind of drunken haze, almost like a fever. Eamon goes to investigate the mayors house, and uses his magical lockpicks to secure the entrances. Theo and Madrigal have tea time with Lady Freck {Village Grandmother}. Freck tells them of the stories of Lyra, the famous poet, and about how people would dance around her statue in better days. Madrigal also defends himself against Billson {Local Asshole} and learns that the mayor is clueless and afraid. They learn that the Mayor has called another meeting at the statue in the middle of town tonight.
-
-**AFTERNOON**. To investigate Methiew's "death-smelling" brandy, they visit the Frothing Headstone, a local distillery. Inside there are a dozen people in the final stages of the illness; they dance drunkenly and drink from the many casks of liquor. The Players don't learn much else, except that even the dead have risen to join in this diseased dance. Everyone seems to be singing old songs of Lyra.
-
-**NIGHT**. The Players intercept the Mayor and convince him to call another town hall meeting at the Stinky Cheese. It seems The Players have decided to guide the mayor and offer some assistance in this matter. We'll see if they can get to the heart of the problem.
 
 ![valleyflowers_map_paths.jpg](/images/posts/valleyflowers_map_paths.jpg)
 
