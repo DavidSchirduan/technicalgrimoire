@@ -10,23 +10,21 @@ image: /images/posts/fountainPens/intro.png
 
 This presentation is for a friend's Presentation Party. This was my presentation.
 
-![Why You Should Spend $50 on Fountain Pens. ASSUMPTION: You all have a desire to write with pen and ink more regularly. WALLET WARNING: Soon $200 pens will seem reasonable priced!](/images/posts/fountainPens/intro.png)
-
 <hr>
 
 ![THREE REASONS WHY. MOTIVATION:Nothing motivates like a new toy or gizmo. RITUAL: Arranging materials, cleaning, filling, prepping, etc. LUXURY: Less pressure, more variety, and that hipster satisfaction of being special.](/images/posts/fountainPens/three.png)
 
 <hr>
 
-![PLETHERA OF PENS. Size, Material, Nibs , Cost , Clip & Cap, Filling Mechanism <sketch diagram of pen parts>](/images/posts/fountainPens/plethera.png)
+![PLETHERA OF PENS. Size, Material, Nibs , Cost , Clip & Cap, Filling Mechanism. sketch diagram of pen parts](/images/posts/fountainPens/plethera.png)
 
 <hr>
 
-![INKredible variety: $7 bottle of Diamine Ink - 30ml - lasts about a year.](/images/posts/fountainPens/inkcredible.png)
+![INKredible variety: $7 bottle of Diamine Ink - 30ml - lasts about a year.](/images/posts/fountainPens/ink.png)
 
 <hr>
 
-![PICKY PAPER. Test for "Fountain Pen Friendly" if you can. Bleed Feathering AVOID cheap notebooks, moleskin, and field notes. IGNORE paper weight/thickness/material. CHOOSE Japanese, German, Vietnamese paper](/images/posts/fountainPens/picky.png)
+![PICKY PAPER. Test for "Fountain Pen Friendly" if you can. Bleed Feathering AVOID cheap notebooks, moleskin, and field notes. IGNORE paper weight/thickness/material. CHOOSE Japanese, German, Vietnamese paper](/images/posts/fountainPens/papers.png)
 
 <hr>
 
@@ -34,7 +32,7 @@ This presentation is for a friend's Presentation Party. This was my presentation
 
 I can recommend JetPens as a fantastic store with excellent guides and reviews. (And a fun [Youtube Channel](https://www.youtube.com/JetPens))
 
-### Letter Writing ($50)
+## Letter Writing ($50)
 
 - $30 - [Lamy Safari](https://www.jetpens.com/LAMY-Safari-Fountain-Pens/ct/1185)
 - $7 - [Diamine Ink](https://www.jetpens.com/Diamine-Ink-Bottles/ct/1782)
@@ -42,7 +40,7 @@ I can recommend JetPens as a fantastic store with excellent guides and reviews. 
 
 | ![](/images/posts/fountainPens/lamy.jpg) | ![](/images/posts/fountainPens/diamine2.jpg) | 
 
-### Journalling & Drawing ($50)
+## Journalling & Drawing ($50)
 
 - $10 - TWO [Platinum Preppy](https://www.jetpens.com/Platinum-Preppy-Fountain-Pens/ct/5111)
 - $21 - THREE [Diamine Ink](https://www.jetpens.com/Diamine-Ink-Bottles/ct/1782)
