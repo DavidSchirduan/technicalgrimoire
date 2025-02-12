@@ -43,10 +43,15 @@ I can recommend JetPens as a fantastic store with excellent guides and reviews. 
 ## Journalling & Drawing ($50)
 
 - $10 - TWO [Platinum Preppy](https://www.jetpens.com/Platinum-Preppy-Fountain-Pens/ct/5111)
-- $21 - THREE [Diamine Ink](https://www.jetpens.com/Diamine-Ink-Bottles/ct/1782)
+- $14 - TWO [Diamine Ink](https://www.jetpens.com/Diamine-Ink-Bottles/ct/1782)
+- $10 - [Water Brush Pen](https://www.jetpens.com/Pentel-Vistage-Water-Brush-Medium-Flat/pd/27744)
 - $15 [Midori Dot Grid notebook](https://www.jetpens.com/Midori-MD-Notebook-Journal-A5-Dot-Grid/pd/26421)
 
 | ![](/images/posts/fountainPens/preppy.jpg) | ![](/images/posts/fountainPens/diamine1.jpg) | 
+
+<hr>
+
+![Did you know? fountain pen ink is water-soluable and can be used like watercolors](/images/posts/fountainPens/waterpens.png)
 
 <hr>
 
