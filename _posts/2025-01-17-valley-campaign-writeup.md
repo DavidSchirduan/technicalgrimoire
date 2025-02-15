@@ -18,53 +18,57 @@ For the past few months I've been running a weekly [Cairn](https://cairnrpg.com/
 
 ## The Cast
 
-**Eamon** - Cutpurse (Status: _Commanding the Mayor of Little Motte_)
+**Eamon** - He/Him - Cutpurse (Status: _Exploring Lyra's Tomb_)
 - After being cursed by a Mosswitch, his focused stare can break mirrors.
 - Aspiring Thief, looking for a big score after failed bankrobbery.
 - Branded by firelight, a wanted man.
 
-**Gerrick** - Beast Handler (Status: _Drinking in the Tavern_)
+**Gerrick** - He/Him - Beast Handler (Status: _Drinking in the Tavern_)
 - Rescued a Naiad, and now the river spirits owe him a favor.
 - Already a master of big cats, Gerrick seeks to tame another great creature.
 
-**Jory** - Outrider (Status: _Masked_)
+**Jory** - He/Him - Outrider (Status: _Masked_)
 - Looking for the right Oath to make after failing to find a cure for Daisy.
 - Owns an intelligent steed named Dragonfly.
 
-**Lazlo** - Scrivener (Status: _Arriving_)
+**Lazlo** - He/Him - Scrivener (Status: _Arriving_)
 - A local member of the Silent Symphony, he can see through some invisibility magic and recognizes written lies.
 
-**Madrigal** - Fungal Forager (Status: _Hiding in the Mountains_)
+**Madrigal** - He/Him - Fungal Forager (Status: _Exploring Lyra's Tomb_)
 - Rescued a Naiad, and now the river spirits owe him a favor.
 - Always on the search for new 'shrooms. 
 - Has a compass that points towards the Sun.
 
-**MayFae** - Foundling (Status: _Hiding in the Mountains_)
+**MayFae** - She/Her - Foundling (Status: _Resting at Stinky Cheese Tavern_)
 - Still hopeful she can save her friend Daisy, despite Daisy's death.
 - Adopted by a smith, she has visions of the stars disappearing.
 
-**Red** - Greenwise (Status: _Gardening_)
+**Red** - He/Him - Greenwise (Status: _Gardening_)
 - Seeks the right soil for his corpseflower companion.
 
-**Reefer** - Bone Keeper (Status: _Gardening_)
+**Reefer** - He/Him - Bone Keeper (Status: _Gardening_)
 - Obsessed with death after failing to find a cure for Daisy, his childhood friend.
 
-**Sandon** - Scrivener (Status: _Captured, Awaiting Execution_)
+**Sandon** - He/Him - Scrivener (Status: _Captured, Awaiting Execution_)
 - After being cursed by a Mosswitch, his focused stare can break mirrors.
 - Can speak the tongues of most animals.
 - Literate and proud.
 - Captured after a failed attempt to rob Knights of the Golden Promise
 
-**Theo** - Barber-Surgeon (Status: _Healing a Stone Servant of the Wandering Tower)
+**Theo** - He/Him - Barber-Surgeon (Status: _Exploring Lyra's Tomb_)
 - A local outcast, talented surgeon, terrible barber. 
 - Has a metal leg prosthetic, preferring it to his original one.
 
-**Willow** - Greenwise (Status: _Hiding in the Mountains_)
+**Willow** - He/Him - Greenwise (Status: _KIA_)
 - A local drifter, looking for a place to belong. Subtle philosopher.
 - Took an Oath of Forest Neutrality:
   - Feed a villain to the trees.
   - Prevent a fight between two enemies (COMPLETE?).
   - Tie his heroic ribbon to the Festschrift Tree (COMPLETE).
+
+**Silcy** - They/Them - Jongleur (Status: _Exploring Lyra's Tomb_)
+- A masked wandering musician who loves to talk through a hand puppet.
+- Seeking information and songs of Lyra.
 
 ## Ten Thorn Tavern (Fame: x3)
 
@@ -195,6 +199,64 @@ Sleeping near the tower grants visions and dreams:
 **AFTERNOON**. They approach the front doors of Nevruné Hall, noticing that the entire place is divided down the middle, with the left side covered in dark purple flowers, and the right side blooming bright red roses. Past the doors is a large courtyard where a platoon of Flower Knights are engaging in a formal battle, moving like pieces on a chess board. The two noble sisters watch on, hoping to defeat the other. ♠ Lady Gemna {Bright Red Knights} and Lady Scarlova {Dark Purple Knights} have an ongoing feud that divides their family. Madrigal sits on the purple side, MayFae sits on the red side, while Eamon and Willow watch from a neutral place. After the battle ends, Madrigal spars with the knights, earning their respect. Willow and MayFae talk to some of the spectators: Meldrim {Silver Noble} and Haurice DeBecque {Conclave Priest}. MayFae ingratiates herself with Lady Gemna while Eamon sneaks past some knights into the greenhouse. Eamon steals some soil from the greenhouse; the same soil used to grow new Flower Knights.
 
 **NIGHT**. Eamon and MayFae enjoy a dress-up montage with Lady Gemna while Willow and Madrigal help setup the dance floor. Eamon sneaks off to join Lady Scarlova. Turns out both ladies have a plan to assassinate the other during the dance tonight, and The Party tries to make BOTH assassinations happen at the same time. They succeed, at the cost of Willow getting beat up and thrown out into the bushes outside. The others attempt to sneak into the greenhouse and steal some Flower Knight bulbs, but are forced to flee. The Players spend the night hiding in the mountains while Nevruné Hall erupts into chaos.
+
+## DAY 16
+
+_Theo, Madrigal, Eamon_
+
+**MORNING**. The Players awaken in the hills, bruised but safe (mostly). They sneak back and sent Theo to scout the status of Nevrune hall. Theo hears fighting and activity happening within, and The Players decide to leave for now and return in the future. They still want one of those flower knight bulbs and strange bloody dirt. For now they head towards Little Motte to find rest.
+
+**AFTERNOON**. Along the way they meet Haurice arguing with an eclict mage named Methiew {Aspiring Wizard}. The two are debating the merits of "death magicks" and the players help dissolve the argument. Haurice returns to Salmuri Chapel and Methiew joins The Players on their walk to Little Motte. Methiew proffers a bottle of sweet smelling brandy from Little Motte. Methiew claims that the bottle has a hint of death magic to it, and she's curious to know more.
+
+**NIGHT**. The group arrives in the evening and admires the many flower beds and scented pathways of this charming little village. They enter the Stinky Cheese Tavern to rest for the evening. Eamon sneaks around outside and sees that something is wrong with the town; people walk with their heads down and seem subdued. ♠ The bartender, Eldora {Outsider} mentions that her wife (Ambrosia {Local}) is sleeping off a strange sickness upstairs. Over the next few hours townsfolk trickle in, and even the mayor arrives. The Players sneak upstairs to listen in on the town council and learn that the townspeople are panicked, and the mayor has no idea how to help.
+
+## DAY 17
+
+_Theo, Madrigal, Eamon_
+
+**MORNING**. After breakfast, Theo agrees to examine Ambrosia, but can't identify the sickness. ♠ Those infected, sleep, drink, laugh, and dance in some kind of drunken haze, almost like a fever. Eamon goes to investigate the mayors house, and uses his magical lockpicks to secure the entrances. Theo and Madrigal have tea time with Lady Freck {Village Grandmother}. Freck tells them of the stories of Lyra, the famous poet, and about how people would dance around her statue in better days. Madrigal also defends himself against Billson {Local Asshole} and learns that the mayor is clueless and afraid. They learn that the Mayor has called another meeting at the statue in the middle of town tonight.
+
+**AFTERNOON**. To investigate Methiew's "death-smelling" brandy, they visit the Frothing Headstone, a local distillery. Inside there are a dozen people in the final stages of the illness; they dance drunkenly and drink from the many casks of liquor. The Players don't learn much else, except that even the dead have risen to join in this diseased dance. Everyone seems to be singing old songs of Lyra. The Players intercept the Mayor and convince him to call another town hall meeting at the Stinky Cheese. It seems The Players have decided to guide the mayor and offer some assistance in this matter. 
+
+_Theo, Willow, Mayfae, Eamon, Madrigal_
+
+**NIGHT**. While the Mayor calls a town meeting, The Players head to his house, intending to see if the Mayor is hiding something. After feeding the mayor's cat, Thimblebottom, and subtly re-arranging the furniture, their detailed search has revealed nothing. The Mayor really is just a bumbling goof who doesn't know how to handle this sickness. They return to the Stinky Cheese tavern just as the Mayor is being booed and yelled out. The Players intervene, proclaiming that they will get to the bottom of this. The townsfolk are dubious, but what harm could these strangers bring? A few questions are answered, Lady Freck tells more stories of Lyra, and the townspeople return to their homes. The Players sleep at the tavern, with Eldora's blessing.
+
+_The Ballad of Lyra_
+
+I do not fear the night,
+So much as the darkness in my heart.
+
+I do not fear the crowds, 
+So much as I fear an empty bed.
+
+I do not fear the silence,
+So much as a hollow echo.
+
+I do not fear death,
+So much as an empty life.
+
+Yet she fill my heart.
+Yet she warms my bed.
+Yet she returns my cries.
+Death is my final and greatest lover.
+
+## DAY 18
+
+_Theo, Willow, Eamon, Madrigal_
+
+**MORNING**. The Players awaken to sounds of a scuffle coming from the first floor of the Tavern. Ambrosia is trying to leave that tavern (having progressed further in her disease), while Eldora prevents her with limited success. Madrigal helps secure Ambrosia, and promises that they will try to get to the bottom of things. The Players head to the statue of Lyra in the center of town.
+
+**AFTERNOON**. 10-15 infected stumble around the statue, muttering Lyra's songs and drinking or laughing or crying. Theo, Madrigal, and Eamon run back to the Tavern to get some barrels of alcohol while Willow charges into the fray. He climbs up the statue and surveys the crowd. Theo, Madrigal, and Eamon return with some barrels, and break them open to distract the infected. Only 4 infected remain, and The Players defeat them without killing them. Unfortuntely, Willow is killed in the scuffle. A travelling musician, Silcy, helps clear a path to the statue. The Players find a hidden entrance below the statue and secure themselves inside.
+
+Silcy introduces himself, explaining that he's been looking for more songs and info about Lyra. Silcy agrees to join the players on their exploration of Lyra's tomb.
+
+## Lyra's Tomb
+A brief summary of things that happened during the exploration of Lyra's Tomb:
+
+- The Players descend an iron staircase. Ghosts from the distant past briefly merge with the Players, granting visions of Lyra performing to a crowd. A creeping darkness overtakes Lyra, but she seems to embrace it willingly. 
+- A statue with a music box in its chest lies against a marble door. Madrigal cranks the music box, and the statue moves enough for Eamon to wedge the door open.
+- Within a large greenhouse a pink light streams in through the windows(even though they are underground?). Large humanoid plant beings wander slowly around the flower beds. The leader is playing a black vielle and the rest are crying red sap tears. Silcy engages in a musical duel with the leader, and is gifted the black vielle. Silcy realizes this was Lyra's ville, and it was given to her by a lover. Silcy continues to play the sad dirge, and the plant forms follow Silcy around instead.
 
 ![valleyflowers_map_paths.jpg](/images/posts/valleyflowers_map_paths.jpg)
 
