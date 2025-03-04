@@ -254,9 +254,45 @@ Silcy introduces himself, explaining that he's been looking for more songs and i
 ## Lyra's Tomb
 A brief summary of things that happened during the exploration of Lyra's Tomb:
 
-- The Players descend an iron staircase. Ghosts from the distant past briefly merge with the Players, granting visions of Lyra performing to a crowd. A creeping darkness overtakes Lyra, but she seems to embrace it willingly. 
+_Theo, Silcy, Eamon, Madrigal_
+
+- The Players descend an iron staircase. Ghosts from the distant past briefly merge with the Players, granting visions of Lyra performing to a crowd. ♠ A creeping darkness overtakes Lyra, but she seems to embrace it willingly. 
 - A statue with a music box in its chest lies against a marble door. Madrigal cranks the music box, and the statue moves enough for Eamon to wedge the door open.
-- Within a large greenhouse a pink light streams in through the windows(even though they are underground?). Large humanoid plant beings wander slowly around the flower beds. The leader is playing a black vielle and the rest are crying red sap tears. Silcy engages in a musical duel with the leader, and is gifted the black vielle. Silcy realizes this was Lyra's ville, and it was given to her by a lover. Silcy continues to play the sad dirge, and the plant forms follow Silcy around instead.
+- Within a large greenhouse a pink light streams in through the windows(even though they are underground?). Large humanoid plant hedgeforms wander slowly around the flower beds. The leader is playing a black vielle and the rest are crying red sap tears. Silcy engages in a musical duel with the leader, and is gifted the black vielle. ♠ Silcy realizes this was Lyra's ville, and it was given to her by a lover. Silcy continues to play the sad dirge, and the plant forms follow Silcy around instead.
+
+_Theo, Silcy, Eamon, Gerrick, Reefer_
+
+- While Silcy keeps the hedgeforms distracted with their playing, Reefer turns to smoke and explores the northeast room. Perfumed dead are digging a new alcove, and other alcoves lie filled with wooden caskets. 
+- A poetry golem in distress runs into the greenhouse, through the marble door, and steals the paper from the first golem they meet at the foot of the iron staircase. It shoves the paper into it's own music box, and saunters back the way it came with a much more relaxed air.
+- The Players decide to follow the golem through the overgrown archway. When Silcy stops playing, the hedgeforms become aggressive. Two of them destroy one another, while the remaining three charge after The Players. Gerrick dispatches one with his fire knife, the others are cut to ribbons, dousing Silcy and Theo in the strange red tears of the Hedgeforms. ♠ Silcy's tattoos are dyed red, and pulse slightly, while Theo's metal leg is undergoing some chemical reation with the red tears.
+- In the next room is a large pool surrounded by benches and a walkway. The Players watch as the poetry golem walks right into the pool, submerging beneath the surface as it's music fades. However another golem is sitting on the bench, playing a sad melody. Several shades and perfumed dead surround it as if listening.
+- Gerrick dives into the pool, and sees evidence of dozens or hundreds of broken poetry golems littering the bottom. He remembers a vision of a pale woman crying with red markings like those of Silcy's pulsing red tears.
+- A large marble door to the south is locked, and reads, "Finger to lip, enter her chamber with reverence. However when The Players try to silence the poetry golem, the shades and perfumed dead get violent. The Players douse the perfumed dead with oil, and ignite them. But the shades flow right into Reefer, Gerrick, and Theo. ♠ They feel a strange heaviness, like carrying a great sadness.
+
+_Theo, Gerrick, Eamon, Madrigal, Reefer_
+
+- They enter the now open marble door to find a large black marble sarcophagus. It has a thin crack running through the top of it, and a subtle vibration hums from within. Gerrick peeks inside, but only sees a dark something lying within.
+- The Players work together to open the top, and a well-preserved corpse lies at the bottom. Her eyes snap open and she sits up, reaching for a white vielle. The Players try to offer comfort, but instead she starts playing an angry tune. She cries black tears as shades begin to rise from the floor: violent and angry.
+- Madrigal slaps the vielle from her hands. It cracks as it hits the floor. The corpse breaks into tearful sobs, and the shades fade away. ♠ Reefer holds her close, and her tears stain him like tattoos. Eventually she finds her voice and tells her story. This is Lyra, the famous poet from hundreds of years in the past. She was giving a performance in a small town when a dark shadow came over the stage. Everything went black and she woke up here. She knows that some powerful patron gifted her the white vielle, which has "From an admirer" inscribed on the back. She doesn't recognize the black vielle she was playing before, but it does have "When you are ready, follow me below" inscribed upon it.
+- Reefer helps Lyra out of the sarcophagus, and The Players discover a hidden stairway beneath it. The obsidian steps lead down into darkness. "I...I must follow these steps" Lyra says, as if in a dream. The Players join her, going down, down, down into the depths.
+- Eventually they come to a massive obsidian bridge that leads off into an unnatural blackness. The cavern is silent, no walls or ceiling can be seen beyond the range of their torches. "My fancy with death was always a romantic fiction; never a true goal or desire...until now. I feel drawn across that bridge; like a bride to her wedding ceremony. Thank you for your help." ♠ She offers both the white and black vielles to Silcy and with a sardonic smile she walks across the bridge humming her own funeral dirge.
+- The entire dungeon goes quiet, and The Players return to the greenhouse to decide their next steps. Reefer finds some black obsidian coins under a now still perfumed dead. ♠ Some believe these coins are a token of thanks from the realm of the dead.
+
+## DAY 19
+
+_Theo, Gerrick, Eamon, Madrigal, Reefer_
+
+**MORNING**. The Players return up the staircase to the town of Little Motte. A dozen perfumed dead lie around the statue; quiet and still. Several townsfolk also sleep nearby, as if deeply hungover. The Players close the entrance to the dungeon so no one notices. They return to the tavern amidst a tired celebration within. Eldora the bartender greets them with free drinks, "He did it! The sickness is cured. My Ambrosia is back to her terrible puns and beautiful smiles!" The players see the mayor taking full credit for the cure.
+
+The Players convince him to speak with them in private upstairs. He admits that he didn't know why the sickness was suddenly cured, but was relieved to have the problem solved and wanted the credit. The Players agree to give him the credit if he convinces the town to offer good trade deals to Ten Thorn Tavern (Tavern Features improved, special deals offerd). Methiew is in attendence, and looks suspiciously at The Players as the mayor tells an elaborate lie about how the sickness was cured. She tells The Players to meet her back here later tonight. "I will have questions for you", she says as she leaves the tavern.
+
+**AFTERNOON**. Eamon trails Methiew without beind seen. Methiew casts some minor spells, muttering about how they actually did it. Eventually she makes her way to the statue of Lyra, and discovers the secret panel leading to the dungeon below. Eamon reveals himself, and they both descend the staircase. Eamon tries to engage her in conversation, but she insists on silence. "I will figure out how you did it on my own." She re-traces the steps of the party, taking note of every detail. When she enters the room with the black marble sarcophagus she stops. "There is great power below...a place of death energy like none I've ever felt." She summons a torch of darkness and descends into the depths, barely containing her excitement. Eamon waits in the room, suspicious of any danger that might arise. When an ominous black fog rises from the steps, he is already out the door and running to the surface.
+
+Meanwhile, back at the tavern, Reefer, Gerrick, and Theo are feeling the effects of the shades that have joined them:
+- Reefer's shade demands earthly pleasures (food, drink, sleep)
+- Theo's and Gerrick's shades want..something. I need to review my notes. Will update later.
+
+**NIGHT**. Eamon catches up with The Players, and fills them in on the situation. They all return to the  sarcophagus to find that black fog has gotten even thicker, and spills out of the obsidian steps like a bubbling cauldron. They attempt to slide the sarcophagus back into place, hopefully blocking the strange fog from flowing any further. They manage to succeed, but both Madrigal and Theo come into direct contact with the fog. ♠ The fog is thick like mud, and turns their skin semi-transparent wherever they touch it. The flow has been halted...for now. But the dungeon is no longer silent, and perhaps there is something terrible stirring across that black bridge.
 
 ![valleyflowers_map_paths.jpg](/images/posts/valleyflowers_map_paths.jpg)
 
