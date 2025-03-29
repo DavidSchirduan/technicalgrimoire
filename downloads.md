@@ -204,6 +204,19 @@ description: >
 <div class="columns">
 <div class="column column-1-2">
     <article class="project-card">
+      <a target="_blank" href="/files/WildseaReference.pdf" class="no-hover no-print-link " tabindex="-1">
+        <div class="project-card-img img sixteen-nine">
+          <img src="/images/WildseaRef.png" alt="Troika! Reference" sizes="(min-width: 90em) 22.5rem, (min-width: 54em) 19.5rem, (min-width: 42em) 17.5rem, 100vw">
+        </div>
+      </a>
+      <h3 class="project-card-title">
+        <a target="_blank" href="/files/WildseaReference.pdf" class="flip-title">Wildsea Reference</a>
+      </h3>
+      <legend class="project-card-text fine faded">GM Reference for the Wildsea RPG</legend>
+    </article>
+  </div>
+<div class="column column-1-2">
+    <article class="project-card">
       <a target="_blank" href="/files/troikaRef.pdf" class="no-hover no-print-link " tabindex="-1">
         <div class="project-card-img img sixteen-nine">
           <img src="/images/posts/troikaRef.png" alt="Troika! Reference" sizes="(min-width: 90em) 22.5rem, (min-width: 54em) 19.5rem, (min-width: 42em) 17.5rem, 100vw">
