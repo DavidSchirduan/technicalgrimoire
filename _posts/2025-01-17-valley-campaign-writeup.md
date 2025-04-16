@@ -16,61 +16,21 @@ For the past few months I've been running a weekly [Cairn](https://cairnrpg.com/
 
 <hr>
 
-## The Cast
+## The Players
 
-**Eamon** - He/Him - Cutpurse (Status: _Exploring Lyra's Tomb_)
-- After being cursed by a Mosswitch, his focused stare can break mirrors.
-- Aspiring Thief, looking for a big score after failed bankrobbery.
-- Branded by firelight, a wanted man.
+- **Eamon** - He/Him - Cutpurse 
+- **Gerrick** - He/Him - Beast Handler
+- **Jory** - He/Him - Outrider 
+- **Madrigal** - He/Him - Fungal Forager
+- **MayFae** - She/Her - Foundling
+- **Red** - He/Him - Greenwise
+- **Reefer** - He/Him - Bone Keeper
+- **Sandon** - He/Him - Scrivener (Status: _Captured_) 
+- **Silcy** - He/Him - Beast Handler
+- **Theo** - He/Him - Barber-Surgeon
+- **Willow** - He/Him - Greenwise (Status: _KIA_)
 
-**Gerrick** - He/Him - Beast Handler (Status: _Drinking in the Tavern_)
-- Rescued a Naiad, and now the river spirits owe him a favor.
-- Already a master of big cats, Gerrick seeks to tame another great creature.
-
-**Jory** - He/Him - Outrider (Status: _Masked_)
-- Looking for the right Oath to make after failing to find a cure for Daisy.
-- Owns an intelligent steed named Dragonfly.
-
-**Lazlo** - He/Him - Scrivener (Status: _Arriving_)
-- A local member of the Silent Symphony, he can see through some invisibility magic and recognizes written lies.
-
-**Madrigal** - He/Him - Fungal Forager (Status: _Exploring Lyra's Tomb_)
-- Rescued a Naiad, and now the river spirits owe him a favor.
-- Always on the search for new 'shrooms. 
-- Has a compass that points towards the Sun.
-
-**MayFae** - She/Her - Foundling (Status: _Resting at Stinky Cheese Tavern_)
-- Still hopeful she can save her friend Daisy, despite Daisy's death.
-- Adopted by a smith, she has visions of the stars disappearing.
-
-**Red** - He/Him - Greenwise (Status: _Gardening_)
-- Seeks the right soil for his corpseflower companion.
-
-**Reefer** - He/Him - Bone Keeper (Status: _Gardening_)
-- Obsessed with death after failing to find a cure for Daisy, his childhood friend.
-
-**Sandon** - He/Him - Scrivener (Status: _Captured, Awaiting Execution_)
-- After being cursed by a Mosswitch, his focused stare can break mirrors.
-- Can speak the tongues of most animals.
-- Literate and proud.
-- Captured after a failed attempt to rob Knights of the Golden Promise
-
-**Theo** - He/Him - Barber-Surgeon (Status: _Exploring Lyra's Tomb_)
-- A local outcast, talented surgeon, terrible barber. 
-- Has a metal leg prosthetic, preferring it to his original one.
-
-**Willow** - He/Him - Greenwise (Status: _KIA_)
-- A local drifter, looking for a place to belong. Subtle philosopher.
-- Took an Oath of Forest Neutrality:
-  - Feed a villain to the trees.
-  - Prevent a fight between two enemies (COMPLETE?).
-  - Tie his heroic ribbon to the Festschrift Tree (COMPLETE).
-
-**Silcy** - They/Them - Jongleur (Status: _Exploring Lyra's Tomb_)
-- A masked wandering musician who loves to talk through a hand puppet.
-- Seeking information and songs of Lyra.
-
-## Ten Thorn Tavern (Fame: x3)
+## Ten Thorn Tavern (Fame: x4)
 
 The players own an old tavern together. They've invested time and money to upgrade its features, and are growing in fame and fortune (however slowly). It also acts as a secret base for the Riverkeeper League.
 
@@ -305,6 +265,43 @@ Meanwhile, Silcy has their hands full trying to keep the fog distracted. As they
 The Players regroup in the Greenhouse. Eamon notices that Mayfae has different colored eyes, and Silcy's puppet has a different voice. Oh, and now they have a sick child they pulled from the realm of death. Eamon tries to keep it together a little longer. The Players ascend the tomb and emerge from the hidden plaque under the statue of Lyra. Several townsfolk are shocked that a secret tomb was lying in the middle of their square this whole time. Eamon ignores them, trudging off to steal the mayor's cat Thimblebottom, while Mayfae and Silcy leave Daisy in the capable hands of the town healer.
 
 The Players all meet up at the Tavern and talk through what just happened. It's a lot to take in, and it's been a long night. Just as they are about to turn in for the evening (or morning?) a group of warriors arrive in the town causing a stir. "We ride for the annual tournament joust at Nevrune Hall!" Surely they've heard of the death of the two princesses of Nevrune hall...how can there still be a tournament?
+
+## DAY 20
+
+_Eamon, Mayfae, Boreas_
+
+**MORNING**. The Players go to visit Daisy and arrange some transportation back to Ten Thorn Tavern. Boreas is on the quest for a talking bird, and may also be working for a Silvered Noble; he joins the group to determine their involvement with the Riverkeepers. They discover that Billson {Local Asshole} is driving a wagon into Cimbrine. A complex negotiation follows, and Billson reluctantly agrees to let them ride along (and manages to avoid getting beaten up by anyone). The Players also visit the Frothing Headstone brewery to discuss details about Ten Thorn Tavern carrying their famous cider.
+
+**AFTERNOON**. Billson loads up the carts. One cart carries 3 vases of Stormbreaker Petunias from a local flower shop owner, and the other cart carries 4 kegs of Headstone cider. The Players and Daisy squeeze in to fill the gaps. They depart from the Town of Little Motte, heading to Ten Thorn Tavern.
+
+**EVENING** As the sun begins to set, a terrible storm whips up. The Players are delighted to learn that the petunias have a magical quality that create a bubble that protects both carts from the rain. Travelers heading towards The Players also notice the protective bubble, and ask to take refuge until the storm passes. The Travelers are a group of Sunbelow Monks, here to sell the last cask of Umbral Wine. The leader of the monks introduces herself as "The Poet" and seems completely dry despite walking several miles in a rainstorm. The Poet passes the time telling the story of Sunbelow Abbey:
+
+> For centuries the monks of Sunbelow Abbey found purpose and peace in the art of winemaking. Their Umbral Wine is famous throughout the land, bringing joy and merriment to all who taste it. However the monks themselves never partook; agreeing that to do so would distract them from the craft itself. "To drink a sip of wine would be to steal joy from a dark and cruel world." So the monks contented themselves with tending and brewing...never drinking.
+
+> Until one day Brother Kresi had a terrible sickness, and the rest agreed he should drink the wine for medicinal purposes only. But in those few glasses Brother Kresi found the joy that lives in every sip of Umbral Wine. He sang and danced and convinced the entire abbey to drink deep of their hard-earned bounty. The monks invite folks to join them in a great celebration; for the joy of drinking Umbral Wine belongs to all, even the monks themselves!
+
+As the storm passes, the Poet and the monks bid farewell, walking on towards Little Motte. The Players continue towards Ten Thorn Tavern.
+
+## DAY 21
+
+_Eamon, Mayfae, Boreas_
+
+**MORNING**. The Players arrive at Ten Thorn Tavern. They unload one of the vases of Stormbreaker Petunias, and one barrel of Headstone Cider. Billson leaves with a huff, and The Players keep one wagon and its horses in the stables.
+
+Elzia mentions that it's time for her to leave. She promised to help get the Tavern back to its former glory, but she would prefer to be tending to the shrines instead of tending bar. Mayfae bakes her a farewell breakfast of Bramble Cakes, and takes some up for Daisy as well. 
+
+The Players also decide to invest in a piano for some live music. When Eamon and Boreas go to the greenhouse and start planting Stormbreaker Petunias they discover a strange message in the moss.
+
+> AETHUR WILL RETURN WHEN THE GODS LIVE AGAIN
+
+Home at last in the safety of their tavern, The Players must decide what they will do next.
+
+- ♠ Investigate rumors of more black fog in Ylgotha (the same as they encountered under Little Motte? Or different?)
+- ♠ See if they can convince the monks of Sunbelow Abbey to make more Umbral Wine for their bar
+- ♠ Prepare to rescue Sandon from Fort Flumenel before Day 30
+- ♠ Join the Riverkeepers in their attempts to bring back the gods
+- ♠ Investigate the Knightly Tournament Games happening in Nevruné Hall
+
 
 ![valleyflowers_map_paths.jpg](/images/posts/valleyflowers_map_paths.jpg)
 
