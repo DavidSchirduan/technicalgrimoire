@@ -69,4 +69,4 @@ Polaski's is not only a bar, but also a small local library. The patrons are dis
 
 The Crew return to the Pilosa and bed down for the evening. Tomorrow will certainly bring adventure, risk, and reward in equal measure.
 
-![images/posts/Wildsea/WildseaMap.png](images/posts/Wildsea/WildseaMap.png)
+![/images/posts/Wildsea/WildseaMap.png](/images/posts/Wildsea/WildseaMap.png)
