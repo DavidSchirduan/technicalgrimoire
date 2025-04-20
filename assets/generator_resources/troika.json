@@ -3373,5 +3373,12 @@
 "Skills": ["2 Fly", "2 Nature's Mishaps", "1 Slingshot fighting", "1 Spell - Undo", "1 Spell - Undo"],
 "Special": "You can eat any kind of fabrics. One the size of a hat may count as a provision.",
 "Source": "From <a href='https://dorovich.itch.io/the-lepida'>The Lepida</a> by <a href='https://dorovich.itch.io/'>Dorovich</a>."
+},{
+"Name": "Living Axiom",
+"Text": "Any fool with the slightest knack for the esoteric arts will eventually discover one existential secret or another. The common response is to make the first one you find the center of your beliefs. Unfortunately for these occultists, cosmic truths are a dime a dozen and almost all of them contradict the others. You are the spirit of one of these truths given form and a semblance of sapience from summoning, worship, ritual, or any other invented way of honoring you.",
+"Possessions": ["An effigy-body gifted from a wild-eyed mage (Light Armour)", "Bundled light bound by red strings (Damage as Longsword)", "Tome containing the closest vision of you ever written", "Glass sphere containing a Speaker of Non"],
+"Skills": ["1 Language - Astral", "3 Second Sight", "2 Spell - Thought Vapour", "2 Spell - True Seeing", "1 Spell - Random", "1 Spell - Random"],
+"Special": "An entity of your caliber has little to worry about when it comes to death. Inevitably, some mortal will delve into forces beyond their ken and attempt to summon you and you’ll be back. Who knows how long it will take. It’s almost tiring to think about. And don’t even get me started on the favors.",
+"Source": "From <a href='https://karinmalady.itch.io/living-axiom-troika'>Living Axiom</a> by <a href='https://karinmalady.itch/'>Karin Malady</a>."
 }
 ]}
