@@ -1,0 +1,2618 @@
+{
+  "General": {
+    "Encounters": [
+      [
+        "Beggar",
+        "Pleading for help",
+        "Persistently and loudly demands for help",
+        "Violent if ignored or denied"
+      ],
+      [
+        "Hungry Animal",
+        "Begs for food with whimpers",
+        "Will snatch food if the opportunity is given",
+        "Rabid, will attack unless given food"
+      ],
+      [
+        "Lone Thief",
+        "Attempts to pickpocket 1d6 coins",
+        "Attempts to rob 1d10/per level of coins",
+        "Quietly attempts to steal a magic item"
+      ],
+      [
+        "1d6 Muggers",
+        "Demands a “toll” of 1d10 coins per character",
+        "Surrounds characters and demands all of their coins",
+        "Immediately attacks, will loot the unconscious victims"
+      ],
+      [
+        "1d6 Street Toughs",
+        "They square up for a fair fight",
+        "Demand all the characters’ money or a beating",
+        "Rush the characters in an attempt to scare them",
+        "Out for blood and a dead body"
+      ],
+      [
+        "1d4 Bored Guards",
+        "Harass the characters for fun",
+        "Claim to be collecting “street tax” and demand 1d10 coins or a laugh",
+        "Interrogate the characters for a solid hour, mostly personal and intrusive questions"
+      ],
+      [
+        "1d4 AngryGuards",
+        "Drop a weapon on the ground and tell the characters to pick them up; attack if they do",
+        "Claim characters look like suspects, will incarcerate if they comply",
+        "Demand “street tax” of 1d6x10 coins; if resisted they attack"
+      ],
+      [
+        "Irate Magister and 1d3 Guards",
+        "Bully and confiscate any weapons the characters have",
+        "Claim characters are breaking some obscure law and have the guards apprehend them or pay 2d10x10 coins",
+        "Conscript the character into some dangerous task"
+      ],
+      [
+        "1d6 Body Snatchers",
+        "In the process of moving a body, threaten characters",
+        "Offer characters drugged drink (will attempt to steal teeth when characters pass out)",
+        "See characters as convenient cadavers..."
+      ],
+      [
+        "2d6 Racketeers",
+        "Harass the characters for fun",
+        "Surround characters and demand half of all wealth for “protection”",
+        "Demand the wealthiest character give all of their money"
+      ],
+      [
+        "1d10 Drunk Soldiers",
+        "Challenge character to an “honest” duel",
+        "Demand characters go drinking with them",
+        "Demand drink money, will fight if characters don’t comply"
+      ],
+      [
+        "Pack of 3d6 Animals",
+        "Harass characters and chase them out of their territory",
+        "Surround characters and attack",
+        "Rush characters and steal as much as they can"
+      ],
+      [
+        "Bored Aristocrat and 1d4 Fists of the City",
+        "Claim characters look like suspects, will incarcerate if they comply",
+        "Demand the wealthiest character give magic items",
+        "Force a duel to the death between a character and Fist"
+      ],
+      [
+        "1d4 Headhunting Aristocrats and 1d10 Guards",
+        "Blow the horn and announce they will give the characters a 10-minute head start before they hunt them",
+        "Attempt to corner characters into a trap",
+        "Attempt to net and kidnap a character alive for some dark purpose..."
+      ]
+    ],
+    "NPCAppearances": [
+      "dirty and disheveled",
+      "pristine and fashionable",
+      "achingly beautiful",
+      "plain and utilitarian",
+      "gaunt and frail",
+      "heavy-set and stout",
+      "sickly and corpse-like",
+      "tall and ominous",
+      "short and impish",
+      "aged and weathered",
+      "ragged and wounded",
+      "young and fair-faced",
+      "crooked and withered",
+      "wide and bumbling",
+      "thin and precise",
+      "strong and off-putting",
+      "smells like death",
+      "colorful and unorthodox",
+      "patchwork, but wears it well"
+    ],
+    "NPCMannerisms": [
+      "ostentatious and loud",
+      "intense and direct",
+      "achingly dumb",
+      "stubborn and close-minded",
+      "ardently shy and soft spoken",
+      "jovial and gregarious",
+      "gruff and blunt",
+      "easily dissuaded and flighty",
+      "violent and short-tempered",
+      "militant and strict",
+      "skittish but loyal",
+      "monotone and dry",
+      "mischievous and curious",
+      "somber and spiritual",
+      "persistent and argumentative",
+      "curious and thoughtful",
+      "prickly and sensitive",
+      "paranoid and sensational",
+      "gentle and wise"
+    ],
+    "Spells": [
+      "Ashen Familiar",
+      "Breadfinder",
+      "Braggart's Blades",
+      "Brick by Brick",
+      "Brittlebrak",
+      "Cattleson's Curiosity",
+      "Cinderpup",
+      "Chimney Cannon",
+      "Cobble-Slip",
+      "Dubious Slip",
+      "Flame Hallow",
+      "Flea-Faced",
+      "Confession",
+      "Gilded Gobbler",
+      "Hestia's Harmonics",
+      "Glassblower's Bane",
+      "Gol's Bloodcrete",
+      "Just a Pinch",
+      "Out-turned Pockets",
+      "Khulaed's Exit",
+      "Pyrite Mirage",
+      "Meandering Trail",
+      "Quashing Voice",
+      "Smokesniffer",
+      "Seize With Nails",
+      "Spittle-Glue",
+      "Unrepentant",
+      "Slab-Whisper",
+      "Riddle"
+    ],
+    "ShopInsides": [
+      "Garbage collects in corners, soot clearly visible on the ceiling",
+      "Place is packed with people and containers",
+      "Signs that tell you what to do and where to stand",
+      "Stinging unpleasant scents",
+      "The air is thick and choking",
+      "Broken glass and hasty repairs",
+      "Cleaned and organized obsessively",
+      "Thick dust coats everything",
+      "Warm and friendly",
+      "Hard to breath and hot",
+      "Smells wonderful & clean",
+      "Barely anything to show",
+      "Walls are moist with wet air",
+      "Someone is always shouting or working loudly",
+      "Every surface feels like dried syrup",
+      "Layout makes no sense",
+      "Little light, difficult to see",
+      "Calm and quiet atmosphere",
+      "Things here are not right… "
+    ],
+    "ShopReputations": [
+      "Despises aristocracy, (has a Noble’s hand on display)",
+      "Abysmal salespeople",
+      "Quality goods, terrible prices",
+      "Experts in field",
+      "Poorly stocked",
+      "Great prices, terrible quality",
+      "Everything sold is somehow greasy",
+      "Always new graffiti on the walls",
+      "Windows are always being broken",
+      "Local performance and music spot",
+      "Violent to bad customers",
+      "Stock is molding from neglect",
+      "Aristocrats shop and socialize here",
+      "Chronic bug infestation",
+      "Always has what you need",
+      "Local rumor-mill",
+      "Excellent service",
+      "Seemingly never open",
+      "Cursed items are common",
+      "Owner is a friend…"],
+    "Diseases": [
+      [
+        "Arcane Emissions",
+        "A bout of hiccups that trigger the casting of spells. Non-spellcasters see it as a minor nuisance, while powerful mages see it as a dangerous pox. "
+      ],
+      [
+        "Arsonist’s Fever",
+        "An intense fever accompanied by a sweat that is as flammable and volatile as kerosene. "
+      ],
+      [
+        "Candle-Wax Death",
+        "A full-body disease that causes flesh, organ, and bone to act like candle wax. Moderate heat can be dangerous and painful, while intense heat spells certain doom. "
+      ],
+      [
+        "Creeping Rash",
+        "A red rash that appears on the skin, itchy at times but mostly harmless. The stigma surrounding it tends to be the most dangerous aspect. "
+      ],
+      [
+        "Crust-Lock",
+        "A calcified plaque begins to build up on the joints and bones, making movement difficult and painful. "
+      ],
+      [
+        "Dontannelida",
+        "Clusters of pale worms painfully burrow into the teeth, making eating difficult. "
+      ],
+      [
+        "Gilding",
+        "A terrifying disease that changes the body to gold. The cruel few will wait for the afflicted to die, in order to “harvest” their bodies for coin. "
+      ],
+      [
+        "Heintower Wart",
+        "A fast-spreading cluster of warts that slowly encase and immobilize the afflicted. "
+      ],
+      [
+        "Jinx of the Magi",
+        "An arcane affliction that causes nearby spells and magic to target and affect the afflicted. "
+      ],
+      [
+        "Possession of the Wurm",
+        "A disease that warps the minds of mortals, changing them into screaming predators bent on bloodshed. A doom made manifest by the will of the city. "
+      ],
+      [
+        "Sanguine Seep",
+        "A dangerous and highly contagious disease that causes the body to rapidly drain of blood. "
+      ],
+      [
+        "Sump Foot",
+        "A disease common to the Undercity, it causes afflicted areas to swell and rot away into strange and odd forms. "
+      ],
+      [
+        "The Silver Pox",
+        "An illness spread by silver coins that causes lethargy and eventually blindness. "
+      ],
+      [
+        "The Slips",
+        "A disease brought on by rotten food or soiled water. The afflicted purge from every orifice in their body. "
+      ],
+      [
+        "The Unwinding",
+        "An ailment that breaks the ability of the afflicted to exist on the physical plane. "
+      ],
+      [
+        "Ulcerbites",
+        "Caused by he larvae of an Ulcer-fly burrowing their way into skin. Many larvae do not survive, but they create painful swollen bumps that distract and irritate. "
+      ],
+      [
+        "Vintner's Mites",
+        "Mites that burrow into scan and cause affected limbs to bruise and swell to comical proportions. They are always accompanied by the smell of fermented grapes. "
+      ],
+      [
+        "Waltz Worms",
+        "Long hair-like worms that weave their way into the muscle fiber of victims and cause a manic uncoordinated “dancing.” "
+      ],
+      [
+        "Whipping Cough",
+        "Vicious coughing spells that leave whip-like bruises and lacerations on the back and chest. "
+      ],
+      [
+        "Yellow-Weep",
+        "A chronic allergic reaction to the curious pollen that seems to plague the city, marked by a near-constant stream of vibrant yellow mucous."
+      ]
+    ],
+    "Locations": [
+      [
+        "Archibald's Tannery & Furs",
+        "A notorious block-long building that advertises pelts for a penny. Extremely cheap leather goods can be bought here, at the buyer's discretion, and Archie is eager to buy any newly or not-so-newly dead creatures to add to his tanning pits."
+      ],
+      [
+        "The Block",
+        "A stiff and unwelcoming squarish building with its name chiseled into the facade belies the exquisite jewels within. At The Block raw stones are cut, shaped, and set into Noble-worthy pieces. Access is by invitation only and in the many years it has been in operation it has only had one break in."
+      ],
+      [
+        "Capricious Clinic",
+        "A dingy and partially collapsed building adorned in vaguely medical symbols. This ramshackle hospital is run by a multifaceted demon who delights in both helping and harming their patients. Services are offered for free; however there is a 50/50 chance that you are healed or harmed in the transaction."
+      ],
+      [
+        "Bronsina's Arcade",
+        "Once the arched halls of an aristocrat’s estate, the space has been converted into an infamous tavern and pit-fight arena. Bare- knuckled fighters pummel each other for prize money and fame, while raucous and equally violent spectators cheer, boo, and gamble on the blood-sport."
+      ],
+      [
+        "Carte Blanche Dancefloor",
+        "A local dive where denizens can dance for free. A hotspot for new and upcoming bands to find the limelight. Often referred to as a haven for the drug trade, the merry exterior hides a much darker underbelly."
+      ],
+      [
+        "Cattery",
+        "While stray animals may be fairly common in the City, purchasing a well-bred, rare colored cat can only be found at the Cattery. This ten story building is dedicated to all things cat. Only the most unusual and unique felines are found here. It is important to note that the 2nd floor is the designated litter box."
+      ],
+      [
+        "Cavern Keep",
+        "What appears as a monolith or a naturally occurring plateau is actually the deteriorating remains of a once grand castle complex. Since its regal inhabitants have long since abandoned it, regular denizens have taken it upon themselves to wormhole their way through the structure and create a whole new colony."
+      ],
+      [
+        "Cleetus Candelabras",
+        "An ornate and gaudy facade hints at the ostentatious and overdone interior of the boutique. Lush fainting couches and settees welcome rich patrons to observe the showy pieces and form a “connection” with the overpriced lighting fixtures."
+      ],
+      [
+        "Demonology Archives",
+        "An ornate library adorned with all manner of gargoyles and demonic imagery. Demons who wish to understand or discover more about their curious lineage may explore the archives or schedule time with a demonologist to help them with their search."
+      ],
+      [
+        "Desolate Depot",
+        "The rusted and deteriorating remains of decommissioned carts and carriages litter the stoney yard. Flaking paint and creaky hinges greet any brave enough to wander through the heaps of broken parts. The feeling of being watched is pervasive and unwavering, bordering upon maliciousness."
+      ],
+      [
+        "Drakken Shrine",
+        "A shrine made from the bones, teeth, and dried hide of drakes. An ancient order of drake-hunters still visit the shrine to pay their respects, many having not seen a drake since the old days when they were hunted to extinction."
+      ],
+      [
+        "Dust Colosseum",
+        "Small time fighting pits. Anything may fight as long as they are not taller than three feet. A notorious place where many individuals have lost their life savings as well as their lives."
+      ],
+      [
+        "Edge Maze",
+        "Upon first glance this well- manicured maze appears docile and demure. There is a reason there are few who wander its meandering paths; all of the bushes are of the Clear-Edge variety. Every leaf is as sharp as a blade and can cut cleanly through nearly any surface. Insects, birds, and small animals are often found cut to ribbons at its base."
+      ],
+      [
+        "Eel Farm & Fun",
+        "Bins of wriggling, slimy eels are curated and sold by the pound. All sizes are available and on special occasions there are eel-wrangling events in which the prizes are monetary as well as fried and baked eel foods. Unknown to most patrons, the farm is mostly supplied by an entrepreneur Alley-Whelp family."
+      ],
+      [
+        "The Eggery",
+        "Provided one can withstand the smell of a thousand birds on the way past the shit-stained exterior, the inside of the dim pub is filled with culinary delights. Custards, omelets, quiches, and shakshuka of the most delectable sort may be acquired. However, the pervasive din of cooing birds is unnerving."
+      ],
+      [
+        "The Flea Market",
+        "A crumbling warehouse of countless second-hand sellers. The place is run by the Sisterhood of the Wayward Flea, an odd religious group that deifies and dresses as vermin. Cloth goods bought here are always infested, and a caustic bath is recommended after visits."
+      ],
+      [
+        "Gourmet Square",
+        "An eclectic and crowded congregation of the best street cooks and alley chefs across the land. It appears without warning and vanishes without a trace, leaving behind a trail of grease and the scent of fried goods wherever it passes."
+      ],
+      [
+        "Flytrap Bar",
+        "A seedy tavern accessible only by a trapdoor. A favorite place for mercenaries to gather information. The special drink is a pea-soup- colored liquor with a licorice fly floating atop."
+      ],
+      [
+        "Fractal Alley",
+        "This seemingly innocuous forked alleyway holds a dark secret. The further you travel into the alley, the more reality begins to change and distort. Those who have delved deep and returned alive bring tales of shifting tunnels, buildings that defy gravity, and creatures that should not be alive..."
+      ],
+      [
+        "Getrude's Grout",
+        "Acclaimed tile maker Getrude Glaanfort’s home and studio has been preserved as a tourist attraction by her greedy descendants. Almost every surface is covered in one-of-a-kind mosaics and hand-painted tiles. For a large sum they will permit you to chisel off your favorite piece."
+      ],
+      [
+        "The Gills",
+        "Soaked in tar and other preservatives, the ginormous gills of a monster fish greet all who enter the fishing district with their stiff, off-red fibers. Legends abound regarding the creature the appendages came from and chunks often go missing as ruffians see them as good luck trophies."
+      ],
+      [
+        "Green Fountain",
+        "Whether it is from the discoloring of the statues at its center, or some other more sinister reason, the waters that gush from the mythological fish forever frozen in copper run green. This does not stop a very stubborn bunch of duckweed from trying to populate the water, but it does keep away most thirsty folks."
+      ],
+      [
+        "Grim-Roost",
+        "A once proud and stalwart redoubt has been razed and occupied by a surly dragon. The melted halls and collapsed passages are filled with the dragon’s frightened attendants who do their best to see to its every whim. A powerful tyrant in its own right, the dragon harbors a terrible and mysterious grudge against the Nobles."
+      ],
+      [
+        "Gurgling Cistern",
+        "An above-ground cistern that froths and sputters from the sheer amount of gases that emanate from the garbage far below the surface. Some attempt to collect the gases which are often hallucinogenic when inhaled."
+      ],
+      [
+        "Heintower Chapel",
+        "A shining marble tower and nave adorned in fluttering tapestry marks this holy place. Inside the closely guarded chapel sits Saint Heintower, a mortal transformed into an enormous quivering mass of warts and flesh. Attendants worship and tend to Saint Heintower, hoping to be blessed by the wart’s fecundity, all while ignoring the wart’s quiet and desperate pleas for help or death."
+      ],
+      [
+        "Hanging Arch",
+        "What was once a simple piece of architecture has become a morbid statement of vigilante justice. Wrapped with black, stained ropes, the decorative archway often has the desiccated corpses of wrongdoers that have evaded or exploited the law hanging from it. No one knows who it is who does the hanging, but the words “justice is found” is often painted in blood on the stone."
+      ],
+      [
+        "Hemmingdaw's Tapestries",
+        "A small octagonal shop filled with the constant shuffle of looms and strings. They buy surplus fabric to pull apart for threads, regardless of its origins or condition with a no- questions-asked protocol. Rumor has it that even well-groomed hair will be purchased and spun into fabrics."
+      ],
+      [
+        "Hester's Lantern",
+        "Constantly throwing vibrant splashes of light over the street beyond, Hester’s Lantern is a building shaped like a giant lantern...or perhaps it is a giant lantern turned into a house? Either way it has been sculpted by a master’s hand and the multicolored panes of glass delight onlookers."
+      ],
+      [
+        "Horse Tail Candies",
+        "Ironically placed opposite of many barber-surgeon offices, the Horse Tail Candy Shop is known for producing some of the strongest caramels and toffees. Many rumor that they are inedible due to the frequency that the candies pull teeth straight from their sockets."
+      ],
+      [
+        "Howilzer's Humidor",
+        "One of the few tobacco-rolling businesses to have the gold seal of Noble approval on their shop door. They have also had to hire a doorman to keep ruffians from defacing their establishment. The finest pipe weeds and resins may be purchased, provided you get past the door."
+      ],
+      [
+        "In the Arms of the Angel",
+        "A hostel for wayward souls and weary bodies. The caretaker of this building provides food and housing for anyone in need. However, they will only let you leave if someone asks for your freedom and provides a substantial “donation” to the hostel."
+      ],
+      [
+        "Keytooth Tree",
+        "A strange and ominous sight, the husk of a dead tree covered in the tinkling of thousands of abandoned keys. Tied, nailed, or impaled into the gray bark, these keys are left as tokens to thieves who died during a break in. Some claim it is a boon to place a key here, as it keeps away robbers, while some thieves place keys here for good luck."
+      ],
+      [
+        "Leech Lagoon",
+        "While not much bigger than what some might consider a pond, the Leech Lagoon is the main supplier of organic leeches in the city. The dark water and waving reeds hide a multitude of wriggling bloodsuckers. Any creature foolish enough to enter the waters will likely be unable to leave alive, as desiccated corpses wash up on the shores regularly."
+      ],
+      [
+        "Larch Arch",
+        "Twin larch trees have torn up the cobblestones attempting to keep their roots contained over countless years to entwine together into a small entryway. Countless initials and symbols have been inscribed on the hearty bark. Superstition says to never walk through the archway with a corps"
+      ],
+      [
+        "Lord Sandtuss Hall of Taxidermy",
+        "“Those who have left this world are not that far from it!” reads the quote above the door. The glass-eyed features of the once living greet the curious who pay a small fee to wander through the hall. Using the latest embalming, stitching, and sculpture techniques, Lord Sandtuss brings the dead back to life with his artistry. However, it is best not to catch the merry gentleman’s eyes too much, as those who perish within are often added to the collection."
+      ],
+      [
+        "Leaden Post",
+        "Notched and spattered with paint from the numerous impacts it has endured over the years, the post is a grim reminder for all who wander the nearby causeways. Tragedy seems to haunt this stretch of the road and the Leaden Post stands as its unfazed grave-marker."
+      ],
+      [
+        "Mushel's Tower",
+        "A teetering tower that is always under construction and stretches up further than the eye can see. The owners proclaim it the “tallest” building in the city, constantly building upward and repairing it as its structure begins to crumble and visibly sway."
+      ],
+      [
+        "Mound of the Founder",
+        "A great and opulent church is maintained by a dedicated congregation who worship the spirit of the city. Deep inside its vault lies a plinth with the undisturbed ashes of one of the city’s original founders, ashes said to be imbued with the primordial power of the Wurm..."
+      ],
+      [
+        "Nacht School",
+        "A small and somber building at the edge of an abandoned university. Only open at night, the mysterious teacher offers classes on any subject and promises mastery in only a season’s time. However, the price for such classes is in 1d10 years of the student’s life, and those who graduate are visibly aged by the time their class ends."
+      ],
+      [
+        "Necropolis Pyramid",
+        "A towering and ornate stepped pyramid that acts as a mausoleum complex. Millions of bodies are interred in the individual sepulchers that line the pyramid’s stairs and tunnels. It is rumored that as high as the pyramid ascends above ground, so too does it descend below, imprisoning the innumerable restless and waking dead."
+      ],
+      [
+        "The Olden Stone",
+        "With its edges polished by the millions of hands that have touched its grainy surface the Olden Stone is a hallmark of the City. A small bronze plaque sits at its base, claiming that the hunk of stone is the eldest in the city and those brave enough to touch it are likely to feel a zing of power. Particularly powerful mediums are said to go insane when touching the rock, as the combined knowledge of ages overpowers them."
+      ],
+      [
+        "Owl Shack",
+        "The whereabouts of the Owl Shack is a closely guarded secret. Run by an eccentric older woman, her apprentice, and small demonic son, some of the best potion ingredients can be purchased here. Barter and trade is also welcome, especially apples."
+      ],
+      [
+        "Paradis Watch",
+        "Reaching nearly as high as one of the Spires, this huge watchtower looms silently over its residents. While other buildings may sport flags, murals, pockmarks from explosions, or a myriad of other physical adornments, Paradis Watch remains stoic gray granite. It continues its silent sentry throughout the ages."
+      ],
+      [
+        "Player's Tribute",
+        "A massive wooden wall in constant need of repairs holds countless masks of actors that have been lost to time or have met tragic ends. Fraying ribbons and rusted bells greet those who come to mourn the artists lost."
+      ],
+      [
+        "Quay of Egos",
+        "A small and crumbling amphitheater covered in graffiti and tattered fliers. Thespians and performers play to empty seats or solitary audience members, baring their souls to the wayward and curious few who will listen."
+      ],
+      [
+        "Reliquary Slums",
+        "A once immaculate and grandiose necropolis has been transformed into housing for a population of the city. These locals make their homes in the tombs and sarcophagi, carefully carving and modifying the buildings into living spaces while also caring and maintaining the bones of the deceased within. Shrines of the newly deceased quickly pop up in the streets."
+      ],
+      [
+        "San Jab",
+        "A raggedy body-mod parlor with a motif of various saint-like figures being impaled. Behind dusty windows, individuals come from all walks of life to have something about their appearance altered, for better or worse. As payment, an alms is placed at the foot of one of the saintly statues; if the statue weeps blood, the alms are accepted."
+      ],
+      [
+        "Second Hand Shop",
+        "A shady and dilapidated storefront with a sign depicting a bucket full of hands. The store buys and sells hands and for a small additional fee will graft them to your body. Characters can sell found hands for up to 1d3 coin, or their own for a flat rate (5 coin non-dominant, 10 coin dominant)."
+      ],
+      [
+        "Seebee Jeebee's",
+        "A legendary bar and venue, known to host some of the most prominent and up-and-coming bands and acts. Despite its fame and importance to the city’s culture, the place remains a cheap, filthy, and irredeemable dive, qualities that everyone agrees make it great."
+      ],
+      [
+        "Snowy Clocktower",
+        "The chimes of this clock have kept generations of city dwellers informed of the time. It stands as a bastion of normalcy in a place that is constantly bubbling with oddities. However, its snowy covering is not due to a weather phenomenon and is instead due to the layers and layers of excrement left behind by a colony of dire pigeons. Lots are drawn every year for the unfortunate soul that must scrap off the time-face."
+      ],
+      [
+        "Soup Kitchen",
+        "Free to all who enter there is always food to be had regardless of the hour. A surly head cook keeps order in the back with fearsome growls and shouts. It is a mystery where all of the ingredients come from, as the stoves are always on and hot stews ready to be ladled."
+      ],
+      [
+        "Swifts Sweeps",
+        "The only union of certified chimney sweeps in the city. They have a single storefront where appointments can be made. They are easy to spot moving from location to location as they all have a very pristine and regimented uniform, giving them a regal appearance despite the soot. Rumor abounds that within the shadow of the Swifts Sweeps is a highly organized thieves guild, but it is only speculation."
+      ],
+      [
+        "Speck's Livery",
+        "A well-kept establishment with healthy creatures for sale. However, all of the animals come with dappled coats in strange patterns. These unique patterns cannot be found anywhere else in the city. Workers claim the animals take on such patterns because of the speckled beans fed to them."
+      ],
+      [
+        "Stabbing Wall",
+        "Pockmarked from years of abuse, this brick wall is impaled with various small knives pinning letters of hatred to the cracking exterior. When a knife and letter finally fall out of the crumbling mortar, it is said the intended person on the letter has died."
+      ],
+      [
+        "The Tap",
+        "An infamous watering hole where cups and other vessels are forbidden and all patrons must bend their neck beneath the proverbial tap. Some bring their own cushions from home to rest their heads, though this is frowned upon by local patrons and staff."
+      ],
+      [
+        "Tippet's Basement",
+        "Discovered after its original owner disappeared without warning, this dilapidated building holds a strange secret. The floors of the basement descend with seemingly no end, each sub-floor growing stranger with every descent. Delvers have managed to reach nearly 500 floors in depth and report architecture and monstrosities that defy explanation."
+      ],
+      [
+        "Three-Legged Market",
+        "A ramshackle grouping of vendors selling everything from fruit, shoes, baskets, swords, and street food. Known for their swift exit whenever authority is nearby and being able to set up almost anywhere."
+      ],
+      [
+        "Umbra Park",
+        "By day, Umbra Park is a quiet and pleasant public space filled with dense vegetation and winding paths. Few stay near the park after sunset, as stories of shadowy beings that prowl the park frighten off all but the most daring of individuals. It is not unheard of to find the teeth and finger-bones of late-night victims hidden away in the beds of vegetation throughout the park."
+      ],
+      [
+        "Vermilion Fields",
+        "A tiny public park filled with all manner of red colored plants. No one knows why they grow red, as a plant removed from the area will gradually lose its ruddy hue. Eating any of the plants will cause the individual’s mouth to be stained bloody red for 1d4 hours."
+      ],
+      [
+        "Warbled Word",
+        "Encrusted with bespoke woodwork and painted a series of drab, monotone colors, this shop front does not catch the eye. Within is the unmistakable garble of bad poetry and unwashed hair. A regular meeting place of creatives and pseudo-geniuses."
+      ],
+      [
+        "The Watertower",
+        "A tall and cylindrical silo of beaten metal and wooden scaffolding. Climbing the tower provides a safe vantage point for spotting and hiding out. Those who rest here for the night will not be bothered by night time encounters."
+      ],
+      [
+        "Whistle Stacks",
+        "Huge pipes of varying diameter jut towards the sky. On a timer that many denizens use before sundials or watches, the pipes bellow out steam and other byproducts in a staccato of whistles and whines. Housing around the pipes is very cheap as few can sleep through such noise."
+      ],
+      [
+        "Whipstitch",
+        "Almost one hundred hands are constantly at work in this textile mill. They work on commission and mostly independently from each other. There are specialists in button making, tailoring, lace weaving, and a dozen more professions. Each of these artisans is highly skilled and very ornery."
+      ],
+      [
+        "Xum's Watch",
+        "A crooked tower, said to be occupied by a cruel magician. Few have attempted to enter and fewer have returned. All who survive tell stories of walls made of flesh, bone, and teeth."
+      ],
+      [
+        "Yellow Yard",
+        "An empty lot overtaken by a sea of gold and green dandelions. Everything from parties, heated scraps, proposals and heartbreaks have happened in this seemingly empty lot. A history recorded only by the dandelions."
+      ],
+      [
+        "Zoo",
+        "A park and series of enclosed buildings make up the layout of this curious and frightening zoo. For a nominal fee, viewers may enter and gaze upon the countless animals and creatures held in enclosures and cages. Some of the creatures speak, and cautiously plead to be set free..."
+      ]
+    ]
+  },
+  "Cobblestone": {
+    "Encounters": [
+      [
+        "1d6 Bystanders",
+        "Helpful",
+        "Busy, would rather not be disturbed",
+        "Irate, hostile if bothered"
+      ],
+      [
+        "1d8 Demons",
+        "Helpful",
+        "Busy, would rather not be disturbed",
+        "Arguing with each other, hostile if bothered"
+      ],
+      [
+        "Giant Pest",
+        "Torpid, just ate",
+        "Hungry, will attack unless given food",
+        "Frenzied, attacks anything nearby"
+      ],
+      [
+        "1d6 Brick Ticks",
+        "On the move, hostile if bothered",
+        "Hiding, ready to ambush a passerby"
+      ],
+      [
+        "1d3 Aristocrats and 1d6 Soldiers",
+        "Busy, hostile if disturbed",
+        "Bully and confiscate any weapons the characters have",
+        "Claim characters are breaking a law and have the soldiers apprehend them or pay 2d10x10 coins"
+      ],
+      [
+        "1d3 Giant Pests",
+        "On the move, hostile if bothered",
+        "Hungry, will attack unless given food",
+        "Frenzied, attacks anything nearby"
+      ],
+      [
+        "1d6 Guards",
+        "Bored, demands 1d20 coins or arrest if bothered",
+        "Patrolling, hostile if bothered",
+        "Hostile, attempts to accost characters for an obscure crime"
+      ],
+      [
+        "Dire Pigeon",
+        "Curious, follows in case of food",
+        "Hungry, will attack unless given food",
+        "Frenzied, attacks anything nearby"
+      ],
+      [
+        "1d3 Verminous Swarms",
+        "Hungry, will attack unless given food",
+        "Frenzied, attacks anything nearby"
+      ],
+      [
+        "1d4 Fists of the City",
+        "Patrolling, hostile if bothered",
+        "Singles out characters for violence"
+      ],
+      [
+        "Pack of 1d6 Animals",
+        "On the move, hostile if bothered",
+        "Hungry, will attack unless given food"
+      ],
+      [
+        "Gang of 1d4 Thieves and 1d6 Street Toughs",
+        "Helpful, for a steep price",
+        "Demands 1d6x10 coins or attack",
+        "Singles out characters for violence"
+      ],
+      [
+        "Cobble Crab",
+        "Torpid, just ate",
+        "Hungry, will attack unless given food",
+        "Hiding, ready to ambush a passerby"
+      ],
+      [
+        "Garbage Shambler",
+        "Torpid, just collected garbage",
+        "On the move, hostile if bothered",
+        "Frenzied, attacks anything nearby"
+      ],
+      [
+        "Court Spider",
+        "Hiding, ready to ambush characters"
+      ],
+      [
+        "Kruksgrippen",
+        "Hiding, ready to ambush a passerby"
+      ],
+      [
+        "Raid of 1d8 Soldiers and 1d4 Fists of the City",
+        "Hostile to anything caught in their path"
+      ],
+      [
+        "Mob of 1d20 Bystanders and 1d10 Street Toughs or Demons",
+        "On the move, hostile if bothered",
+        "Demands characters join them and their cause",
+        "Singles out characters for violence"
+      ],
+      [
+        "Crawling Wall of 5d10 Brick Ticks",
+        "Frenzied, attacks anything"
+      ],
+      [
+        "Noble Parade",
+        "Hostile to anything caught in its path"
+      ]
+    ],
+    "Changes": [
+      ["Penny Allergy", "You are allergic to copper coins; touching them causes painful rashes and hives to appear"],
+      ["Malignant Watcher", "Someone or something is always watching you; they hide just out of sight and follow your every step to sabotage and harm. You can hear their sadistic chuckles from time to time"],
+      ["Grey Tongue", "Food and drink loses all taste. You take no joy or pleasure from eating, only using it as fuel for your body"],
+      ["Enemy of Dogs", "Canine beasts and creatures are always indifferent or hostile to your presence and never friendly. They will single you out in attacks and become unnaturally aggressive"],
+      ["Vicious Tapeworm", "A hungry and violent tapeworm colony takes residence in your bowels. You must eat double the amount of meals you normally would or risk starvation"],
+      ["Street Blindness", "You are incapable or seeing or remembering streets and directions. Unless you are joined by a companion, you will always become lost for hours at a time"],
+      ["Plague Bringer", "Your body becomes a vector for the pestilence of the city. Touching you or being within arm’s reach of you while you are infected with a disease automatically risks infection"],
+      ["Harlequin’s Fear", "You cannot stand to have your face seen or out in the open. You take up wearing masks or face-coverings and are filled with dread any time you do not cover your face"],
+      ["RULES OF THE STREET D20 COBBLESTONE CHANGES (CONTINUED)"],
+      ["Suet Sweats", "Your sweat becomes sweet and sticky, attracting the attention of birds, bugs, and rats. Excessive sweating causes the creatures to enter a dangerous feeding frenzy."],
+      ["Echoing Mummers", "You are haunted by the words and conversations of long-dead denizens. Even abandoned and empty places are plagued with distracting and incessant whispers. What is odd is they sometimes mention you..."],
+      ["Most Dangerous Game", "An aristocrat and their murderous house have selected you to be their quarry. They send a jovial letter introducing themselves and formally declare their intent to hunt you for sport. They will not cease unless killed..."],
+      ["Aversion to Baths", "You develop an unnatural dislike of baths or hygiene. Your body begins to reek and unpleasant microbial life blossoms in your diseased form. Only intervention or force can make you clean"],
+      ["Sewer Allergies", "Being in the presence of sewer tunnels or their waters causes a severe allergic reaction. You become overcome with a fit of coughs and runny nose. There is a 1-in-6 chance your eyes swell shut and blind you as long as you are within a sewer"],
+      ["Hunger of the Bricks", "You know the brick walls and floors of the city will attempt to devour you after a prolonged time. No one believes you, but you must avoid bricks as much as possible. You can hear the hungry gullet of the city, waiting to swallow you whole..."],
+      ["Heart Void", "Something in you snaps and all emotion fades from you. Your psyche is a grey void without joy, sadness, anger, or fear. You may become prone to dangerous or risky behavior in search of any emotional stimuli"],
+      ["Lost Name", "You have lost your name and with it a portion of your identity. You are no longer recognized by many and must seek out your name or take up a new one. Be wary, for if someone finds and takes your old name, they shall inherit all that you once were"],
+      ["Nibbler Infestation", "An infestation of some unknown pest is constantly eating holes in your clothing. Clothing in your care or ownership lasts one day before holes and perforations begin appearing"],
+      ["Thieving Fingers", "Your fingers and hands steal things of their own accord. You must be cautious anytime you are out, as you will inexplicably find your hands and pockets filled with items and coins, along with the ire of their owners"],
+      ["Dreams of a Worm", "1d6 times a week you are visited by the same horrifying nightmare that prevents sleep. All around you, a slithering monster stirs. You are trapped and unable to move; slowly the monster devours you whole all while whispering the names of those it will devour after you..."],
+      ["Sickness of Gold", "You become addicted to chasing and amassing personal wealth. The compulsion requires you to seek out wealth and only act in ways that would gain you more wealth. There is nothing you won’t do to make a quick coin..."]
+    ],
+    "Boons": [
+      ["Verminspeak", "You are able to speak to the vermin of the city. Rats, bugs, and all other form of pest can hear your voice and answer back in a way you understand. Many will assist you for a proper tribute of food and drink."],
+      ["Vacant Nostrils", "You lose most sense of smell, a blessing in the city. While you cannot smell pleasant things, you are also immune to becoming sickened or compelled by scents or odors."],
+      ["Mysterious Benefactor", "A secretive being has taken an interest in your endeavors. They will never reveal themselves but they will make their presence felt, acting in the shadows to assist you."],
+      ["Friend to Cats", "Feline creatures and beasts take a liking to you. Cats, sphinxes, and other comparable beings are either indifferent or friendly when they meet you; they will help you in small ways so long as you remain on their good side."],
+      ["Whispers of Gold", "The secret and subtle sound of gold becomes known to you. If you close your eyes and listen carefully for a minute, you can know the location and approximate amount of gold, coins, and treasures within 50 feet of you."],
+      ["Demon Blood", "Demonic ancestry or exposure changes you. Demonic blood, now awakened, flows through your veins. Gain a random Demon Ability (pg. 40)."],
+      ["Quickened Sleep", "Your physiology changes to need less sleep. Each night you only need 1d6 hours of sleep to be fully rested, although you constantly appear tired and haggard."],
+      ["Noblesense", "Keen senses allow you to detect the abominable presence of the Nobles. You get a ringing in your ears whenever a Noble or one of their lackeys is nearby, growing almost painful the closer they are to you."],
+      ["Sordid Guts", "Your body becomes capable of digesting the most horrid of meals. You gain advantage on avoiding sickness or disease from befouled foods. You can also acquire sustenance from booze, leather scraps, or bone meal in place of actual food."],
+      ["Cobble-tread", "Cracked and leathery callouses coat the entirety of your feet. You are always counted as wearing heavy work-boots and can walk over broken glass, hot coals, and caltrops without danger."],
+      ["Cement Molars", "Your teeth harden to an incredible density. You can bite through any metal weaker than steel with some difficulty and can shatter most tools and weapons with a forceful bite."],
+      ["Visions of a Hound", "You are haunted by visions of a bloody and terrifying hound. Anytime you are in danger or someone is in need of saving, the hound will appear at the edge of vision, silently watching you. Only you can see it, only you know what it wants..."],
+      ["Tunnel Walker", "The numberless tunnels of the city speak through you. If you meditate in a pipe, tunnel, or passage for 10 minutes, you can reliably determine where the tunnel leads and what dangers you may encounter along the way."],
+      ["Noble’s Eye", "A dangerous power awakens in your eyes. Your eyes take on a shimmering golden hue and become capable of seeing the approximate value of any object in your vision."],
+      ["Internal Map", "Your remember all streets and directions. As long as you have seen or heard about a location within the past month, you can reliably find it again by walking or pointing to it on a map."],
+      ["Robber’s Hand", "A useful third arm springs from your body. Imperceptible under clothing, the third arm is quick and dexterous, able to wield tools or weapons or swiftly steal from unsuspecting pockets."],
+      ["Face in the Crowd", "Your visage and demeanor becomes unassuming and undetectable. When hiding, you can quickly and easily blend into crowds, vanishing from injudicious sight."],
+      ["Coin Eater", "You can eat coins in place of meals. Rather than eat meals, your body can devour the equivalent value in coins to no ill-effect."],
+      ["Charlatan’s Tongue", "You become physiologically adept at telling lies. Your tongue takes on a silvery hue, and you can tell small or believable lies without detection and gain advantage on telling bold or outlandish lies."],
+      ["Street Whispers", "The streets tell you who has walked them. If you sit on a street or road, bury a rod into it, and place your temple to the rod, you can reliably learn who has been on the road and how long ago they passed over it."]
+    ],
+    "Factions": [
+      "an overlord group",
+      "a noble family",
+      "a grand guild",
+      "a mage cabal",
+      "an occult circle",
+      "a religious institution",
+      "the enforcers",
+      "a crime syndicate",
+      "a high guild",
+      "a cult",
+      "a college",
+      "a political party",
+      "a neighborhood watch",
+      "a criminal gang",
+      "a lesser guild",
+      "an artist circle",
+      "a local business",
+      "the local anarchists"
+    ],
+    "Features": [
+      ["Abandoned Blocks",
+      "Broken windows and an eerie silence grip the area. Entire blocks have been abandoned and left in disrepair, leaving behind perfect locations to camp out in or even set up a hideout (pg.84).",
+      "Bazaar",
+      "A fantastical open-air market filled with only the most luxurious goods. From rare spices from halfway across the world to strange goods kept from the common folk, if it can be bought, it can be procured at this market of the shopping elite."],
+      ["Canal System",
+      "Deep canals take the place of streets and causeways. Gondolas, barges, and individual rafts make up a majority of the traffic, while bridges and piers are tightly packed with pedestrians."],
+      ["Consignment Boutique",
+      "Shops trafficking in rare, historical, and expensive treasures. Aristocrats are always shopping for the most fashionable old-world treasures and shop owners are quick to buy up art, artifacts, and priceless trinkets."],
+      ["Dining Mile",
+      "Rows of restaurants and cafes form a more “upscale” dining experience. The insides have a pleasant ambiance and seating for a more relaxed dining experience. The food is alright."],
+      ["Docks",
+      "Strange ships and mountains of cargo. Busy traders, weary travelers, and hopeful immigrants congregate on the crowded docks and piers. Exotic goods can be found here at wholesale price as well as fare to distant lands by boat."],
+      ["Leisure Boutiques",
+      "Esoteric and discreet places of recreation. From exclusive lounges serving psychotropic teas to fragrance shops with bizarre and otherworldly perfumes, it is a hub of expensive and sometimes dark pleasures for the ultra-wealthy or elite."],
+      ["Necropolis",
+      "Tombs and crypts take the place of homes and shops. An expansive resting place for the dead has been built alongside the living. Enterprising necromancers and grave-robbers frequent such places for “materials” and coin."],
+      ["Public Park",
+      "An open space of manicured green and weathered sculptures. One of the few places locals feel safe congregating during the day, oblivious to other exchanges and transactions."],
+      ["Reclaimers",
+      "An enormous junkyard and market sifted and picked through for valuables. Hundreds of common folk comb through the scrap for possible valuables or items that can be repaired. Little ever goes to waste and for many it is the best choice for affordable luxuries and goods."],
+      ["Revelry Quarters",
+      "Heavily scented perfumes waft from this section of the city as workers wait for clients outside. Well-obscured from the heavily trafficked streets, it is a chance for raucous fun or discrete pleasure to those who frequent it."],
+      ["The Stacks",
+      "Monoliths of stone and wood, crumbling housing that blots out the sun. A complex of high-density and cramped living quarters for common folk. Multiple families or generations live in a single unit as coin meets the needs but doesn’t allow for luxuries."],
+      ["Thespian Sector",
+      "Theaters of all kinds line the streets of this area, from intimate shows to grand performances. Actors and musicians intermingle with attendees at elegant soirees after the program."],
+      ["Thrift Shop",
+      "Rows of shops with worn clothes, household items, trinkets and antiques. There’s a slim chance of finding a valuable heirloom and the shopkeeper may be able to provide local gossip."],
+      ["Vast Market",
+      "An open market with hundreds of stalls selling foods, clothes, and household commodities. Bustling with people, this market offers basic to fanciful goods that meet the needs of most."],
+      ["Villa",
+      "A single grandiose estate takes up the entirety of this area. Grounds framed by trees, topiaries, and intricate landscaping; the interior is adorned with gems and gold leaf. Only those with connections or an invitation may visit this private mansion."],
+      ["Vintner’s Gallery",
+      "Wineries and breweries with historic renown. Establishments offer tasting tours of award-wining and sophisticated brews, with some vintages costing as much as a mansion. Each vintner guards their trade secrets, even at risk of their lives."],
+      ["Zoo",
+      "Exotic animals are placed on display to entertain the wealthy.These creatures are adorned with jewels and cloaks to appeal to the clientele. Rumor has it that live and dead specimens can be procured for a price..."],
+      ["Drinking Mile",
+      "Rows of pubs, taverns, and breweries. From cheap grog to strange and mysterious brews, there is a variety of common and uncommon beverages to imbibe and enjoy."],
+      ["Entrance to Spires",
+      "A way to the lair of the Nobles. Either opulent and heavily guarded or secret and known to only the entitled few. Dare you enter the Spires above? (pg. 138)"],
+      ["Entrance to Undercity",
+      "A road to the city buried below, as innocuous as a broken wall in a cellar or as striking as a gaping canyon in the middle of a city block. Entire communities live below these streets, sunlight being a rare treat to many that call the Undercity their home (pg. 98)."],
+      ["Faction Headquarters",
+      "Be it a massive fortress of industry and  action or a hidden room of conspiracy and secrecy. The base of operations or branch of a prominent faction (pg 57)."],
+      ["Gastronomical Boulevard",
+      "Exclusive and “sophisticated” dining experiences for the wealthiest clientele. Only the rarest and freshest ingredients are served within. Wait-lists, dress codes, and prices ensure only specific customers are ever seated."],
+      ["Gated Community",
+      "Manicured homes, quarantined by thick walls and iron bars. Affluent businesses and homeowners have created a place to escape from the “violence of the city.” Encounters are less common here as residents are quick to report “troublemakers” and folks who seem out of place."],
+      ["Grease Street",
+      "A road slick with cooking grease from the rows of street food vendors. A place to grab an affordable and colorful bite to eat, with common folk dining here at all hours of the day. Despite the sanitary and digestive risks, it remains a tried and true culinary hot spot."]
+    ],
+    "Issues": [
+      [
+        "Burglary Rise",
+        "Break-ins and theft cases grow in number. Gangs of enterprising thieves and rogue opportunists target rich and poor alike. Folks are cautious to flash coins in the street and wealthier individuals tighten security around their estates."
+      ],
+      [
+        "Conformity Laws",
+        "New laws to ensure “perfect citizens.” A series of sweeping regulations have been enacted to place limits on “unbecoming behavior and degeneracy” in the population. Common folks and travelers avoid these streets for fear of being fined or worse..."
+      ],
+      [
+        "Construction",
+        "A clamor of equipment is heard as repairs to infrastructure and facades are made. This disruption interrupts the daily flow of traffic and is a hindrance to locals and travelers alike."
+      ],
+      [
+        "Crumbling Foundation",
+        "The entire area is sinking into the ground. Weak or soft foundation is causing streets and buildings to rapidly sink; some have already been fully buried. It won’t be long before this part is paved over and joins the Undercity."
+      ],
+      [
+        "Cult",
+        "Niche and dangerous beliefs spread among the affluent. A cult has risen up and grown in popularity. The members have strange and dangerous convictions while the truly devout begin to accrue resources for some nefarious purpose."
+      ],
+      [
+        "Decaying Infrastructure",
+        "Roads, bridges, and public works crumble. Negligence and misappropriated funds have left important pieces of infrastructure to ruin. Common folk warn of the dangers and it will not be long before disaster strikes."
+      ],
+      [
+        "Demagogue",
+        "A charismatic leader has grown into a religious figure. Through charm and guile a single individual has grown a cult of personality around them. Devout followers proselytize and serve unquestioningly, unaware of their leader’s true goals and motives..."
+      ],
+      [
+        "Demolition",
+        "Entire neighborhoods are under threat of demolition. Dozens of homes have been slated for destruction under the guise of “renovation and modernization.” Many folks are without shelter or a place to live, and the authorities turn a blind eye to their suffering."
+      ],
+      [
+        "Grand Construction",
+        "Whole blocks are demolished for a grand structure to be erected. No one knows what is being built, or how long this project will take. It is rumored that it will indefinitely change the skyline and city; the toll for this is paid in countless coin and lives."
+      ],
+      [
+        "Grand Ritual",
+        "A cabal of powerful sorcerers have gathered for a singular purpose. An arcane ritual is under way and the city quakes as dangerous magic gathers. There is a terrible danger if the ritual goes awry, something the sorcerers seem dismissive of."
+      ],
+      [
+        "Guard Crackdown",
+        "Guards have begun a show of force on the populace. Citing ancient laws or magisterial indifference, the City Guard has been terrorizing citizens for minor infractions. Brutal attacks and lethal force has been used, leaving folks terrified and shocked."
+      ],
+      [
+        "Hunting Season",
+        "With no woods to hunt in, the elite take to the streets. Targets are either stalked or captured beforehand to provide a chase. This is an unfortunate end for those who go missing and are unable to escape."
+      ],
+      [
+        "Kidnappings",
+        "Children and adults are reportedly missing while authorities turn a blind eye. One can only imagine what happens to these victims after being captured and folks fear leaving their homes."
+      ],
+      [
+        "Infestation",
+        "Swarms of diminutive creatures run rampant throughout the city. Plaguing homes and civilians, vermin cause illness and filth as they congregate in mass. Large groups of ravenous vermin become genuine dangers to those unprepared."
+      ],
+      [
+        "Lawless",
+        "The elite are beholden to no laws here. A hedonistic “utopia” has been established for this collection of the ultra-wealthy. All actions and desires are permissible, no matter how reprehensible."
+      ],
+      [
+        "Mage Standoff",
+        "A tenuous ceasefire of powerful magic. Schools of powerful mages have been waging cataclysmic magical warfare. They are at peace for the time being, but when that peace breaks, the collateral violence will be terrible."
+      ],
+      [
+        "Militarized Security",
+        "Martial law is in effect. The typical guards have been replaced with a dangerous and heavily armed military force. With curfews and regular patrols, it is a genuine hazard to be out in the streets."
+      ],
+      [
+        "Plague",
+        "A dangerous ailment sweeps through the streets. Piles of bodies fill the lower districts while sickness grips the population. Unprotected travel through here risks infection or worse: spreading it to other areas of the city."
+      ],
+      [
+        "Pollution",
+        "Industry and poor sanitation has caused a pub ic health crisis. Whether it is miasmatic smog drifting through the air or effluent in the water supply, common folk become ill and desperate as sickness grips the area."
+      ],
+      [
+        "Private Guards",
+        "Wealthier individuals have hired private security forces to contend with the “systemic rise in crime.” These individuals are loose-cannon mercenaries and now operate with legal immunity."
+      ],
+      [
+        "Sewage Overflow",
+        "The stench of black water permeates the air when the sewage system is blocked. Backwater floods lowlying homes and streets; nothing can be fixed until the source is cleared. Foul sludge remains even after it has drained."
+      ],
+      [
+        "Sinkholes",
+        "In an instant, the ground cracks and opens up. Sinkholes of varying sizes swallow buildings and people. Those that survive are greeted by the Undercity and its denizens, although the peace is tenuous as the surface quickly prepares to fill the holes."
+      ],
+      [
+        "Sovereign Lords",
+        "A micronation has formed within the city. Declaring itself a sovereign nation, the lords of this area begin setting up their own jurisdiction and rules. These lords are deluded idiots at best and dangerous megalomaniacs at worst."
+      ],
+      [
+        "Teetering Megastructure",
+        "The foundation of a monolithic building has deteriorated substantially. Tenuous efforts at fixing it are in vain and what is left supporting this megastructure is on the brink of collapse. Such a collapse would spell doom for the entire area."
+      ],
+      [
+        "Toll Checkpoints",
+        "A series of paid security checkpoints have been established. Toll gates costing as much as a day’s wages at best or a week’s wages at worst limit the flow of traffic. Those who can afford it move freely, while those who cannot are trapped."
+      ],
+      [
+        "Violent Crime",
+        "Assault, robbery, and murder are common occurrences in these parts. Authorities do not care and refuse to assist those in need. People are left to their own devices to repair the damage."
+      ],
+      [
+        "Wealth Disparity",
+        "Money is no object here. The aristocrats here have amassed so much wealth that they have destroyed the local value of the currency. Every good and service here costs two-hundred times its normal cost."
+      ]
+    ],
+    "StreetPrefixes": [
+      "Stockpile",
+      "Rust",
+      "Bellowbird",
+      "Tanner",
+      "Seacrawler",
+      "Lover’s",
+      "Extempliary",
+      "Park",
+      "Officiates",
+      "Blood and Gems",
+      "Barber",
+      "Shiv",
+      "Harken",
+      "Executioner",
+      "Pigeon",
+      "Cat Burglar",
+      "Saltmoor",
+      "Broadsword",
+      "Sweetgum",
+      "Drake Bone",
+      "Cross-bow",
+      "Piss",
+      "Jeri’s",
+      "Dye-maker",
+      "Caravan’s",
+      "Kingmaker",
+      "Copper",
+      "Thirteenth",
+      "Jackdaw",
+      "Wicker",
+      "Saint-blood",
+      "Eggshell",
+      "Whispering",
+      "Tar and Feather",
+      "Grey",
+      "Weaver",
+      "Pig-sty",
+      "Smithy",
+      "Noble-spit",
+      "Hang-man",
+      "Mosaic",
+      "Brick Breaker",
+      "Belt Maker",
+      "Peasant Skin",
+      "Main",
+      "Soot",
+      "High Rope",
+      "Masque",
+      "Fell Water",
+      "Worm Spine"
+    ],
+    "StreetSuffixes": [
+      "Causeway",
+      "Overlook",
+      "Terrance",
+      "Step",
+      "Avenue",
+      "Dead-End",
+      "Drive",
+      "Turn-About",
+      "Center",
+      "Circuit",
+      "Street",
+      "Alley",
+      "Bridge",
+      "Highway",
+      "Crest",
+      "Close",
+      "Choir",
+      "Run",
+      "Lane",
+      "Way"
+    ],
+    "StreetAppearances": [
+      "Rain spouts carved like beasts and gush water at the unsuspecting.",
+      "Everything is covered in red dust from inferior red clay roof tiles.",
+      "Peppered with hundreds of memorials from road rage deaths.",
+      "Swarms of flies from the sewers cake every surface.",
+      "Street is constantly bombarded by pigeon excrement.",
+      "Major parade route, windows and streets are reinforced.",
+      "Strings of paper lanterns above street cause a perpetual fire hazard.",
+      "Pillars of stone hold up all of the buildings with an air of overarching oppression.",
+      "Every surface is covered with fliers and graffiti.",
+      "Sewer pipes run close to the surface causing near constant flooding.",
+      "Crowded and noisy from small racetracks and sporting games",
+      "Cobblestones are enormous and uneven, rumor is that anyone who trips over the cobblestones is destined to die soon…",
+      "As soon as the sun sets, packs of wild dogs pour out from alleys.",
+      "Window boxes are full of sickly smelling flowers",
+      "Streets and building mortar made with bone-meal and teeth.",
+      "Eerie screaming visages are set or carved into every doorway.",
+      "Street runs beneath a ruined palace, utter darkness save for candles.",
+      "Every surface is covered in bright, garish designs and colors.",
+      "Street winds, twists, and loops like the body of a dead snake.",
+      "Buildings made from red stone spolia, its origins lost to time…",
+      "Road is paved with querns and millstones stolen from farmers.",
+      "Fires and pit ovens burn openly on the smoke-filled street.",
+      "Tall makeshift bell-towers cap every building and ring constantly.",
+      "Crumbling sarcophagi are used as foundation for buildings.",
+      "Every building and denizen is decorated with spirals, even the curved street seems to follow this obsessive configuration…",
+      "Garbage has been left to pile into massive steaming drifts",
+      "No one leaves their homes, instead traveling by covered walkways.",
+      "The street is a single uninterrupted slab of blackened shale.",
+      "Dark and ominous statues of Nobles watch the street from pillars.",
+      "Cages with imps act as town criers every block, they mostly just spit.",
+      "Motifs of spiders decorate beams and corners, some appear to move…",
+      "A grim and curious silence is observed for all but one hour a day.",
+      "Buildings made sturdy wood supports and walls of painted canvas.",
+      "Roofs and walkways are plated with beaten copper, hot to the touch.",
+      "Disaster has sundered this place, weary rebuilding noisily continues.",
+      "Everything is melted or cracked, nothing solid lasts for long here…"
+    ],
+    "NPCNames": [
+      "Dagden",
+      "Judin Forswoth",
+      "Marquez Commons",
+      "Elmira Cazz",
+      "Castor Vilu",
+      "SlimBob",
+      "Borneo Velasquez",
+      "Toulouse Rapshire",
+      "Astrid Vapers",
+      "Punji Jammen",
+      "Archer Flativious",
+      "Marigold Stu",
+      "Hippolyta",
+      "Jun Sandalwood",
+      "Septimus",
+      "Chip Greasley",
+      "Jorno",
+      "Limon Gatz",
+      "Sam Toole",
+      "Martin Swallsword"
+    ],
+    "NPCJobs": [
+      "rope maker",
+      "freelance recycler",
+      "ham packer",
+      "personal assistant",
+      "barber",
+      "brick tick exterminator",
+      "pigeon wrangler",
+      "furnace operator",
+      "mason",
+      "wanted poster artist",
+      "carpenter",
+      "cooper",
+      "animal breeder and wrangler",
+      "tour guide",
+      "gong farmer and raker",
+      "accountant",
+      "general craftsman",
+      "fledgling alchemist",
+      "artisan",
+      "grocer"
+    ],
+    "NPCQuirks": [
+      "Uncanny ability to make anything into an instrument.",
+      "Can’t read, but can speak most languages.",
+      "Known to throw rocks at parades.",
+      "Has installed escape hatches in more than one Spire.",
+      "Has a twin with the same name.",
+      "Has too many dead spouses and no convictions….",
+      "Always has knives hidden in their clothes.",
+      "Had tongue cut out by enraged Noble.",
+      "Has more dropped charges than teeth.",
+      "Overseer of a large, and loyal, feral cat population.",
+      "Incredible knowledge of secret tunnels.",
+      "Will take in any stray or hurt animal.",
+      "Close friends with a powerful persona.",
+      "Literally two left feet, famous ballroom dancer.",
+      "Knows a fence for just about anything.",
+      "Perpetually questions the need for flags.",
+      "Secretly practices dangerous alchemy.",
+      "Parents were absurdly wealthy and powerful.",
+      "Looking for a curious and hidden artifact.",
+      "Boring, no inner life."
+    ],
+    "ShopNames": [
+      "The Hairy Frog Inn",
+      "The Spot II Inn",
+      "The Foggy Step Tavern",
+      "Saltpeter’s Corner Cafe",
+      "Zip’s Hole in the Wall Tavern",
+      "From the Cinders (formerly the Spot)",
+      "Mrs. Sweetwater’s Fancy",
+      "The Squealing Rat Shack",
+      "Sal’s Tools",
+      "Ursa & Daughters",
+      "Pipeshack",
+      "South Bend Market",
+      "Blind Tiff’s Bodega",
+      "Soggy Dog & Co.",
+      "Wicker’s Rest  Transportation",
+      "Brick and Book",
+      "Chicory ‘n Poke",
+      "Quirrel’s Curious Collects",
+      "Beetle’s Pop-Up",
+      "Mork & Borgs"
+    ],
+    "ShopQuirks": [
+      "Mysteriously appears in new places.",
+      "Cat in the window, knows many things.",
+      "Offers payment in blood, 1HP per value.",
+      "Operates all hours and all days.",
+      "Powerful Demon locked inside, makes bargains.",
+      "Talking tree growing through in shop’s center, cruel but powerful.",
+      "Offers discreet and speedy delivery.",
+      "Panic room under shop.",
+      "Illegal backroom inventory.",
+      "Will fence ANYTHING.",
+      "No currency, only barter.",
+      "Can’t physically leave until you buy something.",
+      "Front for a cult, looking for recruits or help.",
+      "Owner has friends in high places, capable of making introductions.",
+      "Accepts credit, with interest of course.",
+      "Sits on an entrance to the Undercity.",
+      "Criminal connections, looking for “help”.",
+      "Floorplan is always shifting and hungry….",
+      "Time moves fast, lose 1d6 hours when leaving.",
+      "Never asks questions"
+    ],
+    "Items": [
+      "Solid silver gear",
+      "Loaf of stale bread",
+      "8 inches of gold chain",
+      "Copper drinking vessel",
+      "Pristine glass lens",
+      "Mysterious egg",
+      "Package of fine sewing needles",
+      "Small wooden sculpture of a deer",
+      "Meat hook",
+      "Empty crate",
+      "Discarded handkerchief",
+      "Tin of food",
+      "Empty “medicine” bottle",
+      "Pair of shears",
+      "Small keg of alcohol",
+      "Delicate silver ring (not hand)",
+      "Soiled fur cap",
+      "1d6 sticks of chalk",
+      "1d4 tickets to a show",
+      "50ft of hemp rope",
+      "Very large duck carved of ivory and wood",
+      "Cane with hidden compartment",
+      "Tiny glass cloche",
+      "Gold plated flask",
+      "Aged leather belt",
+      "Enamel hat pin",
+      "Dented but solid tin bucket",
+      "Vial of blue liquid",
+      "Collectible coin",
+      "Ornamental brick",
+      "1d10 brass tacks",
+      "10ft of reinforced hose",
+      "Ring of strange keys",
+      "Sturdy terracotta vase",
+      "Cloth measuring tape",
+      "Tarnished metal button",
+      "Broken clay pipe",
+      "Sharpened knitting needles",
+      "Simple tuning fork",
+      "1d3 dmetal clamps",
+      "Set of decorative game darts",
+      "Sack of random grain",
+      "Dry-rotted bridle",
+      "Set of fine carving tools",
+      "Page of exquisite pottery",
+      "Pair of kitchen knives",
+      "Tin of half-used makeup",
+      "Satchel of laced tobacco",
+      "Wool socks",
+      "Hat stained with blood",
+      "Belt",
+      "Boots",
+      "Coat",
+      "Dress",
+      "Gloves",
+      "Head-Wrap/Hat",
+      "Feather",
+      "Jacket",
+      "Leggings",
+      "Pants",
+      "Purse",
+      "Robe",
+      "Sandals",
+      "Sash",
+      "Scarf",
+      "Shirt",
+      "Shoes",
+      "Socks",
+      "Skirt",
+      "Slipper",
+      "Wig",
+      "Ball Bearings",
+      "Bear Trap",
+      "Box of Nails",
+      "Bucket",
+      "10 Candles",
+      "Chain 10’",
+      "Chalk",
+      "Chisel",
+      "Compass",
+      "Cookpot",
+      "Crowbar",
+      "Game Board",
+      "Glue",
+      "Grappling Hook",
+      "Grease Pot",
+      "Hand Drill",
+      "Instrument",
+      "Large Sack",
+      "Lantern",
+      "Oil, bottle",
+      "Lockpicks",
+      "Manacles",
+      "Metal Spikes",
+      "Rope 50’",
+      "Soap",
+      "Medicinal",
+      "Spade",
+      "Tinder Box",
+      "5 Torches",
+      "Twine 200’",
+      "Vise",
+      "Waterskin",
+      "Whistle",
+      "Wooden Pole 6’",
+      "Bread",
+      "Cheese",
+      "12 Eggs",
+      "Fish",
+      "Fowl",
+      "Fruit (dried)",
+      "Fruit (fresh)",
+      "Game",
+      "Grain",
+      "Leafy Greens",
+      "Livestock",
+      "Roots",
+      "Common Spice",
+      "Rare Spice",
+      "Ale",
+      "Beer",
+      "Cider",
+      "Clean Water",
+      "Juice",
+      "Liquor",
+      "Mead",
+      "Milk",
+      "Scented Water",
+      "Tea Pot",
+      "Cup",
+      "Wine"
+    ],
+    "Artifacts": [
+      [
+        "Altar of the Wurm",
+        "Horrid weathered stones of a bloodred hue are stacked in an altar and exude an oppressive presence. Countless slithering liturgies are scrawled on every surface as the altar seems to thrum with a terrifying energy…"
+      ],
+      [
+        "Artisan's Panacea",
+        "A simple brooch of colored swatches on a piece of porcelain, lovingly pinned onto the dirty collar. "
+      ],
+      [
+        "Bondmaker Nail",
+        "A twisted yet sturdy nail crafted from dark iron, its head bears an illegible sigil and it feels far heavier than it should be. "
+      ],
+      [
+        "Charlatan's Fortune",
+        "A seemingly cheap deck of fortunetelling cards that shine glamorously in the light and appear dirty and ragged in the dark. "
+      ],
+      [
+        "Chimney-Scamp's Hearth",
+        "A large and unwieldy hearthstone, riddled with sigils and pictographs of thieves robbing nobles and setting their estates on fire. "
+      ],
+      [
+        "Crooked Cane",
+        "Every joint is gnarled and twisted, mimicking the burl-wood cane clenched between the cankerous knuckles of its owner. "
+      ],
+      [
+        "Doctorate of Many Things",
+        "Innocuous vellum decorated with an impressive wax seal and spidery handwriting. "
+      ],
+      [
+        "Earwax Homunculus",
+        "A crusty, squishy and corpulent imp no larger than a thimble and the color of pus; its face gleams with a knowing look. "
+      ],
+      [
+        "Fascist's Bane",
+        "A single brick worn with age and conflict. Marred by fire and bloodshed, it fills the holder with a righteous and fiery purpose. "
+      ],
+      [
+        "Grifter's Deck",
+        "Grubby, worn, and smelling of cheap booze, this deck of cards seems to shift and shuffle when out of sight. "
+      ],
+      [
+        "Hearsay Coins",
+        "These tarnished coins are stamped with a many-eared demon; whispers can be heard like gentle ringing. "
+      ],
+      [
+        "Icon of the Ragged Hound",
+        "Sewn, painted, or carved icons of a vicious hound with a bloody throat appear in the most downtrodden of areas, reminding those with privilege what fear is. "
+      ],
+      [
+        "Jester's Scales",
+        "A large beaten and tattered scale with a statuette of a grinning jester as its pillar; the eyes of the jester seem to glint with mischief. "
+      ],
+      [
+        "Knotted Sash",
+        "Embroidered with wriggling and waving designs, this sash fits snugly around the waist and envelops the wearer in a protective charm. "
+      ],
+      [
+        "Lunatic's Snuffbox",
+        "A dirty ivory snuff box boasting intricate etchings and designs of a hallucinatory nature. "
+      ],
+      [
+        "Morbid Ottoman",
+        "An ancient but well-kept ottoman made from polished marble and silk cushions; every inch is decorated with some graven motif. "
+      ],
+      [
+        "Naga-Bone Necktie",
+        "The flashy silk tie embroidered with hundreds of minuscule ivory bones was quite the statement piece, even more so when the wearer leaned down to discuss the weather with a worm. "
+      ],
+      [
+        "Orator's Podium",
+        "Enchanted long ago, this hunk of carved marble has weathered centuries of speeches that have smoothed its edges and all but obscured the maker's mark. "
+      ],
+      [
+        "Rat Signal",
+        "A dusty old lantern with painted images of rats etched onto its panes pulsing with light, and in that light were thousands of eyes. "
+      ],
+      [
+        "Ruttleslip's Manhole",
+        "A heavy wrought iron manhole cover covered in elaborate sigils; it gently hums when held aloft. "
+      ],
+      [
+        "Salturnius's Slipknot",
+        "A pale length of rope appeared between the bailiffs hands; just the sight of it struck fear into even the most stoic of rogues. "
+      ],
+      [
+        "Slug-Charmer Perfume",
+        "An exquisite crystal perfume bottle in the shape of a slug, always slimy to the touch. "
+      ],
+      [
+        "Testillus the Tapeworm",
+        "A wriggling over sized tapeworm with a cheery disposition. Its segmented body is adorned in small but expensive looking jewelry. "
+      ],
+      [
+        "Wax-Eye Chair",
+        "A fine but ordinary-looking wooden chair pained with countless paranoid eyes. "
+      ],
+      [
+        "Xippo's Pipe",
+        "A long-necked pipe made of twinkling colored glass and bone, its bowl is always warm to the touch. "
+      ],
+      [
+        "Zealous Zweihander",
+        "A massive two-handed blade that seems to glow with a golden light despite its many blood-stained markings."
+      ]
+    ]
+  },
+  "Cultivist": {
+    "Features": [
+      [
+        "Greenhouse Palace",
+        "The entire area is enclosed within a shimmering glass complex. The air is thick with moisture and sometimes difficult to breathe, always just hot enough for the plants within to reach their full potential; mortals make do.",
+      "The greenhouse is in eternal bloom. Tourists flock from all corners to see this evergreen paradise. Food, flowers and tea are plentiful.",
+      "This is a grand closed terrarium, the folks inside its subjects. No one is allowed in or out, with escape attempts constantly underway.",
+      "The glass is tinted, plunging the greenhouse into an eternal night. Glowing plants, enormous moths and swarms of bats fill its skies."
+      ],
+      [
+        "Growing Tower",
+        "Stretching up to the sky, a tower of pumice stone and woven trees blossoms in the light. Each level sports a hanging garden, tended to by specialized and highly-trained gardeners.",
+      "The tower blossoms with every color on the spectrum, from common bouquet flowers to rare and extraordinary specimens.",
+      "The air smells sweet and rich. Bushes and trees are laden with the sweetest, strangest fruits.",
+      "Strange and powerful aromas waft from this tower in miles. This tower boasts a fine tea market and opulent tea houses."
+      ],
+      [
+        "Hive Residences",
+        "High density residences, built by the armies of trained wasps. They appear as massive, bulbous structures, made from a mottled grey paper. Their insides are tight, winding tunnels and they house thousands of folks within their cavernous forms."
+      ],
+      [
+        "Hedgerow Garden",
+        "The street-plan has been styled like some enormous hedgerow garden. Tall, perfectly manicured hedges and flower bushes form a beautiful geometric maze. Those not local to the area tend to get lost easily, and less savory individuals will capitalize on this..."
+      ],
+      [
+        "Green Market",
+        "A sprawling plaza decorated with glittering mosaics is home to countless vendors and tents, each one sporting an emerald green top. This is the legendary Green Market, not just the greatest fruit and produce, but every possible herb, spice, and herbal remedy. If it was grown, it can be found here, for a price..."
+      ],
+      [
+        "Compost Site",
+        "The surface is dotted with tall featureless towers that lazily belch heated air, while carts dump green waste into wide featureless pits. Below is a world of cruel industry, layer upon layer of workers tilling, sorting, and processing the decaying waste into usable compost. Nothing goes to waste, not even the dead..."
+      ],
+      [
+        "Mushroom Warehouses",
+        "The smell of exotic manure and rich loam wafts through the air. Massive wooden warehouses house vast nocturnal fields of mushrooms.",
+      "The interior is filled with a pulsing bio-luminescent glow. Mushrooms as bright as lanterns are grown and sold here.",
+      "Mushrooms as fat as hogs are grown and harvested, as well as pungent and expensive truffles for the affluent chefs.",
+      "Under heavy security. Inside rare medicines, dangerous poisons, and powerful psychedelics are crafted from the mushrooms grown within."
+      ],
+      [
+        "Marshland Streets",
+        "Water is pumped to cascading fountains, and the streets have been turned into an artificial wetlands. Dazzling wildlife and colorful aquatic plants grow thick and bountiful, while vibrant gondolas serve as transportation to those who can afford it."
+      ],
+      [
+        "Weaver District",
+        "Gossamer silk drifts through the air, and large secretive workshops quietly work behind closed doors. The finest garments and textiles are produced here; however, trade secrets are guarded on penalty of death.",
+      "Rich shimmering cloth, prized by Nobles and clothiers, is produced in bolts here.",
+      "Coils of pale tensile twine and rope is sold to builders and boatswains. Weighing next to nothing, some claim it is stronger than iron chains.",
+      "Sold only to priests and esoteric disciples, this fine delicate cloth is the rarest yet, even out of reach of the envious Nobles."
+      ],
+      [
+        "Methane Balloons",
+        "Enormous decorated blimps hang in the air. Messes of tubes sprout from its body like countless strands of intestine. Methane gas from the compost pits below is pumped into these airborne repositories, then distributed to the distant regions of the city as natural gas."
+      ]
+    ],
+    "Issues": [
+      [
+        "Kquarl Infestation",
+        "Street after street is crawling with voracious destructive life. A massive infestation of Kquarl (pg. 178) threatens the lives and homes of everyone living here."
+      ],
+      [
+        "Spore Bloom",
+        "The ubiquitous fungal life is in full bloom, filling the air with billions of microscopic spores. Mostly they just trigger allergies, but rare and truly dangerous spores tend to mix in..."
+      ],
+      [
+        "Sinking Buildings",
+        "The rich fertile soil beneath has begun to give way. Entire blocks are beginning to sink into the soft earth, at risk of being buried and composted."
+      ],
+      [
+        "Kudzu Takeover",
+        "Thick green vines of kudzu cover nearly every inch of architecture. The coiling, climbing plant grows rapidly, threatening to bury everything in green."
+      ],
+      [
+        "Treebourne Disease",
+        "Unnoticed until it was too late, certain species of structural trees have been infected. It is only a matter of time before they die and collapse."
+      ],
+      [
+        "Pollen Winds",
+        "The air is choked with a thick ochre fog. Pollen, sometimes an inch thick, coats the city, forcing folks to wear makeshift masks and goggles just to breathe."
+      ],
+      [
+        "Tranquility Officers",
+        "Officials in beautiful armor patrol the streets, ensuring beautification codes are kept and “peace” is maintained. Disturbing the tranquility is met with severe punishments."
+      ],
+      [
+        "Hallucinogenic Water",
+        "Accidental exposure or intentional tampering has tainted the water with psychotropics. Mild doses are an annoyance, but heavy doses are dangerous."
+      ],
+      [
+        "Composting Expansion",
+        "Vents are built above and caverns dug below, the area being slated for a new composting site. The citizens worryingly joke: “perhaps they’ll join the compost below...”"
+      ],
+      [
+        "Beautification Codes",
+        "Severe new laws dictating fashion standards and exterior building styles have been declared. Affluent members marvel at the new beauty, while common folk fear eviction."
+      ]
+    ],
+    "Changes": [
+      ["The Bloom","Hard knots of bark-like growth sprout on your body. Tests of agility, speed, and dexterity are made difficult."]
+    ],
+    "Boons": [
+      ["1st Ascension (Acceptance of the Seed)","You no longer suffer from the Bloom. The knots of bark no longer cause you distress or harm, instead covering your body in the equivalent of Scale or Chainmail armor. Requires: The patronage of a Changed."],
+      ["2nd Ascension (Quaking of the Shell)","Something strange and alien stirs within you. Your physiology alters, you no longer need to sleep, and you are immune to sleep-inducing effects. Requires: Payment for incredibly expensive and rare bath oils followed by a ritual bath with your patron."],
+      ["3rd Ascension (Gestures of the Sprout)","The bark shell cracks and reveals a form within. Your new form grows and quickens; you heal at a rate of 1 Hit Point per hour and no longer need to eat so long as you get a day’s worth of sunlight. Requires: Must be invited and spend a week in your patron’s private solarium."],
+      ["4th Ascension (Tempering of the Growth)","Your strength grows as your new form takes shape. The shell is gone, your alien body granting you enormous power; gain 1d6 points to every ability score. Requires: you must kill a rival undergoing the same change and present their blood to your patron. "],
+      ["5th Ascension (Witness of the Blossom)","The final change approaches and you sit at the edge of ascension. Your form grows beauteous and unearthly; anything within eyesight of you must save v. Charm or become affected by a Charm Person or equivalent spell. Requires: Undergo a dangerous mission or task on behalf of your patron. "],
+      ["6th Ascension (Ecstasy of the Bloom)","You shed the last of your humanity. Your ascension is complete, gain one of Noble powers (pg. 155). Requires: A decadent ritualistic festival, culminating with you swearing loyalty to your patron for all eternity."]
+    ],
+    "Factions": [
+      "The Emerald Court",
+      "The Million Strands",
+      "The Mulchwood Circle"
+    ],
+    "Items": [
+      "Sticky jar of raw honey",
+      "Vermin trap, bait still inside",
+      "Jade brooch, carved in the shape of a beetle",
+      "Petrified seeds made into a beaded necklace",
+      "Marbles made from broken stained glass windows",
+      "Piece of amber shaped like a sunflower",
+      "Broken head of a gargoyle",
+      "Smoky beekeeper’s hood",
+      "Pair of fine hedge trimmers",
+      "Discarded silk cocoon",
+      "Shard from a ornamental bronze vase",
+      "Iridescent scale, strange markings on the inside",
+      "Glove from Tranquility knight",
+      "Tiny bright red snail shell",
+      "Beautiful and large feather, its owner is nearby",
+      "Decorated garden trowel sharpened to a blade",
+      "Pouch of finely ground coffee",
+      "1d3 Pearl buttons",
+      "Very pungent bulb",
+      "Rusty set of jacks",
+      "Snuff box containing spices and seasonings",
+      "Bee smoker, charcoal and wood chips ready for use",
+      "Sack of worm bait, reeks of peat and chum",
+      "Spool of string made from vines, strong as iron",
+      "Blown glass heart, gently beats when warmed in hands",
+      "Silken shawl, its edges covered in motifs of fungus",
+      "Sweet jam pastry wrapped in a leaf, still warm",
+      "Ornate leather mask of a ominous horned fawn",
+      "Brooch in the shape of a dazzling butterfly, one wing intentionally broken off",
+      "Long-handled fruit picker, 6 feet long, its mechanisms in perfect working order",
+      "Pure gold pine-cone",
+      "Tarnished hooked machete",
+      "1d4 perfume bottles of pungent insecticide",
+      "Ragged copper sickle, it smells of blood…",
+      "1d6 clay jars of fertilizer, meant to be thrown",
+      "Tiny ornamental pot, delicate seedling grows within…",
+      "Fine rake, excellent quality",
+      "1d12 persimmons",
+      "1d10 hefty wooden stakes",
+      "Head of cabbage",
+      "1d8 soft pears, need to be eaten as soon as possible",
+      "Bundle of cinnamon bark, strong & pleasant smelling",
+      "Discarded bouquet, a somber air surrounds it",
+      "1d3 bundles of herbs, hastily picked",
+      "Brilliant and angry looking pepper, just gazing at it causes a burning sensation",
+      "Tine of an iron pitchfork with a handle of wrapped leather, a makeshift shiv?",
+      "The longest bean you’ve ever seen",
+      "Gallon pump sprayer, empty and ready to be loaded",
+      "Steel hand-held sundial",
+      "Squash shaped like a bird",
+      "Blooming Headdress, Alive with flowers and bugs",
+      "Gardener Smock",
+      "Living Brooch, A glittering beetle that attaches itself to one’s clothing",
+      "Mulcher Boots",
+      "Sun Hat",
+      "Beekeeper Suit",
+      "Exterminator Suit",
+      "Poison Ring",
+      "Smoker, Bellow",
+      "Trap, Glue",
+      "Trap, Snare",
+      "Vermin Net",
+      "Watering Can",
+      "Candied Bugs",
+      "Honey, Raw",
+      "Pâté",
+      "Jam, Jar",
+      "Mushrooms",
+      "Truffles",
+      "Coffee Pot",
+      "Coffee Cup",
+      "Kombucha",
+      "Nettle Wine",
+      "Spice Tea",
+      "Jewel Brandy"
+    ],
+    "Contraband": [
+      "Bip’s Folly, a brown potent-scented goo, sealed in a glass vial emblazoned with a dying lily.",
+      "Vita-Botanis, fine powder that appears like ground opalescent pearls and reeks of ammonia to the point of causing dizzy spells.",
+      "Seer’s Gills, prussian blue mushroom with shimmering translucent gills that seem to shift and move the longer you gaze at them.",
+      "Rock Tobacco, small rock-sugar crystals the color of tar and reeking of smoke and turpentine.",
+      "Ripper Spores, pitch-black spores, sealed tightly in a tempered glass vial; a heavy and ominous sensation surrounds it…",
+      "Wink Slugs, a decorative slug, with a beautiful spotted pattern and nervous energy."
+    ],
+    "Artifacts": [
+      [
+        "Alluring Avian Feeder",
+        "An immaculate bird feeder of stained glass and gold filigree; images of countless painted birds seem to dance along its panels…"
+      ],
+      [
+        "Composter's Crone",
+        "A bowed elderly woman, carved from weathered shale and reeking of peat; her face is hidden with a heavy cloak while her hands clutch a pitchfork made of rusted iron…"
+      ],
+      [
+        "Endless Watering Can",
+        "Made of beaten copper and tarnished silver filigree, this worn but decorated watering can sloshes with muddy, lukewarm water. "
+      ],
+      [
+        "Ever-cut Shears",
+        "Simple garden shears with handles made of wood and faded emerald lacquer; the metal seems untouched by age, with a razor edge that seems to shear the very light…"
+      ],
+      [
+        "Gilligan's Mold Box",
+        "A beaten, lacquered box the color of a bruise; inside lies a clump of moist grey filth that seems to cautiously move on its own. "
+      ],
+      [
+        "Noseeum's Jawbone",
+        "The broken and worm-whittled jawbone of a mortal, the air seems to fill with the sound of buzzing when touched… "
+      ],
+      [
+        "Stainless Smock",
+        "An immaculate gardening smock, its heavy white fabric utterly unmarred by dirt, grass-stain, or fertilizer. "
+      ],
+      [
+        "Whispering Wind Chimes",
+        "Chimes of iridescent metal with etchings made to look like caricatures of merchants, scholars, rakers, and such. "
+      ],
+      [
+        "Sacred Panes",
+        "A shimmering window of vibrant stained glass, its surface decorated with slowly shifting images of flowers. "
+      ],
+      [
+        "Unimpeded Spade",
+        "A sturdy and innocuous shovel, yet its blade is engraved with dozens of sigils and shaft covered in similar wood-burned patterns."
+      ]
+    ],
+    "NPCNames": [
+      "Aquila Throatbud",
+      "Adsila",
+      "Brook",
+      "Jubilee Clifford",
+      "Hemmi",
+      "Gorden Holthhold",
+      "Mulstava Grains",
+      "Jelop Samus",
+      "Coniferd Needles",
+      "Acacia",
+      "Chester Lamb",
+      "Sedum Larksung"
+    ],
+    "NPCJobs": [
+      "maker of fine rakes",
+      "stake driver",
+      "glassblower",
+      "seedling caretaker",
+      "topiary artisan",
+      "watering can consultant",
+      "cobblestone purveyor",
+      "mulching specialist",
+      "fountain de-clogger",
+      "exterminator",
+      "professional scarecrow",
+      "compost historian"
+    ],
+    "NPCQuirks": [
+      "Hides in unused planter pots whenever authority comes around.",
+      "Constantly drunk on mushroom ale.",
+      "Addicted to pollen.",
+      "Can only ever find their right glove.",
+      "Hates the color blue.",
+      "Only sings their responses to questions.",
+      "Attracts praying mantises unconsciously.",
+      "Shiny carapace growing on them attracts magpies.",
+      "Can recognize any plant by taste.",
+      "Allergic to wood.",
+      "Never takes their boots off.",
+      "Hair is replaced by petals that bloom and fall off at the end every day."
+    ],
+    "ShopNames": [
+      "Clematis’s Cures",
+      "Lunamancy Depot",
+      "Shepard’s Fine Goods",
+      "Lost Vivarium Outfitters",
+      "The Worm Hole",
+      "Grapeberry’s Instruments",
+      "Overflowing Pitcher",
+      "Beans N’ More",
+      "Sheldon’s Shell",
+      "Grasses, Barbs, and Boils",
+      "The Edible & The Serene",
+      "The Embellished Frog"
+    ],
+    "ShopQuirks": [
+      "There appears to be no ceiling, just masses of for Cycles vines and bird nests.",
+      "Shopkeep is a mass of hundreds of bees, who while helpful, is hard to understand.",
+      "A mysterious odor permeates the premises that  smells different depending upon the time of day.",
+      "There is no counter, only a massive freeze-dried  taxidermy animal you can’t recognize.",
+      "Large sentient turtle is the shop-keep.",
+      "Doorknob to the shop asks three questions before you may enter.",
+      "Everything is a display item and you have to order from a sticky catalog in the back.",
+      "Shop is made entirely of stained glass.",
+      "Only accepts crystalized insect wings as currency.",
+      "Mold grows over everything in the store, giving it a very dusty appearance.",
+      "A well written song may be exchanged for goods/services on full moons",
+      "The glass ornaments within do not cast reflections."
+    ],
+    "StreetAppearances": [
+      "Giant drooping trumpet blossoms fall on travelers daily, covering them in sticky pollen.",
+      "Every plant grows thorns, regardless of species.",
+      "Soggy paver stones that squeak when stepped on.",
+      "Wood of the buildings constantly ooze sap that looks like faces.",
+      "Lined with broken terracotta pots that pile up almost as high as the buildings.",
+      "Under the window frames hang various fruit bats that whisper to each other.",
+      "Neon colored fungus cover all visible surfaces.",
+      "Thick vines arch across building tops, often hiding snakes.",
+      "Flooded but filled with giant, walkable lily pads.",
+      "Chipped and broken ceramics make up the paving stones.",
+      "Parades of snails write poetry with their opalescent trails.",
+      "Glass shards litter the crevices and seem embedded in the grout of the buildings"
+    ],
+    "StreetNames": [
+      "3 Pane Terrance",
+      "Gladiolas Parade",
+      "Basil Crescent",
+      "Nasturtium Causeway",
+      "Calf’s Hoof Boulevard",
+      "Cicada Alley",
+      "Moldering Way",
+      "10 Thousand Wings Road",
+      "Silica Strip",
+      "Moonshimmer Street",
+      "Sundew Avenue",
+      "Ecdysis Centerway"
+    ],
+    "Encounters": [
+      [
+        "1d6 Gardeners or Mulchers",
+        "Amicable, helpful with 1-10 small requests.",
+        "Busy, would rather not be disturbed.",
+        "Hostile if bothered."
+      ],
+      [
+        "Mobile Apiary, 1d6 Gardeners & 1d3 Beekeepers",
+        "Amicable, sells honey.",
+        "Busy, tending their hive-boxes.",
+        "Hostile if characters get too close."
+      ],
+      [
+        "1d3 Mulchers and 1d6 Trumpet Worms",
+        "Busy, would rather not be disturbed.",
+        "Hostile if bothered.",
+        "Worms are out of control and attack wildly."
+      ],
+      [
+        "1d3 Masque Herons",
+        "Curious, waiting to see what you do.",
+        "Hungry, looking for an easy meal.",
+        "Has selected YOU as its prey..."
+      ],
+      [
+        "Kquarl",
+        "Dormant, quiet if left undisturbed.",
+        "Hostile, defending their crumbling nest."
+      ],
+      [
+        "1d8 Animated Urns",
+        "Willing to assist, for a price.",
+        "Curious, but busy and keep their distance.",
+        "Irate, hostile if bothered."
+      ],
+      [
+        "1d4 Verdant Fury",
+        "Hostile and out for blood."
+      ],
+      [
+        "1d2 Stranglehope Vines",
+        "Torpid, just ate.",
+        "Hungry and looking for an easy meal."
+      ],
+      [
+        "1d10 Boil Wasps",
+        "Hostile if disturbed.",
+        "Hostile and aggressive."
+      ],
+      [
+        "1d3 Hunting Dragonflies",
+        "Curious, waiting to see what you do.",
+        "Hungry, looking for an easy meal.",
+        "Hostile and aggressive."
+      ],
+      [
+        "1d4 Tranquility Knights",
+        "Demand the characters leave their vicinity.",
+        "Attempt to fine the characters 50 coins each for “disrupting the terroir.”",
+        "Interrogate the characters for 1d3 hours."
+      ],
+      [
+        "1d4 Button Spiders",
+        "Hostile if disturbed.",
+        "Hostile and aggressive."
+      ],
+      [
+        "Mobile Garden, 1d10 Gardeners, 1d6 Beekeepers, and 1d3 Tranquility Knights",
+        "Hostile if characters get too close."
+      ],
+      [
+        "Hunting Party, 1d4 Tranquility Knights and 1d10 Hunting Dragonflies",
+        "Demand the characters leave their vicinity.",
+        "Attempt to fine the characters 50 coins each for “disrupting the terroir.”",
+        "Hostile, out for blood and tasked to “clean the streets.”"
+      ]
+    ]
+  },
+  "Foundry": {
+    "Features": [
+      [
+        "Artisans’ Quarter",
+        "The sound of tools and specialized machinery ring through the streets, while the building are peppered with guild affiliations and personal crests. Craftsmen of all kinds work and cooperate here, producing some of the finest goods in the city."
+      ],
+      [
+        "Tool Exchange",
+        "Barking auctioneers and the clanging of metal echo in this enormous indoor market. Every tool or piece of machinery, from enormous factory assemblies to watchmaker’s screwdrivers, can be found new or used within."
+      ],
+      [
+        "Metalworks",
+        "Massive smokestacks on every street belch out smoke and sparks from the mills and furnaces that supply the city with cart after cart of shimmering metal.",
+      "Heightened security and only the most skilled furnace masters work these mills. It is here that precious metals are stripped of imperfections and undergo strict quality control.",
+      "Sled carts the size of sheds are loaded with crate after crate of iron ingots. With such high demand the mills and the carts in and out never stop.",
+      "The heat from the blast furnaces here can be felt an entire street away. Super heated crucibles that run day and night produce shimmering unbreakable ingots of steel."
+      ],
+      [
+        "Fuel Makers",
+        "The Foundry District would collapse without its constant supply of fuel. The workhouses and factory lines serve to supply the overwhelming demand.",
+      "Coal is carted in from deep underground and factory lines of soot-caked folks break down and process the tonnes of anthracite that flow into this area. While it burns hot and steady, the smoke produced is dangerous.",
+      "Enormous black ovens and smoldering mounds vomit clouds of choking hot smoke. Workers can be found around the clock making sure the charcoal furnaces never grow too hot or too cool, a tedious job at best.",
+        "Oil-Sap,seedoil,orfatis rendered, distilled and bottled in the many pungent smelling workshops. With vapors so prevalent open fires are forbidden, lest the whole area explode."
+      ],
+      [
+        "Pit Burg",
+        "A strip mine nearly a mile across plummets deep into the earth. Despite the howling winds from the downdraft, the titanic crater is stacked with houses that line the steep walls and use elaborate pulley systems in place of roads or causeways."
+      ],
+      [
+        "Grand Factory",
+        "An enormous factory takes up the entirety of this area. Multi-storied and labyrinthine, countless workers toil in this gargantuan structure. Some have resigned to living in this place, building nests in the overlooked areas of the building."
+      ],
+      [
+        "Slaughterhouse Lane",
+        "The sounds of screaming animals and streets running with congealed blood. Lines of stables and abattoirs make this a hot-spot for meat production. Most folks here carry a set of well-kept butcher blades or stunning mallets."
+      ],
+      [
+        "Mill Complex",
+        "Sawdust peppers the air and the grating sound of saws is heard throughout. Dozens of mills strip and process timber into beams, planks, and even pulp. With the city forever growing, the demand never stops."
+      ],
+      [
+        "Great Furnace",
+        "Dwarfing the surrounding buildings, a furnace of titanic proportions serves some grand and terrible purpose. The power needed to power it must be cataclysmic.",
+      "Be it a pyromancer circle or a bound demon, guilds of amateur mages and practitioners put theirs skills to use as laborers to keep it running. With such powerful magic, the area is prone to strange happenings...",
+      "Tonnes of coal are carted and rushed along great conveyors. A constant stream of fuel is needed and the furnace hungrily devours anything that will burn.",
+      "Lines of pipes and copper tubes converge into it. Engineers and workers scramble to adjust valves and check gauges as volatile gas is pumped into its raging crucible. Pray that nothing goes wrong..."
+      ],
+      [
+        "Night Mine","An enormous mine lies deep below the surface where no light can penetrate. Hundreds of tunnels spiral out in all directions, forming a busy maze lit only by the occasional candle of the folks within."
+      ]
+    ],
+    "Issues": [
+      [
+        "Blackened Skies",
+        "So much smoke pours out of the factories that the sun itself is blotted out. The area is plunged into a hazy artificial night."
+      ],
+      [
+        "Unstable",
+        "Neglect by rulers have left dangerous equipment and structures in critical condition Deadly accidents occur daily."
+      ],
+      [
+        "Strike",
+        "Laborers have initiated a general strike. Tension grows as the factory owners and authorities plan a brutal show of force."
+      ],
+      [
+        "Ash Drifts",
+        "The soot and ash is deep here, like choking piles of snow. Easy to get trapped or lost in."
+      ],
+      [
+        "Rival Companies",
+        "A pair of highly competitive businesses have established themselves here. Rather than conduct business, they now wage vicious gang war."
+      ],
+      [
+        "Company Store",
+        "Folks here are not paid in actually currency but instead paid in “company credits” that can only be spent at company owned businesses. Upward mobility is impossible."
+      ],
+      [
+        "Work Mandate",
+        "Lords and company owners are requiring “productive and ambitious citizens,” specifically by forcing every able body person to work. Squads of “Quota Guards” enforce this."
+      ],
+      [
+        "Poison Air",
+        "Hazardous and volatile chemicals have leaked out into the air. Illness is rampant, among other strange happenings..."
+      ],
+      [
+        "Mine Collapse",
+        "The surface heaves and groans as the enormous mines beneath the streets collapse and fill."
+      ],
+      [
+        "Double Shifts",
+        "Be it a mandate or new company policy, folks here are being compelled to work twice the hours. It wears on their already weary bodies and minds."
+      ]
+    ],
+    "Factions": [
+      "the Golden Chain Foundry and Co.",
+      "the Ballpeen Union",
+      "the Nightwell Assembly"
+    ],
+    "Changes": [
+      ["Miner’s Eyes","After so much time away from the sun your eyes water and sting in bright light. You are considered blinded in anything greater than low-light, unless you properly protect your eyes."],
+      ["Calcified Skin","Exposure to corrosive and permeable minerals has caused your skin to harden and be covered in calcified knots."],
+      ["Chimney Lung","The festering tissues of your lungs have found that they work best when constantly filled with the sooty and grimy air. You are immune to the effects of impure air, but are reduced to coughing fits."],
+      ["The Hollowed","Days of grueling work and traumatic violence have ground away your very humanity. You are incapable of feeling fear and sadness, but also incapable of feeling joy or remorse."],
+      ["Drawn to the Deep","Dark and cramped places have begun to sing a siren’s song to you. You have an unnatural desire to explore and remain in these deep places."],
+      ["Leadbite","Your body craves not just sustenance to keep its fibers and tissues alive, but hard metals such as lead as well. The craving must be met or the withdrawal sickness might kill you."],
+      ["Tool Jinx","Everything you touch seems to wear and break. Any time you roll a 1 when using a tool, weapon, or piece of machinery, the implement breaks or catastrophically fails."],
+      ["Worn to the Bone","Your body has ceased keeping up appearances. Wounds, weathering, and damage appear visibly on your body even after healing, giving you the appearance of a tattered corpse."],
+      ["Metal Fear","Witnessing and being  surrounded by metal has made you  develop an aversion to it. You  cannot willingly don armor or wield metal weapons without entering  into a frightened state."],
+      ["Beyond Sleep","Your body can never seem to rest easily. Anytime you wish to sleep, you must imbibe medicine or alcohol, or be placed under the effects of a spell."]
+    ],
+    "Boons": [
+      ["Miner’s Eyes","Even the smallest glimmer of light can reveal finite details to your eyes. Your pupils have adapted to the dim, providing you clarity where others would find only darkness."],
+      ["Gem Wart","At first the growth seems unsightly but with a little rubbing, its true nature becomes apparent. A gemstone glitters from the fleshy socket of your skin, a treasure in disguise."],
+      ["Heat Resistant","Billowing waves of dry, caustic heat flow over you like a spring breeze. Your body recognizes heat and does not panic or flash with pain."],
+      ["Tempered skin","What might be an agonizing bruise to some is nothing more than a tickle to you. Like well- forged steel, your skin has absorbed and evolved to take a beating."],
+      ["Around the Clock","Without sight of the sun and moon, the rhythms that sway other beings no longer apply to you. You function just as well as any other without the need to sleep."],
+      ["Song of Metal","The clang of brass or the bellow of iron, the song each sings tells you from where in the ground it was ferreted. Each metal has its own tune and you know all of them."],
+      ["Chisel Fingers","Iron runs through your hands, hardening your fingernails. Your fingernails function as chisels or a similar tool."],
+      ["Breaker","Some were built to make, you were built to break. At the cost of 1d6 HP you may break apart a piece of machinery, a sturdy door, or other artificial construction."],
+      ["Iron-Handed","Heavy hands from labor make anything a weapon. You may wield anything as an improvised weapon, with damage equal to a weapon of similar weight and size."],
+      ["Tinker, Thinker, Maker","You are adept at improvising what you need. Once per day, you may spend 1d3 hours to combine any 2 common tools into a tool of your choice."]
+    ],
+    "Items": [
+      "Dust Mask",
+      "Overalls",
+      "Smithy Apron",
+      "Sweat Hat",
+      "Sweat Kilt",
+      "Carry Straps",
+      "Caustic Suit",
+      "Furnace Suit",
+      "Goggles",
+      "Heat Gauge",
+      "Jeweler Anvil",
+      "Lantern Helm",
+      "Lead Coffer",
+      "Magnify Lens",
+      "Pickax",
+      "Pry-bar",
+      "RespiratorMask",
+      "Shovel, Fireproof",
+      "Smithy Tools",
+      "Baked Onion",
+      "Grits",
+      "Hard Sausage",
+      "Head Cheese",
+      "Mince Pie",
+      "ScrapLoaf",
+      "BeetWine",
+      "Gold-Cider",
+      "Slag Mezcal",
+      "Bottle of Whey",
+      "50ft length of canvas hose",
+      "Metal shears",
+      "Five rusty washers",
+      "Lunch box (with lunch!)",
+      "Pouch of powdered graphite",
+      "Sharpened hammer",
+      "Lens from a pair of glasses",
+      "Length of braided cord",
+      "Half of a pair of broken",
+      "Dented lantern, smells of scissors, sharpened to a shiv turpentine",
+      "Street sign",
+      "Eight rubber knobs",
+      "Belt with many loops",
+      "Hand drill, missing bit",
+      "Rusted clamp",
+      "Dented helmet",
+      "Empty roll to house handtools",
+      "All-in-one spoon",
+      "Ruler with strange marks",
+      "Wrought iron hook",
+      "Thirteen steel nails wrapped",
+      "Bandana with rebel symbols in velvet stitched onto it",
+      "Architect’s pen, ink is dried",
+      "Oil can",
+      "Moon dial",
+      "Safety goggles",
+      "Small cask of mysterious pungent liquid",
+      "Hunk of slag metal in the shape of a hand",
+      "Rod of magnetized iron",
+      "Portable anvil with handles",
+      "20-foot bundle of interlocking copper pipes",
+      "Flare that burns white",
+      "Grease marker",
+      "Pouch of glass shards",
+      "Bundle of neatly folded receipts",
+      "Splinters of exotic wood",
+      "Furnace cat collar Water-stained pad of graph paper",
+      "Small broken chain",
+      "Plumb-bob made with lead",
+      "Murky glass vial",
+      "Unopened can of oil",
+      "Braided cord climbing harness Tiny puzzle box",
+      "Chipped wood chisel",
+      "10 feet of lead chain",
+      "Handle to unknown tool",
+      "Oilyrag",
+      "Lighter, needs fuel and wick to function",
+      "Wrench with locking grasp"
+    ],
+    "Contraband": [
+      "Autommunculi, a curious facsimile of a mortal skeleton, its insides whir with gears.",
+      "Arkanicite, a piece of coal with veins of rainbow glass & uncomfortably sharp edges.",
+      "Crucibleware, ceramic clay the color of oxidized iron, cool to the touch despite the temperatures around it.",
+      "Currite Furnace, an elaborate furnace the size of a small coal stove, its body and controls are made of iron and lead, while a humming energy can be felt within.",
+      "Forge Putty, clay-like putty the color of brass, the impressions left by touching it are incredibly detailed."
+    ],
+    "Artifacts": [
+      [
+        "Endless Box of Rags",
+        "A small wooden coffer containing a bundle of filthy rags; they reek of linseed oil and grease."
+      ],
+      [
+        "Fellcraft Hammer",
+        "A rusted and fractured iron hammer. A curious anger fills your body when you touch its splintered oaken handle..."
+      ],
+      [
+        "The Flying Wheel",
+        "A large brass gear emblazoned with a running demon, it feels impossibly light and almost floats."
+      ],
+      [
+        "Grave Foreman's Salts",
+        "A small paper pouch containing smelling salts that reek of grave dirt and stormy skies."
+      ],
+      [
+        "Kiln Heart",
+        "A jagged and twisted piece of slag the size of an ox’s heart, warm to the touch and gently beating."
+      ],
+      [
+        "Placentallic Grease",
+        "A jar of thick grease that sparkles as if made with powdered gemstones; it feels strange to touch, as if imbued with a faint electricity."
+      ],
+      [
+        "Silverseer Rods",
+        "A pair of dowsing rods made with silver and lodestone handles, the rods seem to twitch and hum when not in use."
+      ],
+      [
+        "Strognarm's Bone",
+        "Small chunk of arm-bone, seemingly made of beaten and worn cast-iron."
+      ],
+      [
+        "Twixt Pipes",
+        "A pair of brass pipes as wide as two fingers, etched with geometric sigils and silver filigree; they hum when brought close together."
+      ],
+      [
+        "Unbreakable Rod",
+        "A five-foot long polished metal rod as thick as a person’s thumb, comfortably light and devoid of any markings or wear."
+      ]
+    ],
+    "NPCNames": [
+      "Gerri Pitswaller",
+      "Carboon",
+      "Rothurt",
+      "Samoyed Tinview",
+      "Parks Veelbower",
+      "Hasta",
+      "Bulstrode",
+      "Jalmen Stone",
+      "Pilstov",
+      "Constance Heelgrub",
+      "Bo",
+      "Tilli Vagmoot"
+    ],
+    "NPCJobs": [
+      "assembly floor cleaner",
+      "teeth grinder",
+      "machinist",
+      "purveyor of dustpans",
+      "professional box-stacker",
+      "labor hand",
+      "welder",
+      "copper magnet specialist",
+      "record keeper",
+      "quality control miser",
+      "oil sampler",
+      "bore eel exterminator"
+    ],
+    "NPCQuirks": [
+      "Claims to hear the vibrations of the Wurm.",
+      "Smokes a pipe, is never seen to refill it.",
+      "Claims to be fireproof. Is not.",
+      "Only stubs of fingers remain on their left hand.",
+      "Can whistle a fine tune through their tin   teeth.",
+      "Prone to nosebleeds around soap.",
+      "Has a secret junk pile in their backyard.",
+      "A glass tubular level vial has gotten stuck into their cranium; oddly they are always level.",
+      "Keeps rolls and rolls of schematics on  them at all times.",
+      "Genetic anomaly has left them with an extra finger.",
+      "Completely deaf.",
+      "Has a massive key-ring with no idea what they go to."
+    ],
+    "StreetNames": [
+      "Magma Lane",
+      "Stone-cutter Tunnel",
+      "Acid Leaseway",
+      "Trifolium Alley",
+      "Fell Ingot Drive",
+      "Pump Run Road",
+      "Hammer Street",
+      "Sifting Boulevard",
+      "Exchange Close",
+      "Bolt Avenue",
+      "Crucible Row",
+      "Rope-Beater Walk"
+    ],
+    "StreetAppearances": [
+      "Street and walkway is always wet with a shimmering sheen.",
+      "Pipes burst from underneath the ground like writhing snakes.",
+      "Acid rain has left the majority of buildings with half-melted facades.",
+      "Grout between cobblestones has been replaced by excess metal runoff.",
+      "Canvas flags advertising goods and services.",
+      "Buildings are stained gray by soot and pock- marked by attempts to chip the dirt away.",
+      "Strange and old symbols are painted over the doorways in grease.",
+      "Rusted metal and broken machines line the lanes.",
+      "Hot clouds of exhaust pulse up through sewer grates on a timer; locals avoid them on instinct.",
+      "Most of the buildings are made from leftover industrial sized metal drums.",
+      "Denizens are mostly nocturnal and use the moonlight for forging.",
+      "Great statues made out of unused parts keep watch over the stoops of family homes."
+    ],
+    "ShopNames": [
+      "Trappings and Cudgels",
+      "Twice Bolted Goods",
+      "Rusty’s Emporium",
+      "Loot & Brook",
+      "Hardboiled Consignment",
+      "The Heap",
+      "Ham’s Fine Slices",
+      "Casper’s Fine Grinding",
+      "The Aurjax’s Utter",
+      "Jesop’s Gear",
+      "Slung Back Imports",
+      "Commodities and Commons"
+    ],
+    "ShopQuirks": [
+      "Various blueprints are framed all over the shop; some look familiar.",
+      "Dazzling and strange instruments hang precariously from the ceiling.",
+      "Painted lines on the shop floor seem like a map of an underground system.",
+      "Collections upon collections of doorknobs.",
+      "What is clearly a bore eel hole is boarded up on the showroom floor.",
+      "All goods are strapped down, for some reason.",
+      "Wrought iron griffons defend the shopfront.",
+      "The owner has attempted to automate the cash register; it now spits coins in displeasure.",
+      "Piles of junk obscure every window and door, yet the owner knows where everything is.",
+      "Huge foggy bulbs hum with light, the vibrations can be felt in your teeth.",
+      "Metal grit covers everything and gets into the most uncomfortable places.",
+      "Huge drums of mysterious liquids fill the space; it is impossible to tell which one is leaking."
+    ],
+    "Encounters": [
+      [
+        "1d6 Laborers",
+        "Tired, helpful but lethargic.",
+        "Busy, would rather not be disturbed unless paid.",
+        "Hostile if bothered."
+      ],
+      [
+        "1d6 Slag Men",
+        "Hungry, helpful if fed metals.",
+        "Pained, hostile if disturbed.",
+        "Hostile, frenzied with hunger."
+      ],
+      [
+        "2d20 Strikers",
+        "Busy, would rather not be disturbed unless paid. Openly hostile to scabs or company sympathizers."
+      ],
+      [
+        "Strike Breaker Mob, 1d6 Strike-Breakers and 1d10 Scabs",
+        "Busy, would rather not be disturbed unless paid. Openly hostile to strikers or union sympathizers."
+      ],
+      [
+        "1d3 Crucible Guards",
+        "Demand the characters leave their vicinity.",
+        "Attempt to fine the characters 50 coins each for “disrupting productivity.”",
+        "Hostile, chase characters for sport."
+      ],
+      [
+        "1d3 Quota-Checkers and Crucible Guard",
+        "Interrogate anyone who doesn’t look busy for 1d4 hours, openly hostile to strikers."
+      ],
+      [
+        "1d6 Grease Chimps",
+        "Bored, hostile if bothered.",
+        "Curious, looking for entertainment.",
+        "Hostile, attack bystanders."
+      ],
+      [
+        "1d4 Bore Eels",
+        "Just ate, only hostile if bothered.",
+        "Hungry, hostile until fed.",
+        "Ambush! Waits to strike when characters least expect it."
+      ],
+      [
+        "1d4 Arsonists",
+        "Fleeing a scene, hostile if disturbed.",
+        "Actively torching a building, friendly if assisted, hostile if not.",
+        "Hostile, thinks you were a witness."
+      ],
+      [
+        "Street Fight, 1d20 Strikers and 1d20 Scabs",
+        "The street has erupted into chaos as strikers and scabs wage a bloody brawl."
+      ],
+      [
+        "Street Gang, 1d6 Laborers and 1d4 Saboteurs",
+        "Square up for a fair brawl.",
+        "Demand money from characters or a beating.",
+        "Hostile, out for a dead body."
+      ],
+      [
+        "Riot Suppression, 1d6 Crucible Guards and 1d10 Strike Breakers",
+        "Demand characters leave the vicinity, attack anyone who might be affiliated with strikers or a union."
+      ],
+      [
+        "Aurjax",
+        "Hostile to anything caught in its path."
+      ],
+      [
+        "Dreadnought",
+        "Runs amok in the city, attacks those who try and stop it."
+      ]
+    ]
+  },
+  "Archivist": {
+    "Features": [
+      [
+        "Sheet Makers",
+        "The smell of wood pulp and vellum, accompanied by the sound of stone chisels ringing through the street. The workshops here are dedicated to the craft of writing surfaces, from fine sheets of paper to sturdy plaques of stone."
+      ],
+      [
+        "Scriptorium",
+        "Hundreds of hunched and ink-stained figures work in vast candle-lit halls, scribbling furiously from an orator's direction. These deft scribes work tirelessly to copy old works or pen new ones for the ever-growing libraries."
+      ],
+      [
+        "Binderies",
+        "Stacks of unbound signatures, spools of thread, and pungent glue pour in by the cart load, while the sound of mallets and presses sound from busy laborers. It is here that disassembled pages and manuscripts are turned into marvelous decorated tomes."
+      ],
+      [
+        "Shady Bookseller",
+        "Tucked away from discerning eyes lies a cramped and secretive bookstore of banned and forbidden works, all rare or expensive. The off-putting owner speaks in riddles and hints to some unspeakable secret hidden within..."
+      ],
+      [
+        "Tower of Tongues",
+        "A line of folk gather outside of an elegant and colorful tower decorated in banners sporting countless languages. Staffed by linguists and translators, the tower offers translation services of books, phrases, and even esoteric symbology."
+      ],
+      [
+        "University",
+        "Scholars and students alike crowd the halls of this institute of higher learning (pg. 62)."
+      ],
+      [
+        "Entombed Library",
+        "A massive and ominous library sits silent. Few speak of it and avoid looking at it, less they remember why the edifice was sealed shut forever.",
+        "The inside is filled with all manner of histories and accounts. What is puzzling is that all are filled with fictional histories and absurd truths – or so it seems...",
+        "A dangerous and powerful truth began to animate the many books, filling the shelves with ravenous and bloodthirsty tomes that devoured the librarians within.",
+        "The powerful and all-knowing caretaker of the library began to acquire dark predilections and dangerous secrets. Before they could unleash their plans upon the world, they were sealed within their own library, left to go feral as they plot within their decaying prison."
+      ],
+      [
+        "Hall of Records",
+        "A labyrinthine structure whose darkened halls hold all manner of meticulously organized records and information.",
+        "Stacks upon stacks of ledgers, scrolls, and note scraps are organized by an impossibly convoluted cataloging system.",
+        "Hundreds of orators, singers, and word-smiths are kept on retainer in tight but lavish living quarters in order to express what words cannot.",
+        "Written permission from the Nobility or librarians must be given to access this place, for inside are the still living brains of great thinkers and scholars kept alive in fluid-filled jars. Memories and thoughts are accessed with strange eldritch machines."
+      ],
+      [
+        "Ink-works",
+        "Pungent smells sting the nostrils while every surface and person seems to be stained with pigment. Strange and vibrant inks are made by the barrel, all in order to meet the demand of libraries and scribes across the city."
+      ],
+      [
+        "Repository Warehouse",
+        "Enormous warehouses meant to hold the un-circulated collections of libraries and wealthy individuals, guarded by bored and understaffed watchmen.",
+        "Countless disorganized tomes are stacked in worm-infested towers, some crumbling away into piles of pulp.",
+        "Dusty sheets cover hundreds of water-damaged antiquities and art pieces, long-abandoned by an uncaring or forgetful collector.",
+        "Piles of seeming rubbish and mundane goods are meticulously organized and maintained, albeit to what end?"
+      ]
+    ],
+    "Issues": [
+      [
+        "Large-scale Banning",
+        "Those who rule have deemed a large collection of texts “dangerous” or “degenerate” to the public. Burn piles are a common sight, while brave few attempt to hide the precious texts."
+      ],
+      [
+        "Infestation",
+        "A breakout of vermin and book parasites spell doom for many texts. Libraries and collections quarantine themselves to avoid disaster."
+      ],
+      [
+        "Intellectual Schism",
+        "Powerful schools of thought have split and come to a violent impasse. Lines have been drawn and supporters wage war against one another."
+      ],
+      [
+        "Privatized Libraries",
+        "Information is permitted, but only to those who can afford it. Steep fees or levies are collected by private library owners."
+      ],
+      [
+        "Unsanctioned “Collecting”",
+        "The area is gripped with a feverish need to steal and collect. Like a strange madness, break-ins and organized robberies are common, while such ill-gotten items are carefully hoarded by these “collectors.”"
+      ],
+      [
+        "Forgery Crisis",
+        "Be it an important scholarly work or artifact, the item has been revealed as a fake. Scholars panic, countless years of research are made obsolete, and academia crumbles at this reality."
+      ],
+      [
+        "Dangerous Grimoire",
+        "A text of great and dangerous power has arrived. Thieves look to steal it, scholars wish to read it, while the libraries fear the horror it could unleash..."
+      ],
+      [
+        "Defective Ink",
+        "A massive batch of ink is dangerously defective, wrecking havoc on both texts and folks alike.",
+        "The chemical make up is corrosive, dissolving holes in pages. What’s worse: some seem to catch fire at random.",
+        "The ink refuses to dry or becomes wet again after a time. Puddles of ink drip down shelves or soak the text they were a part of.",
+        "A dangerous mineral or chemical was mixed in the ink. Scribes fall ill or die, and the books poison those they touch."
+      ],
+      [
+        "Dark Research",
+        "Powerful leaders and thinkers have undertaken a foul and dangerous research. Rumors leak out of what they might be studying while those associated with the project begin to disappear..."
+      ],
+      [
+        "Thought Police",
+        "Nobles and authorities have labeled certain beliefs and ideas “unbecoming of a citizen.” Paranoia spreads, while flame-wielding inquisitors prowl the street to weed out the “guilty.”"
+      ]
+    ],
+    "Factions": [
+      "The Conclave of the Centipede",
+      "The Incendiary Annotation",
+      "The Transparent Press"
+    ],
+    "Changes": [
+      ["Critic","You’ve become well-known enough that a critic has dedicated column after column to your “misdeeds.” They seem to follow your every action, and word will spread unless they are handled."],
+      ["Myopic","The often dim lighting and innumerable scribbles on myriads of books has left you with deteriorating eyesight. Reading takes twice as long and it is difficult to see in low light."],
+      ["Glue-Sweats","A strange fever that may come and go, it causes the inflicted to sweat profusely. This perspiration has such a sticky consistency, anything touched adheres to it."],
+      ["Book Bane","Rumor or reputation has spread through the shelves and now books hate you. They will hurt you if they’re capable, from paper cuts to eye-strain, while spell-books weave malicious plots..."],
+      ["Key Marrow","This odd mutation is most often found in scribes. Long hours of writing has caused strange calcified lumps to grow on their fingers that resemble the teeth of keys. Fine motor tasks are difficult. Good luck finding gloves that fit."],
+      ["Unread Boils","Whenever you start a new book but do not immediately finish it, boils begin to appear all over your body in the form of page numbers or lines from the unfinished book."],
+      ["Inkbludd","Your blood changes to a strange and dark crimson ink. The ink stains anything it touches while a cult of particularly dangerous scribes seek you out to “refill” their inkwells with your blood..."],
+      ["Esoteriphobia","You are medically incapable of keeping a secret. Holding a secret for more than a day causes physical pain which can only be relived by loudly sharing the secret in a public space."],
+      ["Stinging Syllables","Larger words cause a distracting amount of pain. The occasional esoteric or multi- syllabic vernacular feels as an errant sting, while scholarly essays and loquacious sesquipedalians are agonizing."],
+      ["Devil’s Details","You are compelled to record everything. Each day you spend 1d3 hours recording every event and sight (large and small) and burn through 1d4 vials of ink a week."]
+    ],
+    "Boons": [
+      ["Quill Fingernails","Your fingernails lengthen and divide into quills. They do not cause discomfort and always seem to be wet with a dark red ink..."],
+      ["The Twinned Scribe","Your hands, eyes, and brain begin to operate independent of one another. You can easily write and read with each hand and eye individually; some scribes see you as a divine being."],
+      ["Secret Patron","A powerful and intelligent patron has taken a secret interest in you. They appear in your dreams, where they will ask tasks of you and answer the occasional question."],
+      ["Bookfinder","A sense dedicated to books opens within you. You may seek out and find any book so long as it is within 1 mile of you."],
+      ["Scribblemancy","Your absent minded scribbles hold a strange power. Writing or doodling for 1d6 hours has a 1-in-100 of revealing a dangerous secret or magical power."],
+      ["Chance Tongues","Your tongue picks up languages quickly, but forgets them just as easily. Each day you wake up fluent in a second random language, but forget the old one from the day before."],
+      ["Tortoise Hand","Studying the master calligrapher’s work has enabled you to master one style of writing; however, it takes you three times as long to write."],
+      ["Vellum Gnawer","You body mistakes the hunger for knowledge as a physiological need, not a metaphorical one. You may eat parchment or paper in place of a meal with no ill effect."],
+      ["Waxen Blood","Your blood takes on a candle-wax consistency. Your blood congeals faster, and wounds that would be grievous or cause bleeding staunch quickly."],
+      ["Keen Ears","Creeping around libraries not making a sound has paid off, as you can hear even the slightest of sounds in an otherwise silent area. However, crowds can get annoying."]
+    ],
+    "Items": [
+      "Scribe Robes",
+      "Stainless Gloves",
+      "Stainless Smock",
+      "Awl",
+      "Ceramic Jar",
+      "Clockwork Timer",
+      "Glue, 1 pint",
+      "Ink, vial",
+      "Hourglass",
+      "Monocle",
+      "Graphite, Vial",
+      "Quill",
+      "Sealing Wax",
+      "Signet Ring",
+      "Vellum, 5ft. roll",
+      "Paper, 5ft. roll",
+      "Dried Berries",
+      "Fried Vellum",
+      "Porridge",
+      "Absinthe",
+      "Berry Tea",
+      "Ink Wine",
+      "1d8 jars of vibrant pigments",
+      "Jar of powdered graphite",
+      "Over-sized dirty quill made from a dire pigeon",
+      "Soiled book, appears to be a random reference manual",
+      "Jug of mixing medium",
+      "100 feet of copper twine",
+      "Blade from a paper guillotine, clearly used in a fight",
+      "Set of drawing pencils, half are gone",
+      "Bag of sharp rusted nibs",
+      "Set of leather sewing needles",
+      "Crumpled pamphlet about astrology",
+      "Deck of playing cards featuring famous scholars",
+      "Curious brass key with an eyeball motif",
+      "Hastily written manuscript of raunchy explicit poetry",
+      "Pocketbook filled with dates and times",
+      "Bottle of pungent stain remover, causes dizzy spells",
+      "Ornate letter opener, sharp as a skinning knife",
+      "Opened can of “Griffon Glue,” made from real griffons",
+      "1d3 expensive vials of ink",
+      "1d3 yards of tanned leather",
+      "Cracked pocket watch featuring a spider motif",
+      "1d10 shimmering candles wrapped in decorative paper",
+      "Elaborately carved bone folder (for display only)",
+      "Jar filled with thick liquid, dubiously labeled ink",
+      "Tiny mosaic fragment of a stern and mysterious eye",
+      "Dirty book, inside is pristine and empty",
+      "5 empty vials of surprising strength",
+      "Soft pink quill that smells of roses when used",
+      "Glittering crystal paperweight, a trapped moth within",
+      "Clockwork mechanism, its original purpose unkown",
+      "Cat-shaped potpourri satchel",
+      "A golden library card",
+      "1d6 clay jars of turpentine, meant to be thrown",
+      "Pouch of wax seals from various businesses",
+      "17 Cane made from a printing press bar",
+      "Handwoven silk bookmark",
+      "1d4 sticks of writing charcoal",
+      "Tarnished silver lighter, image of a cackling fire demon",
+      "Bottle of cloudy absinthe, glowing label says “Writer’s Plumber”",
+      "Pouch of luminescent pigments",
+      "Ornate knife, blade shaped like a pen nib",
+      "1d8 nuggets of resin, sticky and flammable",
+      "Tiny animal brain, preserved in a pristine jar",
+      "13 torn pages, folded together and sealed",
+      "Small wooden box, empty",
+      "A pair of dull steel scissors",
+      "Monocle made of quartz",
+      "Roll of uncut marbled paper",
+      "Velvet pouch of indigo seeds",
+      "Receipt for a mysterious book"
+    ],
+    "Contraband": [
+      "Arson’s Wick, a brilliant candle, its wax the colors of dancing fire.",
+      "Fellmetal Awl, an oddly heavy awl, its metal tip seems to shift in color and feels uncomfortable to the touch.",
+      "Grift-Signet, a signet ring, its face is coated in a strange viscous metal that seems to dance and quiver.",
+      "Gravitas Ink, an ink vial containing a shimmering black ink, the glass itself seems stained from its very touch.",
+      "Ink Mites, a vial of translucent fleas that hungrily dance when near paper.",
+      "Leech Lantern, an iron lantern, cold to the touch– a single pale crystal glows faintly within."
+    ],
+    "Artifacts": [
+      [
+        "Auto-Scholar",
+        "Pristine brass plates house a head- sized box of whirring gears, pistons, and springs; keys emblazoned with numbers and letters tick away in curious fervor."
+      ],
+      [
+        "Curse Press",
+        "Printing rolls and press screws dripping with caustic ink, this heavy infernal printing press reeks of brimstone."
+      ],
+      [
+        "Dead Writer's Block",
+        "A writing table worn with use and stained with ink, the ominous outline of a figure can be seen on its surface."
+      ],
+      [
+        "Golden Familiar",
+        "A large golden statuette in the form of a crawling arthropod, its delicate movements betray a hidden intelligence."
+      ],
+      [
+        "Gemini Nails",
+        "A pair of twinkling silver nails, inlaid with golden filigree depicting a mortal brain; their points are stained with dried blood."
+      ],
+      [
+        "Paper Cat",
+        "A household cat apparently made from fine vellum; its fur rustles like paper being crumpled and purrs sound like pages being flipped through."
+      ],
+      [
+        "Vexing Monocle",
+        "Tarnished gold surrounds a seeing glass of scattered, shifting.colors."
+      ],
+      [
+        "Skin Scroll",
+        "Curious vellum roll of masterwork quality, it is warm to the touch and seems to pulse faintly when held."
+      ],
+      [
+        "Vicious Quill",
+        "A quill of ragged red plumage that ends with a jagged malicious tip."
+      ],
+      [
+        "Un-permissive Ink",
+        "An innocuous inkwell stamped with the image of a closed eye, the ink inside seems to shift in translucency and strains the eyes reading it."
+      ]
+    ],
+    "NPCNames": [
+      "Gewl Crabawl",
+      "Bonefold Jr.",
+      "Wick Shivershins",
+      "Billobi Tapers",
+      "Vallen",
+      "Zell Vagthorpe",
+      "Octovo Leedleach",
+      "Kingsley",
+      "Regulus Waxbone",
+      "Lemora Invictus",
+      "Awly",
+      "Keeltoes"
+    ],
+    "NPCJobs": [
+      "procurer of fine feathers",
+      "ink taster",
+      "glue maker",
+      "paper maker",
+      "label licker",
+      "apprentice scribe",
+      "senior illuminator",
+      "needlesmith",
+      "vellum inspector and buyer",
+      "ink bottler curator",
+      "awl sharpener",
+      "pulp shoveler"
+    ],
+    "NPCQuirks": [
+      "A firm proponent of scrolls over books, willing to get into a physical fight over it.",
+      "“Enjoys” the smell of glue.",
+      "Does not accept money, only trades or barters, is actually a cat.",
+      "Hair is filled with quills due to the habit of placing them there and forgetting them.",
+      "Lips and tongue are the color of ink.",
+      "Falling into a vat of indigo as a child has left them permanently tinted blue.",
+      "Snorted red ochre pigment on a dare, can no longer smell anything else.",
+      "Annotates in books that are not theirs.",
+      "Considers themselves a moonlighting editor, talks incessantly about it.",
+      "Insists that all books should be read backwards.",
+      "Wears a monocle despite heavy cataracts.",
+      "Fingers appear to have an extra joint."
+    ],
+    "ShopNames": [
+      "Writer’s Wing",
+      "Kerning and Cattery",
+      "Acadian Fine Goods",
+      "Perchon’s Books with Friends",
+      "Ten Silks and Copper Twist",
+      "The Lead Block",
+      "The Headsman’s Headband",
+      "Archemon’s Specialty Supplies",
+      "The Slippery Plume",
+      "Signature & Strike",
+      "Between Mull & Bone",
+      "Thread’s "
+    ],
+    "ShopQuirks": [
+      "All of the windows have been stained yellow.",
+      "Only sells black covered notebooks, all other inquiries will be met with rage.",
+      "Housing a public press means that this shop is constantly packed and reeking of ink.",
+      "Candles burning continuously throughout the store has left a waxy residue on everything.",
+      "Vellum of strange and ominous origins may be purchased here.",
+      "Walls held together with glue and book pages.",
+      "A grand five-story shop; however, a clerk follows you the entire time you are there.",
+      "Birds hang from cages all through the shop, many half bald spots from a “pick your own feather quill” sale.",
+      "Filled with printing-press type cases; however, the letter “u” is missing from all of them.",
+      "Strange silver dials and glass distillery sets encased in large display cabinets.",
+      "Floor is made from wooden writing desks, many have cryptic phrases carved into them.",
+      "Shelves reach towards an ominous unseen ceiling."
+    ],
+    "StreetNames": [
+      "Pulp Avenue",
+      "Coptic Way",
+      "Continuum Street",
+      "Tooling Drive",
+      "Bleed Close",
+      "HogHair Thoroughfare",
+      "Gilded Pressway",
+      "KettleBound Lane",
+      "Ribbon Strip",
+      "Iron Gall Alley",
+      "Soot & Sable Corners",
+      "Quillshank Terrance"
+    ],
+    "StreetAppearances": [
+      "Heavy stench of wood pulp is always in the air.",
+      "Piles of downy feathers clog up the sewer grates.",
+      "All of the light posts are covered with fliers and posters giving them a fluttering appearance.",
+      "Discarded quills, pens, and pencils litter the way, causing peril to anyone walking through.",
+      "Heavy wrought-iron gates line the sidewalks with small brass inscriptions of long-dead scribes.",
+      "Ink has stained the cobblestones in blotches of black, blue, and red.",
+      "Piles of boxes of books are left at street corners to rot.",
+      "All buildings have grotesque gargoyles perched on their alcoves, each night they rotate rooftops.",
+      "Street windows are all painted with exquisite lettering that changes every time it rains.",
+      "Nightly brawls between rival publishing houses.",
+      "Buildings have burn marks from fires started by book burners.",
+      "Artists and students line the street from dawn till dusk, all vying for an apprenticeship."
+    ],
+    "Encounters": [
+      [
+        "1d6 Scribes",
+        "Bored, helpful and looking for something to do.",
+        "Ambivalent.",
+        "Busy, would rather not be disturbed."
+      ],
+      [
+        "Curator",
+        "Bored, helpful and looking for something to do.",
+        "Ambivalent.",
+        "Busy, would rather not be disturbed."
+      ],
+      [
+        "Librarian and 2d6 Scribes",
+        "In need of help with somesmall task.",
+        "Busy, would rather not be disturbed.",
+        "Irritated, hostile if disturbed."
+      ],
+      [
+        "1d3 Curators and Inquisitor",
+        "Busy, hostile if disturbed.",
+        "Tells characters to leave vicinity, attack if ignored.",
+        "Demand characters relinquish all written material, attack if ignored."
+      ],
+      [
+        "1d4 Guardgoyles",
+        "Guarding their ward, hostile if disturbed."
+      ],
+      [
+        "1d4 Errant Scribbles",
+        "Passive, only hostile if attacked.",
+        "Hostile, attacks nearest thing."
+      ],
+      [
+        "1d8 Marginalia Gremlins",
+        "Busy, off to cause chaos.",
+        " Looking for an easy target to attack.",
+        "Hostile."
+      ],
+      [
+        "1d8 Candle-Men",
+        "Hostile if flame is present, otherwise only hostile if disturbed."
+      ],
+      [
+        "1d20 Scuttle Imps",
+        "Busy, just stole something.",
+        "Secretly tries to steal something from the characters.",
+        "Fervent, attack any living thing."
+      ],
+      [
+        "Stack Panther",
+        "Tired, just ate and possibly helpful.",
+        "Hungry, looking for an easy meal.",
+        "Ambushes characters."
+      ],
+      [
+        "1d8 Rogue Scribes and 1d6 Errant Scribbles",
+        "Busy, hostile if disturbed.",
+        "Demand characters listen to their ravings, attack if ignored.",
+        "Hostile."
+      ],
+      [
+        "1d3 Inquisitors and 1d6 Candle-Men",
+        "Busy, hostile if disturbed.",
+        "Demand characters relinquish all written material, attack if ignored.",
+        "Attack, claim characters carry contraband."
+      ],
+      [
+        "Grimoire Mummy",
+        "Hostile, unless given permission to view their contents and text."
+      ],
+      [
+        "Library Infestation, 1d10 Scuttle Imps, 1d10 Marginalia Gremlins & 1d6 Errant Scribbles",
+        "Attack unless characters flee their presence or offer to join their chaos.",
+        "Torment characters with parting attacks and theft.",
+        "Hostile and out for blood."
+      ]
+    ]
+  }
+}

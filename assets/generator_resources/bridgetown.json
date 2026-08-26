@@ -1,0 +1,785 @@
+{
+  "Locations": [{
+    "Name": "The Heights",
+    "Image": "bt_heights.png",
+    "Quote": "Stone-Hoarders above, Turnpricks and taxes ahead and behind, Void to either side and noth’n but shite ’n Trolls below. Ain’t no wonder the Gruffs keep look’n for an End!",
+    "Quoter": "Oliver “Optimistic Ollie” Krutel, Man on the Street",
+    "Description": "Caught between the political engines of Towers, Sewers, and the Gatehouse, the Heights and Depths could be considered an archetypal Bridge district, insofar as the average traveler is concerned. Awful Birds (pg.XX) perch on spires, rooftop gardens are carefully tended, the Road is busy with comings and goings, and baskets full of “fishermen” are lowered over the side of the Bridge to haul strange and unlikely catches into the Heights. In the Depths, below the cobbles, the Trolls recycle waste from above, adventurous sorts seek ancient ruins, and dark dealings are wrought—away from prying eyes.",
+    "NPCs": [{
+      "Name": "Beaumont Apted",
+      "Description": "A high-strung Aristocrat with the tallest Tower anyone has ever seen, who has sealed off all its lower entrances to keep out the rabble. Less recluse, more rampant, paranoid xenophobe, Beaumont has never actually set foot outside the Tower. He uses complex basket/pulley systems for the movement of goods and a huge copper megaphone to yell proclamations across the district, acting as de facto “governor” of the Heights. He doesn’t know about the Sewer entrances under his Tower."
+    }, {
+      "Name": "Mistah DeBris (Skill 14, Stamina 32)",
+      "Description": "DeBris controls the underside of this district as the Local Sewer Baron of the Depths. Years of greed and corpulence have left this Troll an immobile (but still terribly dangerous) tumor, burrowed in the cistern below the Towers. He takes a cut of everything the Sewer-working Trolls find, and has built up quite a hoard within the hollowed-out Pile."
+    }, {
+      "Name": "Fulk Two-Pebs",
+      "Description": "Somehow this cart-pushing, filthy old man is everywhere, setting up his rolling “toll gate” and charging two pebbles to pass, though he doesn’t really do anything to stop those who refuse to pay his toll. He’s universally tolerated by all but the Turnpike Guilds, because (unlike them) he’s somehow actually collecting."
+    }, {
+      "Name": "Miranda “Make-Way Mim” Liveswell",
+      "Description": "By day, Make-Way Mim makes a living as a rickshaw puller, transporting people and goods up and down the district with speed and efficiency that’s nigh-supernatural. By night, she operates as an agent of the local Anti-Tower League: her work is much the same, but with the added goal of pulling down Beaumont’s Tower."
+    }, {
+      "Name": "Captain Irving Erstwhile (Skill 8, Stamina 8)",
+      "Description": "Thickly mustachioed commander of the local Gatehouse and subtle manipulator of the political elite. While the Aristocrats and Sewer Union both believe he’s on their side, Erstwhile quietly takes bribes from both to fund his eventual takeover."
+    }, {
+      "Name": "Nanny Rook",
+      "Description": "The oldest, craggiest Gruffolk anyone has ever seen. Nanny Rook maintains The Castle and Crow—inn, tavern, and store of general sundries. She’d still be walking the Bridge if she had either of her legs, but she knows her great grandkids are walking it for her."
+    }],
+    "Events": [{
+      "Name": "Street Brawl",
+      "Description": "Mistah DeBris’ Trolls (Skill 6, Stamina 14) and Sir Apted’s Tower-Guards (Skill 7, Stamina 6) are brawling in the street over some minor slight. Passersby not caught in the middle of the conflict jeer from the sidelines and wait to see what they can scavenge in the aftermath."
+    }, {
+      "Name": "Tax Season",
+      "Description": "Beaumont loudly announces from his megaphone that Tax Season has begun. Towerkeepers spread out to squeeze the populace for goods while citizens make themselves scarce. Outsiders, of course, will have to pay an inflated “transportation excise” tax."
+    }, {
+      "Name": "Sewer Strike",
+      "Description": "Trash piles up, smells rise, and creatures from the Depths crawl out of sewer grates. The Great Stink will continue until the Trolls feel adequately recognized for their contributions."
+    }, {
+      "Name": "Funeral",
+      "Description": "A Stonewright imbues an ancestral Keystone with the soul of a well-respected citizen who recently passed. The Keystone is replaced in a ceremonial arch, while the body is bequeathed to the Trolls for compost."
+    }, {
+      "Name": "Plank Duel",
+      "Description": "A plank is placed between the windows of adjacent towers and a pair of ceremoniously befeathered and armored champions (Skill 8, Stamina 10) shimmy out on either side. They fight until one relents or is thrown off. A crowd gathers below to watch—or perhaps to scavenge, if luck favors the onlookers over the combatants."
+    }, {
+      "Name": "Execution",
+      "Description": "Accused of High Crimes, a bound and gagged citizen is being forced to walk a plank off the side of the Bridge. The crowd appears split between a raucous lust for entertainment and querulous protests for the accused’s innocence."
+    }]
+  }, {
+    "Name": "Craterton",
+    "Image": "bt_craterton.png",
+    "Quote": "SEE THE ROCK, BUY THE SHIRT!",
+    "Quoter": "Flyposting at the Craterton Visitor Center",
+    "Description": "Sometime in the distant past, a massive rock fell from the sky and landed on this district. The Bridge did not collapse but The Rock has attracted strange sorts and produces stranger influences. These influences, by this point, are celebrated and encouraged—you are unlikely to see anyone quite like a Craterite anywhere else on the Bridge.",
+    "NPCs": [{
+      "Name": "Mayor Godfrey Burp (Skill 12, Stamina 5)",
+      "Description": "A sentient, gas-based lifeform fished up from the Void twenty years ago; he inhabits a bulbous metallic suit and will do anything to keep his position as mayor. Beyond all else, he wants to turn the district into a tourist attraction. His current scheme involves selling (counterfeit) chunks of The Rock as mementos."
+    }, {
+      "Name": "Doc Azoth",
+      "Description": "A Stonewright who theorizes that all life is essentially clay, and clay is just soft stone. She has made great leaps in the science of stonework, but her magical experiments have unreliable results, for good and for ill. The night courses she teaches to fund her research are surprisingly popular."
+    }, {
+      "Name": "Jackie Pulpit (Skill 7, Stamina 12)",
+      "Description": "A Troll Blacksmith/Tinkerer who recently uncovered the secrets of Black Powder, meaning she’ll pay a premium for Awful Bird Guano. While the explosive nature of Black Powder may have devastating consequences for the Bridge, Jackie aims to use it to invent a mechanized means of travel."
+    }, {
+      "Name": "Wally (Skill 6, Stamina 16)",
+      "Description": "No one has seen Wally beyond their long gloved hand poking up through the cobbles or out of holes in the wall. Their voice—described as the auditory equivalent to a rotten egg—leaks through the stones, enticing passersby to approach. Wally specializes in rare and outlandish goods, which they offer in return for trades or bizarre favors."
+    }, {
+      "Name": "Miss Faux (Skill 10, Stamina 8)",
+      "Description": "One of the few seemingly “normal” Bridgers, this pristine and doll-like woman runs a furniture store, and the fine and rare woods used in her creations are much sought after. Unknown to most, Miss Faux, the store, and everything within are Mimics (Skill 8, Stamina 8)."
+    }, {
+      "Name": "Hank, Molly, and Oakes (Skill 9, Stamina 12)",
+      "Description": "A trio of self-described adventurers and Under-Delvers who semi-retired in Craterton years ago. They are local heroes after clearing out an Under-Thing-infested tomb years back, and have been riding that wave ever since. Their group is knowledgeable and friendly, but not about to be upstaged. Don’t ask about their goose-like masks."
+    }],
+    "Events": [{
+      "Name": "The Rock Festival",
+      "Description": "Craterton is filled with loud music and a festive atmosphere as its strange residents celebrate around The Rock. The food is iffy and the trinkets are shoddy, but there is something charming and magnetic about the merrymaking nonetheless."
+    }, {
+      "Name": "Black Powder Backfire",
+      "Description": "Jackie’s experimentation with Black Powder results in an explosion, taking out her smithy and a chunk of the district with it."
+    }, {
+      "Name": "The Keenings Rise Up! ",
+      "Description": "The Rock’s influence awakens Keystones embedded throughout the district. Homes and businesses begin to crumble as their stones reshape into enraged Keenings (Skill 11, Stamina 16). "
+    }, {
+      "Name": "Escaped Experiments",
+      "Description": "Half-Clay Abominations (Skill 6, Stamina 13) ooze up from the cobblestones, desperate seeking in their eyes and desperate violence in their limbs."
+    }, {
+      "Name": "Catch of the Day!",
+      "Description": "A “fishing” basket is raised up from the side of the Bridge, containing strange flotsam from other worlds. You never know what might come up—after all, this is how the Mayor got here. Roll 1d6+50 on the Weather Table on pg. XX for some ideas."
+    }, {
+      "Name": "Coblin Ceremony",
+      "Description": "In the depths of the night, a host of Coblins encircle The Rock and recite a droning, unintelligible prayer. Some graybeards theorize the Coblins see it as some kind of god or Mega-Coblin."
+    }]
+  }, {
+    "Name": "The Squeeze",
+    "Image": "bt_squeeze.png",
+    "Quote": "When Nuncle got carried away by that Albatross we mourned o’course, but now we gots a whole two square meters opened up! We gots room for a chamberpot now!",
+    "Quoter": "Jessie Gantry, who hopes her little brother is carried off next",
+    "Description": "Living space on any span of The Bridge is limited, but occupants of this district have brought the population density to new heights. A single footpath cuts directly through the Squeeze, barely wide enough to fit a solitary traveler; hundreds of side alleys stem from it, jutting into the sardined housing structures to each side. Much of the local populace make use of roofways and window-to-window travel—the idea of personal space and privacy is all but foreign to the average citizen.",
+    "NPCs": [{
+      "Name": "The Jetsam Clan",
+      "Description": "A large huddle of Coblins that prowl the street level, scavenging everything dropped from the roofs above to be repurposed, sold off, or dumped unceremoniously into the sewers. Anything lost might find its way into the Jetsam’s many, many hands."
+    }, {
+      "Name": "The Flotsam Clan",
+      "Description": "A rival clan to The Jetsam, these Coblins have taken to press-ganging Awful Birds (pg. XX) into their service, though their aerial raids on the Big Folk are rarely more than a nuisance. When the Jetsam and the Flotsam both desire the same, shiny find, be ready for an all-out turf war."
+    }, {
+      "Name": "Phineas Flocking",
+      "Description": "Some imagine life in a place other than the Bridge; Phineas actively seeks to escape its endless cobbles. He’s been studying the Awful Birds and believes they must be able to get somewhere—anywhere—else. To pursue this theory, he has been busily crafting a great pair of wings."
+    }, {
+      "Name": "Jenny Lackland (Skill 8, Stamina 7, damage as Maul)",
+      "Description": "Somewhere among the buildings of The Squeeze, Jenny Lackland has demolished walls and hidden a cathedral-sized cafe she calls The Sprawl. Huge pillows, hot drinks, and comfort above all else rule here—causing trouble on the premises will earn you a visit from Jenny and her half-ton fist. "
+    }, {
+      "Name": "Slick Sam (Skill 5, Stamina 8)",
+      "Description": "There is one quick way through The Squeeze—the Sewers. If you need to find your way through the dark, labyrinthian mess beneath the streets, Slick Sam is the Troll to seek out. The self-professed Pipe Guide can get you anywhere in the Squeeze in record time… for a price."
+    }, {
+      "Name": "Sluice-Gate Jack (Skill 11, Stamina 7)",
+      "Description": "A notorious serial killer able to move throughout The Squeeze quicker than anyone should. The gossip mills claim “he” squeezes through the tight grates and pipes between buildings, but how he does it is anyone’s guess."
+    }],
+    "Events": [{
+      "Name": "Farmers Market",
+      "Description": "Like most of the Bridge, gardens can only be grown on roofs and vertical terraces, but there isn’t even room to trade their produce on the Squeeze’s street level. The Farmers Market shifts between a number of large roofs, tents pitched and rugs laid out en masse. Theft is rare, since every vendor is armed to the teeth to deal with the Awful Birds."
+    }, {
+      "Name": "The Great Migration",
+      "Description": "Tens of thousands of Awful Birds live in the Squeeze, its endless nooks providing excellent nesting places. Twice a year, the Squeeze faces a time of mass havoc, rampant hunting, and lots of scrubbing, as the entire avian population leaves for and returns from their annual migration."
+    }, {
+      "Name": "A Scream From An Alley",
+      "Description": "Sluice-Gate Jack has struck again! A body and a retreating squishing noise are all the evidence left behind."
+    }, {
+      "Name": "Pole Racing Pilferers",
+      "Description": "Thieves use long poles to vault across the rooftops, their loot jingling from fat purses. Moments later, a pair of overworked, out-of-breath, off-duty Turnpikers come jogging after them."
+    }, {
+      "Name": "Coblin Turf War",
+      "Description": "The Flotsam and Jetsam Clans have come upon a truly fascinating find. The streets echo with the squeaks of their violence and run red with the spewing of their blood until one side is victorious."
+    }, {
+      "Name": "A Great Downpour",
+      "Description": "Rain rarely makes it through the many canopies and roofs of this district, but when a true storm arrives the people of The Squeeze welcome it. The street level becomes a river of filth as garbage is washed away. The Trolls often set up nets to catch anything interesting before it’s washed off the side of the Bridge."
+    }]
+  }, {
+    "Name": "The Crossroads",
+    "Image": "bt_cross.png",
+    "Quote": "Don’t see what all the fuss is about. It’s a crossing. Lots of things have crossings. I cross me fingers all the time an’ that doesn’t make me special—or above the Turnpricks’ laws.",
+    "Quoter": "Dibs, veteran Pebble-Pincher",
+    "Description": "The Bridge goes ever on, a straight path to infinity. However… However there is evidence of something else in this district. Its span is intersected by another. At least half a span’s worth of Bridge, known as the Perpendicular, is divided at its center by this district; each of its ends extend a quarter-span outward until they fall away to nothing. The great debate over what this might mean is generations old and will surely continue for generations to come.",
+    "NPCs": [{
+      "Name": "Bartleby Barrel (Skill 7, Stamina 11)",
+      "Description": "A self-proclaimed Knight-Errant who wears a barrel for armor and a colander for a helmet. Despite their obvious delusions, BB is actually a highly skilled adventurer. They’re considering leaping off the side of the Bridge with a bungee cord."
+    }, {
+      "Name": "The Minister of the East",
+      "Description": "One of two aristocrats ruling this district, their Tower rises where the sun dawns. All activity occurring in the light of day is overseen by East’s Ministry. Taxes, business dealings, education, and the general keeping of peace is the goal of East—even if that entails cleaning up after West."
+    }, {
+      "Name": "The Minister of the West",
+      "Description": "One of two aristocrats ruling this district, their Tower rises where the sun sets. All activity under the glow of the moon is overseen by West’s Ministry. Festival, feasting, romance, mystery, and even a bit of thievery and murder are permissible until the break of day, when East enforces order once more. "
+    }, {
+      "Name": "JOHN BRIDGER (Skill 4, Stamina 6)",
+      "Description": "YES! JOHN BRIDGER IS A NORMAL PERSON MADE OF ONE BODY NOT MANY COBLINS IN A TRENCHCOAT. JOHN IS JUST AN ORDINARY MERCHANT OF MANY WARES AND CERTAINLY NOT PART OF AN UNDERGROUND ORGANIZATION OF COBLIN FREEDOM FIGHTERS. THAT IS SUCH NONSENSE HAHAHA. NOW COME, BROWSE OUR WARES—I MEAN MY WARES."
+    }, {
+      "Name": "The Junctionist",
+      "Description": "A former Cobble Canter who believes they’ve found the spark of the divine they were looking for in the Crossroads. They now lead a successful cult that preaches prayer and radical balance will raise and rebuild the lost road, a paradise they call the “Occultated Perpendicular”."
+    }, {
+      "Name": "Harley Mason (Skill 5, Stamina 7)",
+      "Description": "An enterprising, rebellious young Gruffolk with a dream and the charisma to make it happen.Harley is fundamentally opposed to The Junctionist’s religious drivel, preferring a more hands-on approach to expansion. They seek to dismantle the Ministries and literally push the Towers over to build out the Perpendicular. They’d even dismantle the Bridge’s own bones to expand to “New Horizons”. "
+    }],
+    "Events": [{
+      "Name": "Billy Goat Toughs",
+      "Description": "Two Gruffolk (Skill 5, Stamina 6) stand face to face, each determined to walk opposite paths along the Bridge and each unwilling to allow the other to pass first. Dreadful violence is about to ensue."
+    }, {
+      "Name": "Changing of the Guard",
+      "Description": "Every morning and every evening the rule of this district is ritualistically bequeathed between East and West with the passing of a Keystone that holds the souls of all previous Ministers. Heavily guarded, the East and West representatives meet in the central square to publicly complete the handoff. It is believed that any interruption to this ceremony would result in a great catastrophe."
+    }, {
+      "Name": "A Keen Eye",
+      "Description": "A bespectacled, pipe-smoking Keening (Skill 9, Stamina 18) has been following a mysterious trail for some time, and it has come to fruition here at The Crossroads. Why are you at the end of it?"
+    }, {
+      "Name": "Gobblin’ Coblins",
+      "Description": "A ravenous host of Coblins burst from the walls, happily consuming any organic matter they can stick their myriad tiny forks into. They are craving something, and only that specific sustenance will satisfy their collective hunger."
+    }, {
+      "Name": "Crosswind Catastrophe",
+      "Description": "A powerful, gale-force wind whips down the Perpendicular, threatening to send any untethered person or thing careening into the Under."
+    }, {
+      "Name": "Solar Eclipse",
+      "Description": "The Sun and Moon align, casting an eerie luminescence across the Bridge. The Ministries are in a panic, the Junctionist preaches the End of Days, and the faint ectoplasmic ghost of a long-gone Bridge extends from the crumbling remains of the Perpendicular."
+    }]
+  }, {
+    "Name": "Sourstone",
+    "Image": "bt_sour.png",
+    "Quote": "Ay’d rather be honey dipp’n wit’ the Trolls than take one step on tha’ honeyed Cavity Road.",
+    "Quoter": "Two Toof Tiff, Veteran Pebble-Pincher",
+    "Description": "To find and settle in the Fabled Candy Cobbled Streets is the goal of every Pebble-Pincher: a place of plenty without toil, where you could pluck a stone from the very Bridge and eat it like an apple. This is not that place. This district was an attempt to make an artificial heaven in that legend’s image that went entirely wrong. Beware of strangers bearing sweets.",
+    "NPCs": [{
+      "Name": "The Stone Suckers (Skill 4, Stamina 6)",
+      "Description": "Whatever the Stone Suckers once were, they are now crawling, gluttonous things, more mouth and gut than anything else. You see, the strange magic that caused Sourstone actually did make the stones nutritious—if you spend all your waking hours sucking the juices from them like these creatures do. The Bridgers here raise Stone Suckers like cattle, food for those who do not suck the stones themselves."
+    }, {
+      "Name": "The Star Baker (Skill 6, Stamina 10)",
+      "Description": "A mad Stonewright who has taken to Sourstone like mold on bread. Using ground Keystones as the secret ingredient in their “recipes”, the Star Baker has created a host of pastries with miraculous effects. But are the Baker’s treats worth the cost of their creation?"
+    }, {
+      "Name": "The Gourmand (Skill 8, Stamina 8)",
+      "Description": "A Gruffolk who decided these streets are the Fat Pastures they’ve long sought: after all, they can eat anything and everything here. Unfortunately Gruffolk are not built to settle down for so long—the Gourmand’s extra bulk and the monotony of their sedentary years is getting to them. They will pay handsomely for anything new and interesting to eat."
+    }, {
+      "Name": "The Pinched Pebbles (Skill 4, Stamina 7)",
+      "Description": "A collection of jaded, aging Pebble-Pinchers. Once lured to Sourstone by saccharine promises, they managed to survive its many dangers but have little to show for it. Now they do all they can to drive away innocents while seeking out the district’s dark origins."
+    }, {
+      "Name": "Sweet Teeth (Skill 10, Stamina 16)",
+      "Description": "A district with this many sweets to freely sample was bound to cause decline in dental health; fortunately, Sweet Teeth graciously intervened. This hulking dentist, with a face entirely obscured by their surgical mask, performs extractions and nothing else. The only payment they accept is the teeth they pull and they carry a bulging sack, rattling with half-rotten teeth, everywhere they go."
+    }, {
+      "Name": "The Candymen (Skill 8, Stamina 11)",
+      "Description": "Stone Keenings are the Bridge’s banal tragedies; confused and pained, but not impossible to help or reason with. These things are not like Stone Keenings. They wear sugar-crystal top hats at jaunty angles and spin literal candy canes. Their every movement makes their sugar-coated bodies crack open, syrup oozing from their insides. They whistle and laugh with many voices as they stalk the streets for unfortunate souls to help “sweeten up the place”."
+    }],
+    "Events": [{
+      "Name": "Eating Contest - The Candymen are out in force. Whomever eats the most Bridgers in the next hour gets to wear the Sugar Crystal Crown this week."
+    }, {
+      "Name": "Cavities - The Stone Suckers have siphoned everything worth pulling from the stone, leaving it brittle. A false step crumbles the cobbles underfoot and sends you into the sickly-syrupy sewers. "
+    }, {
+      "Name": "Gingerbread Massacre - The Candymen are assaulting the Star Baker’s tower. They’re held off, for now, by a force of hundreds of Gingerbread Coblins (Skill 2, Stamina 4)."
+    }, {
+      "Name": "I Scream, You Scream, We Are All Screaming - A cold wind has whipped up the sticky substance of Sourstone, creating a growing ball of Rocky Road that tumbles disastrously through the span."
+    }, {
+      "Name": "A Pinched Predicament - One of the Pinched Pebbles has discovered a secret of Sourstone, but the Candymen are hot on their trail. The Pincher will seriously owe you if you save them from a delicious death."
+    }, {
+      "Name": "Rock Candy - An outcropping of brilliant, multi-hued crystal bursts from the Bridge—beautiful, valuable, and delicious. All factions (and lots of Awful Birds) will descend on it soon to claim this sweet prize as their own."
+    }]
+  }, {
+    "Name": "The Wyld Bridge",
+    "Image": "bt_wyld.png",
+    "Quote": "By the Stones! Fresh air in my lungs, green moss between my toes, and not a Gate in sight. If only t’were all this way.",
+    "Quoter": "Last words of Edwin Olmstead before being mauled by the Mosslings he stepped on",
+    "Description": "Some sections of The Bridge are long spans of wilderness, or at least what wilderness can grow in cobblestone. This location includes several, unconnected spans, and can be reused multiple times: it’s unlikely PCs will see everything in it.",
+    "NPCs": [{
+      "Name": "Anyone From Another Location",
+      "Description": "Anyone can be encountered on The Wyld Bridge, though Gruffolk, pilgrims, and merchants are most common. Roll on the Wyld Bridge Events and “Weather” Tables together to create a variety of random scenarios."
+    }],
+    "Events": [{
+      "Name": "Mossling Ambush",
+      "Description": "While most stretches of lichen are content to break the surface of the Bridge down into soil, some of the Bridge’s fungal heaps have acquired a taste for richer nutrients. When any warm body approaches, the Mosslings (Skill 3, Stamina 2) fling themselves en masse upon the target and begin to drain them of blood, penetrating the skin using their many dozens of fine filaments."
+    }, {
+      "Name": "Bridgequake",
+      "Description": "These sections of Bridge are shored up less often by Stonewrights and are prone to rumbling. Being tossed off the side of the Bridge is one concern, but more severe quakes may awaken dreaming Keenings, or worse."
+    }, {
+      "Name": "Wyld Bounty",
+      "Description": "Not much can survive in the thin topsoil available on much of the Bridge, but here an edible trove thrives. Wild gooseberries, onions, cabbage, beans… Perhaps this was a failed homestead."
+    }, {
+      "Name": "Gruffolk Stampede",
+      "Description": "Outside of more-inhabited spans and districts Gruffolk have space to run freely, and some of the teenage Gruffkids get over-excited by the opportunity. Several dozen such Gruffolk Youths (Skill 6, Stamina 5), drunk on freedom (and goat kumis), make sport of their run and take little heed of anything in their way."
+    }, {
+      "Name": "T(r)oll Bridge (Skill 14, Stamina 20)",
+      "Description": "This is decidedly not a Gatehouse. This is a large pile of rubble with the single largest Troll you’ve ever met in front of it. They want a whole month’s worth of rations or a very large goat as their toll. "
+    }, {
+      "Name": "Would-Be Conquerors",
+      "Description": "Armies are rare on the Bridge; they are difficult to maintain and to feed, and there is little to be gained from overtaking other spans or districts. This doesn’t stop the occasional Aristocrat from trying. A hodgepodge mix of mercenaries (Skill 5, Stamina 7) are on orders to interrogate, harass, draft, or kill any they come across."
+    }, {
+      "Name": "Iron Field",
+      "Description": "Metal is scarce on the Bridge and this small forest of rusty, exposed, man-thick rebar would be worth a fortune to anyone who could harvest it. But at what cost to the stability of the Bridge? And who or what else might be lurking nearby?"
+    }, {
+      "Name": "A Big Puddle",
+      "Description": "The Bridge is depressed here, allowing for nearly a span’s worth of water to pool up. Few non-Trolls know how to swim, and strange things may be lurking beneath the wind-lapped waves. Perhaps a blocked sewer could be cleared to drain this puddle and reveal what the water has been hiding."
+    }, {
+      "Name": "Shattered District",
+      "Description": "Though the stone persists, little can stop an uncontrolled fire. Whatever or whoever lived here is gone, only charred buildings and ash hint at the life that once dwelled here. The whispering of the unresting dead lingers in the district’s shadowed corners."
+    }, {
+      "Name": "Arch",
+      "Description": "The Bridge comes to a sudden sharp rise, contrary to its usual constant flatness. The climb can be a great burden for those not blessed with a Gruffolk’s agility and endurance."
+    }, {
+      "Name": "Homestead",
+      "Description": "Not everyone wishes to live within the districts and more populated spans, with their laws and Gatehouses. Someone (or ones) is eking out a living here, making due with what the Bridge provides. Who could say how they will treat a nosey traveler?"
+    }, {
+      "Name": "Coblin Colony",
+      "Description": "You couldn’t tell by looking at it—just a vast stretch of pebbles and flagstones, moss and brambles—however, this place is home to a veritable swarm of Coblins. They certainly don’t wish the Big Folk to know about it and they will not suffer those who would threaten their home."
+    }, {
+      "Name": "Desolation",
+      "Description": "Miles and miles of nothing but the flagstones of the Bridge. Nothing grows, the rains come rarely; not even the telltale rubble piles of Keenings can be found here. Exposure, hunger, and thirst are a danger for any who travel this way."
+    }, {
+      "Name": "Caravan",
+      "Description": "Trade between the spans is a necessary but costly ordeal, as the Gatehouse taxes limit the affordability of travel, particularly in groups. These caravans always walk a knife’s edge between great profit and great loss, but few beyond the itinerant Gruffolk have seen as much of the Bridge as the caravanners."
+    }, {
+      "Name": "The Hurdy Gurdy Man",
+      "Description": "A pebble for a tune, a provision for a song, the Hurdy Gurdy Man travels to droning ethereal rhythms and the rumbling of their stomach. There are old histories and new whimsys to be learned from the Hurdy Gurdy Man’s songs—share a loaf, have a listen, and rest a moment from your ceaseless journey."
+    }, {
+      "Name": "For Science!",
+      "Description": "A plucky young ecologist is looking for assistants and escorts to join them on an expedition into the nearby wilderness, where they plan to observe the highly elusive (and deadly) moss fauna that were once exposed to the Under-Fog."
+    }, {
+      "Name": "The Wright Place",
+      "Description": "A friendly traveling Stonewright happens to cross your path. They’re happy to provide basic services or perform any funerary rites needed, but will not look kindly on any Eroders in the party."
+    }, {
+      "Name": "Lonely Tower",
+      "Description": "One of the needle-thin Towers of the aristocracy sits here in an empty span. Why is it here? Is it still occupied? How does it still stand with its queer leanings and twists? What is that noise within?"
+    }, {
+      "Name": "The Truth is Out There",
+      "Description": "A wide-eyed Cobble Canter, wearing nothing but a sandwich board, rants and raves into the air. They have SEEN the End of the Bridge! What do they mean? The downfall? An actual End? If their screaming could be stopped, perhaps you’d be able to make some sense of it. "
+    }, {
+      "Name": "Coming or Going?",
+      "Description": "There are infinite versions of you out there in the ’verse and you are just as likely to meet them on an infinite Bridge as anywhere else. A near-matching or perhaps an Anti- version of the party is here, going the opposite direction."
+    }, {
+      "Name": "Rolling Stone Gathers",
+      "Description": "A nearly spherical Stone Keening is rolling down the Bridge, leaving little room to dodge out of the way. What will happen when it reaches civilization?!"
+    }]
+  }, {
+    "Name": "Gruffholm",
+    "Image": "bt_gruffholm.png",
+    "Quote": "Ye want news frae th’ Wyld Bridge? Ah almost lost mah bawbag tae a moss moggy on th’ way here: naethin’ new about that!",
+    "Quoter": "Drest, Gruffolk pilgrim",
+    "Description": "The Gruffs have no home besides the open road, but ancestral waypoints help keep their culture alive. There is no single Gruffholm and there is no one place a Gruffholm will remain, only the chance confluence of hunger, sore hooves, and want of company. This location can be used more than once, at different positions along the Bridge, as new assemblages of Gruffolk are formed.",
+    "NPCs": [{
+      "Name": "The Big Gruff",
+      "Description": "A shifting role, the Big Gruff is the biggest, strongest, wisest, or at least eldest Gruff currently in residence at Gruffholm. Their word is law, though any are free to challenge them. They enjoy indulging in all sorts of games and contests."
+    }, {
+      "Name": "The Little Gruff",
+      "Description": "Also a shifting position, the Little Gruff is the youngest Gruffkid in Gruffholm, treated with the fondness and community love that only a few hundred aunts, uncles, and cousins can give. This doting may seem uncharacteristic of the Gruffolk to outsiders, but their young are highly celebrated as the pilgrims of the future."
+    }, {
+      "Name": "Billy Backwards",
+      "Description": "No one is certain why Billy decided to walk the Bridge backwards but, with the help of a mirrored helmet and a lot of tenacity, Billy is on the 25th year of his pilgrimage. In spite of (or perhaps because of) his eccentricities, Billy has picked up on some unusual and sought-after knowledge. He just has a different way of looking at things."
+    }, {
+      "Name": "Morrigan Musimon (Skill 10, Stamina 13)",
+      "Description": "An exceptionally large, four-horned nanny Gruff, known far and wide as a master grappler: she is as celebrated as she is feared. Morrigan is here for the Gruff Games, waiting to take on a real challenger before she’s satisfied enough to continue her pilgrimage. "
+    }, {
+      "Name": "Gladwyne the Tinkerer",
+      "Description": "Gladwyne and their apprentices are welcome sights in Gruffholms. All healers are greatly prized by the road-roughed Gruffolk, but Gladwyne stands at the forefront of prosthetic technology—their manufactured marvels allow the pilgrimage to continue for Gruffs who had given up hope. Gladwyne themself sports a pair of spring-loaded hooves and an articulated, wooden left hand."
+    }, {
+      "Name": "Beardless",
+      "Description": "A Bridger who is attempting to “become” one of the Gruffolk. They have been emulating the pilgrim and rock climber lifestyles for months now, and are currently trying to earn the respect of the people at Gruffholm through acts of piety and toughness. As the demeaning nickname suggests, they have been less than successful thus far. They are currently caught up in a dare to eat a whole leather shoe."
+    }],
+    "Events": [{
+      "Name": "Gruff Games",
+      "Description": "Contests of strength, agility, bravery, and cunning honor old myths of Gruffs who came before. The Gruff Games also feature stranger contests like Distance Spitting, Beard Braid Beauty, and Lichen-Pie-Eating Contests. "
+    }, {
+      "Name": "The Goat Market",
+      "Description": "Exchanges of bleating herds bring with them the trade of strange and wonderful baubles. Few are as well-traveled as several hundred Gruffolk, and there are goods (and gossip) from truly distant spans to be found here."
+    }, {
+      "Name": "The Recounting",
+      "Description": "Before leaving Gruffholm, any traveler is expected to recite their history before an assembly of witnesses. In this way, their story is entered into the Gruffolk’s oral tradition and they may journey to the Ends of the Bridge in memory, if nothing else."
+    }, {
+      "Name": "Kids will be Kids",
+      "Description": "A group of young Gruffkids are up to mischief. They are not above stealing and eating any traveler’s gear; left shoes are a favorite target."
+    }, {
+      "Name": "The Horn Taker (Skill 8, Stamina 12)",
+      "Description": "An anonymous Gruff decked out in black, full-metal armor challenges all that pass them to fight or lay down their weapons in humiliation. They swear they will not move on until they’ve broken three hundred horns—the shattered keratin at their hooves is proof of their claims."
+    }, {
+      "Name": "Sweet Bleats",
+      "Description": "Gruffolk are very fond of music and have a wide variety of musical traditions—after all, little makes marching better than having a beat to march to. An impromptu concert or battle of the bands incites the beating of drums and the blaring of pipes, loud enough to be heard the next span over."
+    }]
+  }, {
+    "Name": "The Night Bridge",
+    "Image": "bt_night.png",
+    "Quote": "Keep your head down, your lantern lit, and—whatever you do—don’t stop for the sound of distant water.",
+    "Quoter": "Nell, lamplighter",
+    "Description": "Miles and miles of covered Bridge engulfs this span in an eternal, artificial Night. Something hangs from the roof, far above: twinkling stars of alien constellations. Holes? Luminescent moss? Giant glowworms? Whatever they might be, such pale lights hold little promise to the residents. The Bridgers here are more interested in keeping their fires and themselves fed. Even the Trolls find the darkness in this span disturbing.",
+    "NPCs": [{
+      "Name": "The Lampchildren",
+      "Description": "Small, robed-and-masked figures carrying shepherd’s crooks and day-bright lamps. There are few sources of light as reliable on the Night Bridge, but the Lampchildren’s services do not come cheaply."
+    }, {
+      "Name": "The Thing On The Edges",
+      "Description": "Something is out there in the Night, waiting for the lights to flicker and die. It is watchful. It is patient. "
+    }, {
+      "Name": "The Pyres (Skill 7, Stamina 9)",
+      "Description": "Hidden among the Bridgers of the Night Bridge are beings known as the Pyres, betrayed only by their clammy-cold flesh and burn-scarred palms. They absorb the warmth and light of fires to fuel their cursed existence, but will siphon the warmth of the living if they must."
+    }, {
+      "Name": "Heith of the Cold Hearth",
+      "Description": "A Troll who has discovered a nutritious lightsource in the form of powerfully phosphorescent mushrooms: a few of which are bright enough to replace a bonfire, a few of which are large enough to feed a family. Heith is the sole provider of this commodity. The secret of its production is as guarded as the truth of it is disquieting.  "
+    }, {
+      "Name": "The Noctivagrant",
+      "Description": "A wanderer of the Night, unafraid of The Thing on The Edges. This mysterious figure is associated with last-minute rescues and minor miracles. It is said they can break terrible curses and give oracular advice, but woe to any that dares look upon them in full light."
+    }, {
+      "Name": "The Bringers of the Dawn (Skill 4, Stamina 7)",
+      "Description": "A millennialist cult of vandals and firestarters who seek to tear the roof off the Night Bridge. The Scathefire, their coal-masked and ash-caked leader, cares little for the possible ramifications of such a great transfiguration."
+
+    }],
+    "Events": [{
+      "Name": "Blackout",
+      "Description": "A great wind howls down the Bridge, snuffing out exposed flames, pushing down chimneys, and rattling lanterns. Screams are heard in the Night."
+    }, {
+      "Name": "The Night Market",
+      "Description": "There are things out there that can only be traded in the Night, things passed between furtive hands and spoken of in whispered voices. Guild Coins are of little worth here: be prepared to trade something of value."
+    }, {
+      "Name": "Conflagration!",
+      "Description": "Light! Sudden, great light! A fire burns, consuming a building and hungering for more. Was it an accident or arson? No time to find out until the flames are quenched!"
+    }, {
+      "Name": "A Jar of Deeper Darkness",
+      "Description": "It fits in your palm but is as heavy as a Keening’s fist. The merchant seems awfully keen on selling it to you. It is a Keepsake, they say: a bit of Night in a bottle when your travels bring you back into the Sun. The merchant isn’t there when you turn back to ask its cost."
+    }, {
+      "Name": "Lamp Lighting Ceremony",
+      "Description": "A new Lampchild is being initiated. Many Lampchildren gather to strip away the remnants of their identity and touch their Lamps to the initiate’s prepared Keystone, igniting it into a new Lamp. It is a time for celebration, bathed in a great Light seen nowhere else on the Night Bridge."
+    }, {
+      "Name": "The Headless Host (Skill 5, Stamina 8)",
+      "Description": "A rolling wave of wild yaulps, blaring horns, and stomping hooves precedes a stampede of mounted specters—each holding aloft a flaming head that cackles with pyromaniacal glee. Some think these are grown Lampchildren, others believe they are Aristocrats from other spans, playing at being ghosts. Regardless, the Host has little qualms with running down any quarry that does not join in their “festivities”. "
+    }]
+  }, {
+    "Name": "The Cable Mines",
+    "Image": "bt_cable.png",
+    "Quote": "By Trestle and Wire, we ain’t lett’n no scabs from up-bridge take our livelihood. If’n you want to break the picket line, Ol’ Rusty’ll teach you a thing or two about break’n!",
+    "Quoter": "Harriot Snel, Miner",
+    "Description": "Great metal cables rise alongside this span of Bridge, each twine the size of a city block, reaching into the sky, connected to some heavenly support. The Bridgers here have been mining into the sides of the cables for generations, profiting greatly from their superior metals. But at what cost to the Bridge?",
+    "NPCs": [{
+      "Name": "The Sky Pilgrims",
+      "Description": "With ancestral climbing gear and calloused hands, the Sky Pilgrims were Bridgers long long ago, but took to climbing the Cables in ages past. They seek to reach the Zenith—perhaps there they can see the whole Bridge. Bridgers below are reminded of their existence only when a misstep sends one falling from countless miles above."
+    }, {
+      "Name": "Strut Ur’stuf (Skill 5, Stamina 5)",
+      "Description": "A former mining foreman, Strut bears a lengthy scar from the day one of the minor twines snapped and nearly bisected him. He now seeks to stop the mining altogether, for fear of what may happen if an entire cable broke."
+    }, {
+      "Name": "The Metalwright",
+      "Description": "There are other blacksmiths on the Bridge but, with the scarcity of metal, their craft is often comparatively unhoned to that of blacksmiths working in the Cable Mines. The Metalwright sits leagues above them all. Somehow, this master metalworker has found a means of using Stonewright magic to enchant metal; only they and their singular apprentice hold the secret."
+    }, {
+      "Name": "Old Rusty",
+      "Description": "A few hundred years ago, a terrible accident caused untold tons of iron to collapse upon the mining workforce. Some months later a Keening, formed of scrap and twisted wire, infused with the restless spirits of the trapped miners, dug its way out. Old Rusty has worked tirelessly to improve the working conditions and safety of the mines ever since."
+    }, {
+      "Name": "Pickard Tolin",
+      "Description": "While there are plenty of places to sate your hunger, Pick’s Pick’ns is a favorite of many: mining is a calorie-intensive activity and the miners need to be fed. The fare is simple, but the portions are plentiful and reflect the wealth of this span. Pick himself is bombastic and rosy cheeked, a jolly businessman and friend to all. No one suspects him of providing Gatehouses with arms in return for favorable import conditions."
+    }, {
+      "Name": "Brand The Faceless Iron (Skill 9, Stamina 13, Armor 2)",
+      "Description": "Adorned in full plate armor, sporting a great iron helm, and hefting a pickaxe that would trouble a Troll, Brand might be the closest thing the Bridge has to a siege weapon. When they have not been hired out as a mercenary or bodyguard, they use their prestigious strength to perform construction and demolition. They claim to be under oath to not remove their helmet until they’ve found one worthy of bequeathing it to, but they ardently refuse to reveal the necessary qualifications of such an inheritor."
+    }],
+    "Events": [{
+      "Name": "Strike!",
+      "Description": "The miners at one of the cables are striking against poor conditions. Old Rusty leads a call and response while Brand stands with a line of strike breakers (on loan from the local Gatehouse). "
+    }, {
+      "Name": "Heaven’s Ladder",
+      "Description": "A strange, wiry ladder unrolls from the sky, leading to a point so high it’s lost in the smoky haze above. Is someone climbing down or are you supposed to climb up?"
+    }, {
+      "Name": "Heavy Metal",
+      "Description": "The Metalwright has produced a magical hammer whose dense head is forged entirely from a cable’s Core; however, it is so heavy that no one has been able to lift it, not even Brand. The hammer is up for the taking, should anyone prove capable."
+    }, {
+      "Name": "Sharp Competition",
+      "Description": "The blacksmiths have continuously competed to prove their worth and be chosen as the Metalwright’s next apprentice. Each one fights to craft a sharper blade, a stronger shield, a more complex device. There are those who would pay dearly for any sort of edge—even if that meant sabotaging the competition. "
+    }, {
+      "Name": "Cobbled Together",
+      "Description": "A clockwork metal automata, not a Keening like Rusty, is being touted around the span. It has been lauded as a work of genius, earning its maker great prestige and wealth. In truth, the automata is a puppet controlled by several dozen Coblins. Are they in on the con or are they being forced to participate?"
+    }, {
+      "Name": "Fraying Nerves",
+      "Description": "Strut’s fears are confirmed as one of the cables is mined too deep and snaps, sending it arcing wildly as the tension is released all at once. What can be done to stave off thousands of tons of swinging steel?"
+    }]
+  }, {
+    "Name": "The Turning",
+    "Image": "bt_turning.png",
+    "Quote": "Last Call! Last Call for Transfers On and Off! Next Turning in Twelve Hours! Pay the Toll or feck off!",
+    "Quoter": "Simone Briggs, Guild-appointed crossing guard",
+    "Description": "The entirety of this span sits on a single pillar that spins ever so slowly, making a full rotation each day. The Turnpike Guilds, in a rare moment of mutual cooperation, have built a prison here with a towering Panopticon rising from its center. The glass dome sleeplessly watches the inhabitants—citizens and prisoners alike.",
+    "NPCs": [{
+      "Name": "The Oculus",
+      "Description": "Said to be an ancient (and mad) Stonewright who lives atop the Panopticon, supposedly watching over the district and maintaining the Turning. No one has actually seen the Oculus in ages, but the occasional stone-melting heat ray from above means someone must be up there."
+    }, {
+      "Name": "Governor Chambers, Chief Gaoler",
+      "Description": "Fifty years a Guildsman, Chambers is a Grade-A Pencil Neck with just enough humanity left to keep it in a snuff box and take it out for special occasions. Precious few evils remain that he’s unwilling to sink to, provided they keep his prison moving efficiently and looking its best. Right now that means arresting anyone that gives him half a reason."
+    }, {
+      "Name": "The Rats",
+      "Description": "Though they won’t admit it, the Guilds think the prison and the surrounding span is infested and crawling with rats, their scuttling in the walls a constant reminder of the pests. In truth, a vast colony of Coblins lives off the collective debris and excess of the Guild presence in the Turning. Prisoners work with the “Rats” to communicate with the outside world and run their own black market."
+    }, {
+      "Name": "Dougal “Gray-Teeth” Drover (Skill 5, Stamina 3)",
+      "Description": "A serial escaped convict, this Gruffolk spends much of his time muzzled, as he has literally eaten through the bars of his cell. He claims his only crime is serving exquisite cuisine to unworthy palettes; the Guildsmen argue the crippling dysentery that came upon them after the meal was intentional sabotage. "
+    }, {
+      "Name": "Prisoner #0921666 (Skill 9, Stamina 10)",
+      "Description": "Unlike some of the prisoners, The Bridge might actually be safer with 0921666 locked up. This Stonewright Eroder had the mad idea to gather hundreds of Keystones—containing thousands of souls—to be crushed in a profane, reality-bending ritual. No stone of any sort was used in the construction of their solitary confinement (at great expense to the Guild) and many precautionary measures are in place to keep 0921666 far from the source of their power."
+    }, {
+      "Name": "Keelan, the King in Chains (Skill 8, Stamina 12)",
+      "Description": "A legendary wanderer of the Bridge, Keelan made a career out of stealing (freeing) the Keystones from Gatehouses before a doublecross led to their capture. Whispers say that Keelan continues to lead multiple revolutionary groups from their cell—rumors that the Guilds would do anything to quash."
+    }],
+    "Events": [{
+      "Name": "Solstice",
+      "Description": "Twice a year, the Turning pauses for an entire day before restarting its rotation in the opposite direction. During its pause, the Turning sits perpendicular to the rest of the Bridge, making it all but impossible to pass through or to leave."
+    }, {
+      "Name": "Chain Gang Blues",
+      "Description": "Prisoners are put to work throughout the span, not just within the prison, and it’s not uncommon to see chain gangs doing heavy labor and maintenance work in outer areas. While the guard is having a smoke, one of the prisoners (Skill 6, Stamina 5) takes the chance to plead for help in their escape!"
+    }, {
+      "Name": "VWOOOMP",
+      "Description": "The air shimmers and sweat begins to drip from every pore. In a brilliant white flash, not five meters away, a jaywalking Troll turns to ash and the street where they were standing turns to slag. You feel a glare from high above."
+    }, {
+      "Name": "Shake-Down",
+      "Description": "Travelers are treated with extreme suspicion here—after all, how many Gatehouses have layered the journey from your home span to here? Guildsmen (Skill 5, Stamina 9) are demanding papers, answers, and bribes, unless you’d prefer shackles."
+    }, {
+      "Name": "Stone Tell",
+      "Description": "A rock flies over the prison wall, landing at the feet (or on the unlucky heads) of those outside. An urgent message is carved upon it: if something is not done, a terrible disaster will occur within the next Turning."
+    }, {
+      "Name": "Prison Riot",
+      "Description": "A scuffle turns into a fight turns into a riot, and it looks like the Turnpikers (Skill 4, Stamina 6) are getting out their mirrored shields for when the Panopticon is fired up."
+    }]
+  }],
+  "Gatehouses": [{
+    "Name": "The Gate of Libations",
+    "Image": "bt_libations.png",
+    "Quote": "CHUG! CHUG! CHUG! CHUG!",
+    "Quoter": "The Ritual of Passing (Out)",
+    "Description": "Named for the powerful beers and moonshines brewed and distilled by the Turnpikemen within, and the cauldrons of combustible alcohol dumped on those who assault the Gate. Informally known as “Hooch Home”.",
+    "Toll": "Rigorously test the strength and flavor of the Gate’s newest spirits until you’re on the verge of alcohol poisoning. If you wake up in the morning, you must also make a purchase at the giftshop on your way out.",
+    "Details": [{
+      "Description": "Turnpikemen of Libations (Skill 3, Stamina 8)",
+      "Bullets": [
+        "Only drunk at their posts slightly more often than Turnpikemen of other Guilds.",
+        "Deeply offended if the party does not partake of their latest distillations in a traditional booze ceremony.",
+        "Diversely armed and armored, but always in possession of at least one alcohol-based explosive each. They drink these flasks as often as they throw them."
+      ]
+    }, {
+      "Description": "Swill-Soaked Grandeur",
+      "Bullets": [
+        "The Grand Still - Said to be the biggest collection of copper vessels on the Bridge, The Grand Still is located in a huge chamber below street level. All the Gate’s alcohol is made here. The Still is heavily guarded, with a small army of Turnpikemen on guard at all hours. The Guild conducts regular tours to show off and sell samples.",
+        "The Rickhouse - The warehouse where all alcohol not on public display is stored. If any of the massive, reinforced vats or casks were to burst, the whole span beyond could be flooded. Not that the locals would mind."
+      ]
+    }, {
+      "Description": "Popular Drinks & Spirits",
+      "Bullets": [
+        "Bricklayer Brew",
+        "Mortar Mash",
+        "Captain Tillery’s Special Ligament",
+        "Bleater’s Beer",
+        "Mossling Bitters",
+        "The Stone Shot (190-proof, served in a shot glass with the Gate’s Keystone in it—slam it down fast or you’ll black out for the wrong reason)"
+      ]
+    }]
+  }, {
+    "Name": "The Armistice Gate",
+    "Image": "bt_armistice.png",
+    "Quote": "Why won’t you give peace a chance?",
+    "Quoter": "Sister Bloogh, headlocking a visitor",
+    "Description": "A powerful Keystone in this vaguely monastic Gate emits an aura that enforces partial pacifism on all who set foot on its grounds—none can raise a weapon in its presence. The Gate’s Turnpikemen, however, are expert martial artists and the Keystone doesn’t appear to take issue with just decking a bloke.</p><p>The power of the Keystone seems linked to the spirits resting inside it—many of those old souls witnessed or helped broker the Pact that halted cobblestone farming and established equality between the peoples of the Bridge. To this day, the Pact remains one of the only known “universal” laws, respected across the Bridge.",
+    "Toll": "Surrender your arms and armor and submit yourself to the Embrace of Peace, a grueling initiatory rite that may leave you bodily broken, mentally exhausted, and even a little indoctrinated.",
+    "Details": [{
+      "Description": "Turnpikemen of Armistice (Skill 9, Stamina 12, damage as modest beast)",
+      "Bullets": [
+        "Less abusive than other Guilds (owing to their legacy) but much more preachy. Will deliver sermons to visitors, desired or not.",
+        "Include a number of non-human members, owing to the above.",
+        "More disciplined than other Gatekeepers, due to better training."
+      ]
+    }, {
+      "Description": "Places of Honor",
+      "Bullets": [
+        "The Path of Peace - Section of the Crossing that’s decorated like a temple, where the concepts of unity and interconnectedness (and taxation) are honored religiously.",
+        "The Hall of Arms - Weapons confiscated from travelers and would-be tax evaders are displayed like trophies in this space. There are thousands of arms to behold—a handful are even made of good metal.",
+        "Distant Assurances - A quartet of towers armed with ballistae, conveniently built just outside the functional range of the Keystone. Accessible via understreet passages originating from the Gatehouse, and designed to be extremely difficult to climb from the outside."
+      ]
+    }, {
+      "Description": "The Key(stone) to Peace",
+      "Bullets": [
+        "An outstanding phenomenon in a little-researched field of… Bridge magic? Physics?",
+        "Attracts the occasional Stonewright seeking to commune with the Keystone for answers. The Turnpikemen permit this, if the asker pays the premium.",
+        "It senses when an object is being used as a weapon and is able to distinguish the wielder’s intent: a greathammer can be used to break down stone in its proximity without issue, but good luck trying to stab someone with that sharpened spoon."
+      ]
+    }]
+  }, {
+    "Name": "The Ruined Gate",
+    "Image": "bt_ruined.png",
+    "Quote": "I wish they didn’t keep their voices when they go all keening. That’s the worst part. Me mates died weeks ago, but I can still hear them.",
+    "Quoter": "Burda, Gatehouse guard",
+    "Description": "This Gate was once a truly grand edifice, erected by many generations of Turnpikemen, but has since fallen to ruin; its labyrinthian structure is inhabited by restless, wandering Stone Keenings (Skill 8, Stamina 16). A trade dispute between the Guild and its neighbors caused much of the damage to this Gate, and most of the Keenings are made of souls killed in that squabble. The Turnpikemen still maintain a token presence on the outskirts of the Gatehouse, more to watch out for Keenings than to enforce tolls on travelers.",
+    "Toll": "The Guild is in no state to be demanding tolls, but they still try. The guards will ask you to enter the ruins and clear out some of the Stone Keenings to earn your passage (and may ambush you and take your things after you’ve tired yourself out).",
+    "Details": [{
+      "Description": "Ruined Turnpikemen (Skill 7, Stamina 9)",
+      "Bullets": [
+        "Often preparing for a foray into the Gate to reassert control over a section of it.",
+        "Few in number, but well-equipped from their glory days (Modestly Armored and wielding Polearms).",
+        "Willing to discount or waive the fees of a party with a Stonewright or anyone else who can operate a Keystone (provided they help put all of the Turnpikemen’s fallen fellows in the Gatehouse to rest for good)."
+      ]
+    }, {
+      "Description": "Ruined Gate Checkpoints",
+      "Bullets": [
+        "The First Checkpoint is controlled by the Turnpikemen and its portcullis is fully operable.",
+        "The Second Checkpoint is abandoned and the portcullis is damaged, but can still be squeezed through. Characters may also force it open at the risk of waking nearby Stone Keenings (Skill 8, Stamina 16).",
+        "The Third Checkpoint has been completely destroyed and the barbican might come down with it any day now. Beyond the Third Checkpoint sits a camp of travelers and merchants, who have been waiting several days for the road to clear."
+      ]
+    }, {
+      "Description": "Forsaken Squalor",
+      "Bullets": [
+        "Basement - Used to boast fancy, sewer-connected toilets, though they backed up long ago. Something else bubbled up with the rest of the waste.",
+        "First Floor -  Contains ruined offices and the Gatehouse armory. Not all of these have been picked clean.",
+        "Second Floor -  Moldering barracks and storerooms. Also rats.",
+        "Roof and Four Towers - Home to large, toothy birds (pg XX) and cat-sized moss creepers hiding in the lichen."
+      ]
+    }]
+  }, {
+    "Name": "The Open Gate",
+    "Image": "bt_open.png",
+    "Quote": "Pause a moment, passerby, and reflect upon the fact that you are halted by nothing more than a plaque’s gentle urging. Know that this is the site where the People threw off the yoke of oppression and cast down the walls of tyranny that had imprisoned them for so long. NO GUILD. NO GATE. A BRIDGE FOR ALL. ANARCHY FOREVER.",
+    "Quoter": "Commemorative plaque",
+    "Description": "A former Gatehouse that was suddenly and unexpectedly overwhelmed by an uprising a few months ago. The Turnpike Guild that formerly operated here was wildly successful—more successful at extracting wealth from the locals than at maintaining stability and order. When the people of the nearby district finally had enough, they invaded the Gatehouse overnight and disbanded the Guild with extreme prejudice.</p><p>What remains of the Gatehouse is nothing more than a sheltered avenue. The gates and portcullises have been broken down and recycled, and teams of townies now work to dismantle the entire structure at a leisurely pace, stone by stone. They often take breaks to chat with confused passersby and hand out free memorial bricks, personalized with engravings like “Tax Waiver” or “United. Ungated”.",
+    "Toll": "Formally abolished. Instead, they ask that you help dismantle the Gatehouse on your way through. Failure to join in the revolutionary spirit might mark your group as Turnprick Sympathizers. And so help you, if they find Guild Coins, Turnpike colors, or an aristocratic seal on your person…",
+    "Details": [{
+      "Description": "Former Turnpikemen, Currently in Hiding (Skill 3, Stamina 4)",
+      "Bullets": [
+        "Played at actually ruling their district instead of just mooching off it, with fittingly disastrous results.",
+        "Housed a burgeoning paramilitary outfit toward the end, heavily armored and replete with repeater crossbows and mancatchers.",
+        "Wholly disbanded and run out of town after their defeat."
+      ]
+    }, {
+      "Description": "The Fallen Symbol of Oppression",
+      "Bullets": [
+        "In the process of decommission: already halfway unbuilt with its stones in stacks lining the Crossing.",
+        "Caches of leftover Guild riches are rumored to be hidden in its remains."
+      ]
+    }, {
+      "Description": "The Successful Rebels",
+      "Bullets": [
+        "A loosely organized, anarchic confederation of neighbors.",
+        "Will talk a bloke’s ear off about political theory.",
+        "Don’t normally bother travelers—unless they suspect a Guildsman or aristocrat is among them.",
+        "Have no uniform or standard armament, just repurposed worktools and bricks—lots of bricks."
+      ]
+    }]
+  }, {
+    "Name": "The Bloodied Gate",
+    "Image": "bt_bloody.png",
+    "Quote": "Blood-Brother Flayedface, get the ceremonial blood-scrubber and unclog the blood-drain before the blood-fountain backs up and floods the bloody-mess hall; Blood-Brother Killgrip made blood sausage today!",
+    "Quoter": "Quartermaster Hemocide",
+    "Description": "Heads adorn the spiked parapets of this Gate, and gibbets crowd the entrance. The Turnpikemen within wear their black hoods and raw, scourge-flayed skins with pride. Flesh is a weakness and the Stone must be fed blood.</p><p>Once upon a time, the Gatehouse wasn’t quite so grim; it housed one of the thousands of unique religions on the Bridge. This faith posited that the Bridge is a living, breathing organism, highly sympathetic and nurturing toward its occupants. Blood sacrifice began as mere bloodletting, a personal act to honor that which sustains all life, but power tends to pervert all institutions. Now the guild extracts a tithe of blood simply to enforce its own authority.",
+    "Toll": "The Red Tithe, an offering of approximately 1/3rd your body’s blood volume. This usually isn’t lethal. If you’re still leery, you can opt for their expedited toll option—forfeit one finger joint.",
+    "Details": [{
+      "Description": "Bloodied Turnpikemen (Skill 5, Stamina 6)",
+      "Bullets": [
+        "Organize themselves according to a sado-religious hierarchy with increasingly silly titles. Their leader is the “Exsanguinarch”.",
+        "They really lean into their villainous cult aesthetic for shock value. They’d be laughed out of town as edgy goons if they weren’t sincerely threatening (and appealing to maladapted young Bridgers).",
+        "Pride themselves in their metal weaponry, particularly blades with purposeless hooks and serrations. Confiscation of steel is their Gate’s (unofficial) second toll.",
+        "Secretly crave external validation and a nudge in the right direction."
+      ]
+    }, {
+      "Description": "Weltering Abodes",
+      "Bullets": [
+        "Standard in shape and floorplan beneath the visceral facade, including portcullises, storerooms, barracks, etc.",
+        "Channels and hemaducts are carved into the stone, to divert blood all throughout the building.",
+        "Houses a number of murals and frescoes painted in blood. The Guildsmen display a surprising amount of competence with the medium, each project possessing more depth and subtlety than one might expect.",
+        "Most of the skulls and decapitated heads are easily identifiable as fakes, if inspected closely."
+      ]
+    }, {
+      "Description": "The Bloodied Keystone",
+      "Bullets": [
+        "Would be identified as an evil artifact in any other world.",
+        "Ages of submersion in blood have given it an iron coating.",
+        "Contains gentle and mild-mannered spirits who hate what the Guildsmen have done with the place. That’s why the Keystone is constantly screaming."
+      ]
+    }]
+  }, {
+    "Name": "The Evergate",
+    "Image": "bt_evergate.png",
+    "Quote": "I’ve got bad news and good news. The bad news is two of my guys fell off the parapet during yesterday’s Bridgequake; the good news is two bricklaying jobs just opened up. Who wants ’em?",
+    "Quoter": "Oxer, foreman of Machicolation 14-B",
+    "Description": "It would be a truly marvelous edifice if not for the miles of scaffolding and the constant sound of hammering throughout it. This Gatehouse has been under construction, deconstruction, and reconstruction since time immemorial.</p><p>A “visionary disagreement” between project supervisors festered into serious strife within the Turnpike Guild. They target each other’s divisions and workers, orchestrating workplace “accidents” to undermine their rivals and make them seem incompetent. The coveted rank of First Foreman has remained vacant ever since the last one’s entire office slid off the Bridge into the Under, due to a tragic rounding error.",
+    "Toll": "Donate a full cart of building materials (for each member of the traveling party), or volunteer for one shift of labor in one of the most accident-prone divisions of the site.",
+    "Details": [{
+      "Description": "Evergate Turnpikemen (Skill 5, Stamina 6)",
+      "Bullets": [
+        "Wield hammers, chisels, and other plain, workman’s implements, carried in apron-uniforms.",
+        "Include a few Stonewrights who failed their apprenticeships.",
+        "Sure do hate the working conditions of late."
+      ]
+    }, {
+      "Description": "Engineering Nightmares",
+      "Bullets": [
+        "The Drafting Board - A titanic slate filling a courtyard wall: home to depictions of the Gatehouse’s constantly evolving floor plan, plot plan, and dizzying cross sections. Frontline of the supervisors’ battle, forever choked in chalk dust.",
+        "The Stoneyard - A long stretch of Bridge in front of the Gatehouse where stone and other construction materials are hoarded. Home to a small number of Stone Keenings, whose numbers grow as lethal accidents continue and dead workers get overlooked. Also rumored to hide an enclave of the Bindlestick Syndicate.",
+        "The Walkways - A network of scaffolding so massive it puts any aristocratic Tower to shame. A map is required to navigate this maze of makeshift footpaths, and many sections are unstable or encroached on by wildlife.",
+        "The Substrata - The meters-high foundation of the Evergate, made from previous iterations of the project, crushed and layered like sediment. It has attracted several archaeologists interested in the deep history of the Bridge."
+      ]
+    }]
+  }, {
+    "Name": "The Grand Portcullis ",
+    "Image": "bt_port.png",
+    "Quote": "Izzat all real rubber? Forget the toll an’ gimme that. Been needin’ some more shock absorption for my room. I don’t wanna wake up with my shins stickin’ outta my belly just ’cause I missed the bell. Whazzat? I didn’t say nothin’. Move along, citizen.",
+    "Quoter": "Quib, Gatehouse guard",
+    "Description": "This Gatehouse is a singularly massive portcullis and each of its bars a tower, in and of itself. It is surprisingly swift to open and close; flattened corpses and red stains decorate the Bridge directly beneath its bars, as warnings to those who would try to pass without paying. The sound of the portcullis rising and lowering thunders for miles around, and rumbles like Bridgequakes accompany these movements.</p><p>The Portcullis uses no visible rope nor winch. The mechanism that controls the gate is a mystery, but there is plenty of speculation. Puffs of black smoke are sometimes seen belching from atop its tower-bars.",
+    "Toll": "Donate your weight in extremely rare mechanical components and oils, or volunteer to stress-test one of the Guild’s strange new inventions. Your memories of the event will be wiped, save for a lingering impression of a very caustic and antagonistic work culture. If the Guild finds you have skill as an engineer or architect, they might just “adopt” you.",
+    "Details": [{
+      "Description": "Turnpikemen of the Grand Portcullis (Skill 5, Stamina 6)",
+      "Bullets": [
+        "Uniformly burly and sooty, like factory workers.",
+        "Sometimes wear a single boot or gauntlet of articulated stone and metal. Or are they prosthetics?",
+        "Always have earplugs on hand for when the gate moves.",
+        "Wield bizarre (often single-use) prototype weapons that are as likely to backfire as they are to cause serious damage."
+      ]
+    }, {
+      "Description": "Mechanical Monstrosities",
+      "Bullets": [
+        "The Cracks - Deep fissures in the Bridge immediately around the Portcullis. The result of years of damage caused by the Gate’s rising and falling. Some cracks are deep enough to fall into, and there are many forgotten things hiding in their depths.",
+        "The Jambs - The “end pieces” of the Portcullis that hold the superstructure up. They are heavily fortified and reinforced to resist a siege, since they can’t be lifted without great effort. Everyone, inside the Guild and out, constantly confuses the Left and Right Jamb.",
+        "The Towers - Larger vertical sections of the gate’s lattice. They hide innumerable cramped storerooms, workshops, and cells of unknown purpose. Each tower faintly thrums at a different frequency for some unknown reason."
+      ]
+    }]
+  }, {
+    "Name": "The Disappeared Gate",
+    "Image": "bt_mists.png",
+    "Quote": "There was a Gatehouse here. It’s gone now.",
+    "Quoter": "Graffito inscribed on a strangely melted rock",
+    "Description": "This naked stretch of Bridge is perpetually shrouded in a thick bank of Under-Fog, regardless of the surrounding weather. The cobbles bend strangely, leading feet astray if their owners are not mindful.</p><p>Every round the party spends navigating the fog, roll d6. On a 1-in-6, an Under-Thing appears. Continue to roll on Under-Things each round, regardless of if an Under-Thing appeared or not. Every round an Under-Thing does not appear, the odds increase by one step (up to 6-in-6).",
+    "Toll": "None.",
+    "Details": [{
+    "Description": "Fog. Lots of Fog.",
+      "Bullets": []
+    }]
+  }],
+  "Weather": [{
+    "Name": "Overcast",
+    "Description": "Normal, boring, and gray as the Bridge itself."
+  }, {
+    "Name": "Clear Skies",
+    "Description": "A perfect view of the awful gulfs of infinity, above and below you."
+  }, {
+    "Name": "Light Precipitation (Natural)",
+    "Description": "Summer showers, snow flurries, etc."
+  }, {
+    "Name": "Light Precipitation (Unnatural)",
+    "Description": "Pulverized stone clouds, misaimed chamber pots, etc."
+  }, {
+    "Name": "Heavy precipitation (Natural)",
+    "Description": "Soaking downpours, blizzards, etc. "
+  }, {
+    "Name": "Heavy Precipitation (Unnatural)",
+    "Description": "Debris from a collapsing aristocrat tower, hail-sized bird droppings, etc."
+  }, {
+    "Name": "Scent of Home",
+    "Description": "A wind blows, carrying with it a smell somehow both unfamiliar and nostalgic, a sweet promise of new beginnings and old dreams fulfilled. A wind like this blew the day you left home. Counts as a Magic Ingredient, if harnessed, bottled, or otherwise added to the Cauldron."
+  }, {
+    "Name": "Keystone Packing Day",
+    "Description": "The recently deceased are out in force today. Scintillating ghostlights putter through the air, lured out by the ministrations of Stonewright undertakers who usher them into Keystones. The air smells of decay, but the lightshow is pretty. Counts as an Old Ingredient."
+  }, {
+    "Name": "Foul Flood",
+    "Description": "A section of sewer backs up or a water main breaks and seeps up through the cobbles, gumming the streets up in mud and rivulets of filth. Counts as an Old Ingredient if scooped into the Cauldron."
+  }, {
+    "Name": "Bridgequake",
+    "Description": "The Bridge ripples and shakes. Buildings are damaged, towers wobble like shaken fruit trees, and bits of stone fall into the Under."
+  }, {
+    "Name": "Birds",
+    "Description": "Flocks the size of clouds, droppings like hail, caws like unrelenting thunder. Also, they are very hungry. Roll on Awful Birds (pg XX)."
+  }, {
+    "Name": "Under-Fog",
+    "Description": "A dingy, twitching mist that wafts up from below, smelling of ozone and lost time. Counts as a Sharp Ingredient if wafted into the Cauldron."
+  }, {
+    "Name": "The Gruff Brothers",
+    "Description": "A trio of Gruffolk, Klein (Skill 7, Stamina 8), Mittel (Skill 9, Stamina 13) and Hoch (Skill 12, Stamina 18). They challenge anyone they come across to a “friendly wrestling match”. This almost invariably ends with Hoch throwing some unfortunate sod off the Bridge while Klein and Mittel tally up the loser’s possessions.  "
+  }, {
+    "Name": "Big Mac",
+    "Description": "A Gatehouse-sized Keening who slowly brachiates along the underside of the Bridge. Mac swings up onto the Bridge proper to rest once a decade—a time of trade and celebration for the Bridgers who live inside him."
+  }, {
+    "Name": "The Wizard of Vase (Skill 5, Stamina 8)",
+    "Description": "A Stonewright prone to theatrics and overpromising, many consider The Wizard himself a charlatan. The large stone vase he carries on his back, however, can supposedly grant one’s heart’s desire if something of equal value is sacrificed into it. Who can say the value of a Dream Fulfilled? The vase counts as a Magic Ingredient."
+  }, {
+    "Name": "Bridge-Crossed Lovers",
+    "Description": "One from Up the Bridge, the other from Down the Bridge; a Gatehouse and rival families held them apart. Great sacrifices were made to get them here, more sacrifices will be made before the end. "
+  }, {
+    "Name": "Coblin Sky-Raid",
+    "Description": "On parachutes of scrap and goat-stomach balloons, dozens of wind-riding Coblins (Skill 3, Stamina 3) descend with only two things on their collective minds: Stabbing and Stealing."
+  }, {
+    "Name": "Under Ingress",
+    "Description": "The Under vomits up a soupy, ephemeral swash of itself and d3 Under-Things arrive to play around in hard reality like curious children. Roll on Under-Things."
+  }, {
+    "Name": "Gruffstep",
+    "Description": "A trip of Gruffolk pilgrims (Skill 5, Stamina 8) is caught up in religious ecstasy and stampedes down the Crossing in a wave of bleats and blessings. Test your Luck or join them in sprinting and leaping until you drop from exhaustion."
+  }, {
+    "Name": "Yaulp",
+    "Description": "For some reason everyone is yelling. Their yells are echoing much farther than they should—and causing other people to join in yelling. Test your Luck or lose your indoor voice for an hour."
+  }, {
+    "Name": "Eyes of the Bridge",
+    "Description": "A disorienting flash scrambles folks’ senses and scatters them across the district. Test your Luck or have one of your senses assigned to a random point within 1 mile for an hour, or until you leave the affected area."
+  }, {
+    "Name": "Word on the Street",
+    "Description": "Every cobble and flagstone on the street starts to babble in its own little voice when stepped on. Test your Luck or be deafened and unable to concentrate for an hour."
+  }, {
+    "Name": "Sculpt the Bridge",
+    "Description": "Stones randomly rearrange themselves, jutting at odd angles and causing new holes to form. Test your Luck to avoid 2d6 damage from falling into a yawning pothole or getting punched in the face by a townhouse."
+  }, {
+    "Name": "Petrifaction",
+    "Description": "A sound like tumbling pebbles sweeps down the street. Anything in direct contact with the street and not made of stone, starts to turn to stone. Test your Luck or completely unground yourself to avoid having your boots, clothing, or other possessions petrified."
+  }, {
+    "Name": "Troika",
+    "Description": "A Golden Barge careens out of the Under-Fog and smashes itself to splinters against the side of The Bridge. Several very out-of-town-looking passengers (Skill 3, Stamina 4) survive."
+  }, {
+    "Name": "Prismot",
+    "Description": "A very muscular person (Skill 5, Stamina 8) wearing colorful swimming trunks and strange red/blue spectacles. They wield a small net on a long pole. They desire a “Pool”. Their net counts as a Dull Ingredient."
+  }, {
+    "Name": "Hexdrive",
+    "Description": "They look like a Bridger stretched thin in every sense of the  word. A crystal orb pulses slowly in one hand, a wavy dagger held loosely in the other. They smell of ozone and exotic flowers."
+  }, {
+    "Name": "Baktos Terrifying Cuisine",
+    "Description": "At first they look like a very small Troll (Skill 6, Stamina 10), but closer inspection reveals it to be more lizardlike. They wear a tall white hat and an apron, wield a ladle the size of a maul, and have a burning desire to eat new/unusual things."
+  }, {
+    "Name": "Gællæffa Guide",
+    "Description": "A lithe being topped with deep black eyes and fuzzy feather antennae, this person holds forth a crystalline lamp and looks honestly bewildered by the open vastness around them. "
+  }, {
+    "Name": "Yongardy",
+    "Description": "If not for the wig-capped metal mask and the immense gavel, this figure (Skill 6, Stamina 5) would not be out of place among the poshest aristocrats. They are willing to trade “legal services” for a place to hide."
+  }, {
+    "Name": "Carrier Service",
+    "Description": "A lost carrier pelican coughs at a convenient moment, spilling its bill’s contents nearby. Cleaning them off nets you 2d6 Provisions."
+  }, {
+    "Name": "Free!",
+    "Description": "A representative of the Trestle Trolls Fall Insurance Syndicate (Skill 9, Stamina 12) clambers over the side of the Bridge, offering a free promotional voucher."
+  }, {
+    "Name": "Sculture",
+    "Description": "A finely hewn statue in the shape of androgynous Bridger, a large hole in their chest. At its feet lie a robed skeleton, a hammer, and a warmly pulsing Keystone."
+  }, {
+    "Name": "Formal Duel",
+    "Description": "Two aristocrats are having a “gentleman's disagreement” (aka a Twit War), and their retainers are dueling it out overhead. d6 weapons and pieces of embroidered battle-finery can be looted from already-unconscious footmen that have fallen to the street."
+  }, {
+    "Name": "Missing Collector",
+    "Description": "A tax collector from the nearby Turnpike Guild lies here, dead of “natural causes”. Their mangled corpse hides 3d6 Guild Coins of the local mint."
+  }, {
+    "Name": "Memories",
+    "Description": "Rarely, a Bridge stone holds memories of what it has witnessed. Moments of great joy, terrible sorrow, or soul wrenching fear. This unassuming rock holds such a memory, which is cast like a film reel upon the screen of your brain when you touch it. "
+  }]
+}

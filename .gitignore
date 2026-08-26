@@ -1,0 +1,11 @@
+node_modules
+vendor
+.bundle
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+*.gem
+
+/assets/js/*hydejack-*
+/_sass/*/__*__/*
+/_site/*

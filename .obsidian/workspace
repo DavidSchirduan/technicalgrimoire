@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "8224d50fd43968fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad25dfba64032397",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-09-05-HauntedAlmanac.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "404bddd0edc80cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "675075625272700c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9e314af248c54e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "578b5b600069c540",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6d287f86bdd7da2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "61df8f4b12f5c775",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3833815d28af8b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc0dc0bb8e608e65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-09-05-HauntedAlmanac.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db988ae6637c3f9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2022-09-05-HauntedAlmanac.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68b07f66a1e4ccb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "531fb075331f5478",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2022-09-05-HauntedAlmanac.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad25dfba64032397",
+  "lastOpenFiles": [
+    "images/posts/Haunted_hold.jpg",
+    "_posts/2022-09-05-HauntedAlmanac.md",
+    "reviews.md",
+    "blog.md",
+    "_posts/2022-08-06-TheIsleReview.md",
+    "{{site.url}}/images/posts/UVG_mini.jpg.md",
+    "{{site.url}}/images/posts/logo.gif.md",
+    "{{site.url}}/david/2017/05/200-word-rpg-alphabet-27-short-reviews.md",
+    "reviews-adventures.md",
+    "_posts/2022-09-03-KarthLoveMothership.md"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "Adjectives": [
+    "Ambitious", "Ancient", "Aquatic", "Arcane", "Barbed", "Blazing", "Blooming", "Boiling", "Bony", "Bouncy", "Brash", "Bright", "Burning", "Clever", "Dented", "Dim", "Divine", "Elder", "Electric", "Encrusted", "False", "Flaming", "Flawless", "Fractured", "Frigid", "Galactic", "Gentle", "Gilded", "Groaning", "Hateful", "Haunted", "Heroic", "Lunar", "Molten", "Morbid", "Newborn", "Pale", "Pious", "Prismatic", "Proud", "Quiet", "Radiant", "Rasping", "Ruined", "Rusty", "Sacred", "Sanguine", "Scarlet", "Screaming", "Seething", "Shattered", "Shining", "Sickly", "Silent", "Sleek", "Slimy", "Snarling", "Solar", "Superior", "Swift", "Tarnished", "Tempered", "Twisted", "Unstable", "Wandering", "Weeping", "Wild", "Wretched"
+  ],
+  "Names": [
+    "Error", "Ceylon", "Lapsang", "Earl", "Tipping", "Assam", "Bancha", "Matcha", "Darjeeling", "Pekoe", "Gyokuro", "Jasmine", "Keemum", "Puerh", "Pouchong", "Jasmine", "Sencha", "Sumatra", "Aldebaran", "Altair", "Antares", "Arcturus", "Betelgeuse", "Canopus", "Capella", "Castor", "Deneb", "Fomalhaut", "Polaris", "Pollux", "Procyon", "Regulus", "Rigel", "Sirius", "Spica", "Vega"],
+  "Colors": ["#8f8f8f", "#e573e5", "#02abea", "#4ad240", "#e2dc1a", "#ff9602", "#ff5b5b"],
+  "Quirks": [
+    "Annoyed by pointy objects.",
+    "Recently lost a powerful device. Still not over it.",
+    "Does not want to be on this mission.",
+    "Recently had their memory wiped.",
+    "A rival bot achieved a high score of 150 on this mission.",
+    "Obsessed with fine art or fashion.",
+    "Not here to make friends.",
+    "Aversion to dirt, grime, and goo.",
+    "Aversion to cramped spaces.",
+    "Aversion to heights.",
+    "Dead bodies make them nervous.",
+    "Insists on wearing any hats they find.",
+    "Convinced they need 8 hours of sleep per day.",
+    "Convinced they need to drink clean water every day.",
+    "Convinced they need to eat a hearty meal each day.",
+    "Emits a constant high-pitched tone.",
+    "Their devices make loud noises when used.",
+    "Will try to adopt a pet.",
+    "A leaky panel leaves trails of battery acid.",
+    "Recently acquired a garish paint job.",
+    "This is their first mission."
+  ],
+  "Glitches": [
+    "Your bot can’t overcome stats with more than 6 letters (omitting abbreviations).",
+    "Your bot can’t overcome stats with less than 9 letters (omitting abbreviations).",
+    "Your bot can’t overcome stats that start with a consonant.",
+    "Your bot can’t overcome stats that have more than 2 vowels.",
+    "Your bot can’t overcome even-numbered stats.",
+    "Your bot can’t overcome odd-numbered stats.",
+    "Your bot can’t overcome stats that are multiples of 3.",
+    "Your bot can’t overcome stats that are multiples of 4.",
+    "Your bot can’t overcome stats that are multiples of 5.",
+    "Your bot can’t overcome stats that are multiples of 6.",
+    "Your bot has fragile fixtures and can’t overcome stats related physical force or durability.",
+    "Your bot has bulky fixtures and can’t overcome stats related to careful or quick movements.",
+    "Your bot is sensitive to erratic energy and can’t overcome stats related to magic, spiritual power, or technology.",
+    "Your bot won’t spend d4s. They insist on saving them for Overpower.",
+    "Your bot won’t spend d6s. They insist on saving them for Overpower.",
+    "Your bot won’t spend d8s. They insist on saving them for Overpower.",
+    "Your bot won’t spend d10s. They insist on saving them for Overpower.",
+    "Your bot won’t spend d12s. They insist on saving them for Overpower.",
+    "Your bot won’t spend any dice showing max value. Too precious.",
+    "Your bot won’t overcome the same Stat twice in a row.",
+    "Your bot will never overcome the lowest valid Stat for an obstacle or danger."
+  ],
+  "Bots": [{
+    "Model": "Citadel",
+    "Description": "<p>“Don’t be deceived by this one’s slow crawl! It can shift the gravity around itself to drop like a rock in any direction. And that shell? It’s packing a whole arsenal in there. Launchable scout drones, a shield generator that’s nigh impenetrable. Oh, and it can emit burning plasma, too.”</p>"
+  }, {
+    "Model": "Forge",
+    "Description": "<p>“Thought the little gourd with the rickety legs was pretty cute until it jumped across the room and landed right in front of me! I thought I was a goner. That mouth of teeth is a nightmare to stare down! But it turned those teeth on my walking stick instead, then started gnawing on the stone floor.</p><p>You know it’s thinking when you see the sparks along those antennae on its head. Or else it’s about to shoot you. Hard to tell.”</p>"
+  }, {
+    "Model": "Aviary",
+    "Description": "<p>“A robot raising birds? Yeah, I wouldn’t have believed it either, but this one does. At least it must have raised them, unless it brainwashed them, because they follow it around everywhere and roost on all its appendages. I saw it lay an egg once, from the machine on its back. It lit on fire and out burst a tiny elemental chick. Then the bot turned its head around and spat some molten goo into the hatchling’s throat. I’m pretty sure it thinks it’s their mother. I’m a bit afraid of what its children can do, if I’m honest.”</p>"
+  }, {
+    "Model": "Spinner",
+    "Description": "<p>“The first time I met her, she nearly ate me alive. Suddenly I’m getting doused in some sort of liquid glue from above, as this bot is lowering down towards me on its wires. Tiny bots are bubbling out of her mouth and jump down to scan me, and I can’t move at all. When they finished their scan, she was on me, then swallowed up the little bots and the net, and skittered away. I always check the ceiling first now, every time I enter a room.”</p>"
+  }, {
+    "Model": "Waddle",
+    "Description": "<p>“This little guy is all about mixing things up. And by that I mean it has a chemical concoction for every occasion. Need a dose of acid? How about a healing tonic? Maybe a sturdy bubble that’ll carry you across some dangerous terrain? I’m telling you, it can make anything! Just don’t let its hose hit you when it’s spraying them out. It means well, but it’s not the most coordinated.”</p>"
+  }, {
+    "Model": "Witness",
+    "Description": "<p>“I didn’t really think much of it at first. They just told me, ‘here’s your new partner, good luck out there!’ And that was it. It’s not the most responsive thing, just drifts around and doesn’t react. But sometimes that eye will light up and a laser shoots out and suddenly buildings collapse, thugs are silenced, and traps are sprung before I even register they’re there. So I’ve grown pretty attached to it. Never knew an extra eye could be so helpful.” </p>"
+  }, {
+    "Model": "Static",
+    "Description": "<p>“When this bot was created, we thought we’d made a breakthrough. Electrical frequencies so strong they could change the state of matter sounds like something out of science fiction, you know? The bolts from its antennae can shift matter to entirely different forms, or just change its state.</p><p>What we didn’t count on was how much energy it required to execute those changes. That shell around the generator contains the energy of SEVERAL nuclear reactors. We don’t let our guys get close if we can help it.”</p>"
+  }, {
+    "Model": "Lanky",
+    "Description": "<p>“Yes, you heard me right. This bot is completely powered by micro-hydraulics, no electricity involved, just a recycling of the chemicals inside it. It’s self-sufficient, and should never run out of energy, as long as its exoskeletal structures don’t crack. Of course, the cost of simplicity is simple functionality.</p><p>This bot is durable and powerful and it’s going to use those traits to overwhelm anything that gets in its way. You’re not getting finesse with this one, esteemed patrons, you’re getting efficiency.”</p>"
+  }, {
+    "Model": "Force",
+    "Description": "<p>“You’d better hope you never see what’s under this one’s hood. Me? I’ve never seen it, but I’ve seen what happens to the things that DO see it. The whole area around it slows down, the terrain shifts out of alignment, living things fragment and reassemble, and then everything goes still when it covers that power source up again. I don’t really want to know how it’s changing everything inside that altered space. I think I’m better off not knowing.”</p>"
+  }, {
+    "Model": "Aether",
+    "Description": "<p>“This big guy was abandoned on a battlefield, left for scrap. Boy, did the military miss out. We’ve reprogrammed it and given it the necessary repairs, equipping it with a few extra tools to make it better suited for exploration. It still prefers to keep out of sight, and it’s extremely efficient at neutralizing targets. Just keep the safeties active, for the sake of caution. We’re trying to be non-intrusive, after all.”</p>"
+  }, {
+    "Model": "Luft",
+    "Description": "<p>“The idea behind this bot is very simple: the principle of non-interference. ‘Rise above your problems’, they told us, so that’s exactly what we did. The aerodynamic blimp adjusts its durability based on altitude level, allowing it to cruise high above any threats.</p><p>Holographic imagery, projected directly beneath it, can distract anything with a brain that might cause trouble. Anything requiring a more tangible solution will get a spray of combustive phlogiston, courtesy of its auto-targeting nozzle.”</p>"
+  }, {
+    "Model": "Icebox",
+    "Description": "<p>“Don’t look this one in the eye unless you’re prepared to lose both of yours! It fires infrared energy from that lens that can cut through anything from stone and metal to diamonds. The amount of heat required to charge that laser should make the little guy combust, which is why the rest of its body is basically a sub-zero freezer.</p><p>If it gets too hot, the freezer cools it off, but if it gets too cold, the entire thing locks up. It’s a fine balance and you’d best be mindful of it. The last thing we want is to activate its meltdown mode.”</p>"
+  }, {
+    "Model": "Axel",
+    "Description": "<p>“You’re worried about its legs? No, the legs aren’t the issue. If it’s walking around, you’ll be safe: that means it’s doing delicate work. If it curls up into a ball? Good luck. Imagine an armadillo with precise control over gravity, rolling itself all over the place. Also the armadillo can convert all the kinetic energy from its movement into a concussive blast that can deconstruct the sturdiest of structures. Now forget the armadillo. Or don’t. Just stay out of its way.”</p>"
+  }, {
+    "Model": "Tiny",
+    "Description": "<p>“Watching these two work together is like watching a pair of dancers. The big bot is loud, destructive, rusty, and powerful. It strides into a room and everyone is aware of its presence. The little bot is near-silent, and prefers to remain out of sight until it has to pick up and maneuver its hefty companion.</p><p>The little one gives the orders and is as impatient as it is intelligent. The big one is largely passive, but easily distracted by unique and interesting finds. I can’t think of a better team.”</p>"
+  }, {
+    "Model": "Jet",
+    "Description": "<p>“Fortunately we ran a lot of tests before setting it loose, because it moved too fast to avoid collisions in the first few iterations. The processing inside it now predicts motion up to 10 seconds in advance, to mitigate that danger. We also added a laser between the prongs at the front so it can just eliminate anything in its way.</p><p>When it’s not traveling between locations, its tail moves in all directions, always busy fiddling with something. I’ve seen it do everything from pick a lock, to gut a lion, to solve a Rubik’s cube during its calibration tests.”</p>"
+  }, {
+    "Model": "Jackal",
+    "Description": "<p>“This one gives me the heebie-jeebies. They told me it’s got a soul in there. Someone who was infusing it with those symbols or runes or whatever you want to call them, and got themself sucked in instead. It floats around without ever moving its limbs, and it’ll stare right through you, even though it doesn’t have any eyes.</p><p>It’s silent, except when calculating energy optimization. Then there’s a sound like the rustling of pages that fades to a whine and suddenly something’s melted or transmuted or floating or who knows what else. It’s saved my life more than a couple times, but I just can’t get a read on why.”</p>"
+  }, {
+    "Model": "Octo",
+    "Description": "<p>“Gravity doesn’t mean a thing to this one. It treats our air like water. Kinda mesmerizing to watch the way it swims, all those tentacles swaying back and forth… Sorry, what was I saying? Oh, yes, it’s got minor psychokinetic properties that let it alter the brainwaves of any living thing. And it can use those same impulses to deactivate other minds, if it needs to.</p><p>The tentacles whisper as it moves, can you hear? And when it needs to, it can make those whispers louder and louder, until they coalesce into a sonic shockwave to deal with whatever obstacle is in its way. Beautiful.”</p>"
+  }, {
+    "Model": "Adept",
+    "Description": "<p>“I’m still not really sure if anyone has seen what this bot looks like. Ever since it went online, it began altering itself to match whatever lifeform was placed in front of it. You’ll never know it’s a robot at all, unless it wants you to.</p><p>Apparently it has a special material synthesizer beneath that heavy casing that intakes molecules from organic lifeforms and adds them into its own coding and structure. Given how long it’s been in action, you have to wonder if it even knows it’s a bot anymore.”</p>"
+  }, {
+    "Model": "Sprite",
+    "Description": "<p>“Such a cute little bot, right? Well you definitely won’t think it’s cute when it launches itself into the air and comes crashing down, 40 times the size it was before. It makes me feel safe to carry it around on my shoulder, knowing I’ve got a pocket-sized guardian.</p><p>When it senses an actual threat, its matter reactor activates, causing it to bulk up and turn into that truck-sized monstrosity with every limb primed to tear you apart. Then, when the danger’s past, it shrinks right back down, shedding pieces like ash into the air around it, and drawing them back inside its tiny body for later use. Now, where did I put that thing?”</p>"
+  }, {
+    "Model": "Drone",
+    "Description": "<p>“It starts out and there’s just one. And you’re thinking ‘oh, it’s perfectly safe, what can one little bot do?’ And then it splits. And splits. And splits again. And then there are a hundred the next time you blink. And then they’re disassembling walls or shooting weird chemicals from their stingers or carrying you through the air like you’re their next meal. And then there’s only one again and you can breathe again. But you know it can summon all the others any time it wants. And you know it wants to.”</p>"
+  }]
+}

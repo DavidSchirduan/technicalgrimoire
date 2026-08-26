@@ -1,0 +1,810 @@
+{
+  "paths": {
+    "A": ["1SE4", "4NE6", "4SW1", "6NW4"],
+    "B": ["1SS2", "2SS3", "2NN1", "3WW2"],
+    "C": ["3EE5", "4SE5", "5SS3", "5NE4"],
+    "D": ["1NN4", "2EE4", "4NN1", "4SS2"],
+    "E": ["3NE5", "3SE6", "5SW3", "6SW3"],
+    "F": ["1WW2", "2WW1", "2SE3", "3NW2"],
+    "G": ["1NE5", "5NW1", "5EE6", "6EE5"],
+    "H": ["4NW2", "2NE4", "2SW6", "6SE2"]
+  },
+  "names": {
+    "prefix": [
+      "Aviary", "Backwoods", "Bog", "Burial Ground", "Burrows", "Canyon", "Cliffs", "Conifers", "Copse", "Cradle", "Crater", "Den", "Evergreens", "Fen", "Flowerbed", "Forest", "Garden", "Gorges", "Graveyard", "Greenlands", "Grove", "Haven", "Hearth", "Hills", "Hive", "Hunting Grounds", "Marsh", "Maze", "Mire", "Mound", "Mountain", "Nest", "Old-Growth", "Orchard", "Primeval Woods", "Remains", "Road", "Rotfields", "Ruins", "Sporebed", "Swamps", "Thicket", "Timberline", "Trail", "Valley", "Weald", "Wetlands", "Wildlands", "Woodland", "Woods"
+    ],
+    "suffix": [
+      "Absolution", "Anguish", "Awakening", "Blades", "Bloodshed", "Bones", "Bounty", "Broken Time", "Burning", "Corpses", "Dead Gods", "Dead Kings", "Decay", "Desolation", "Disease", "Drowning", "Druids", "Eternal Dreams", "Euphoria", "Filth", "Fool’s Gold", "Hunger", "Madness", "Mutation", "Night", "Nightmares", "Poison", "Regret", "Rime", "Sacrifice", "Silence", "Singing", "Snares and Traps", "Spores", "Standing Stones", "Storms", "the Ancients", "the Behemoth", "the Crows", "the Flesh", "the Lost", "the Megalith", "the Mother", "the Ritual", "the Totems", "the Void", "Trickery", "Vermin", "Worms", "Wraiths"
+    ]
+  },
+  "encounters": [{
+    "name": "Warg the Wanderer",
+    "details": "A feral merchant who deals in pelts and magic items.",
+    "moods": ["1-2 Selling alcohol and food", "3-4 Selling unique animal parts", "5-6 Selling magical items"],
+    "image": "Token-Dryadi-Kousawyld.png"
+  }, {
+    "name": "Lone Dryadi",
+    "details": "It wanders quietly through the Wilds.",
+    "moods": ["1 Claims characters are unwelcome", "2-3 Indifferent, hunting or busy", "4-5 In distress, needs help", "6 Interested, willing to chat or trade"],
+    "image": "Token-Dryadi-Fellhunter.png"
+  }, {
+    "name": "Cherub Choir",
+    "details": "1d6 of them are perched in a tree.",
+    "moods": ["1-4 Hungry, twisted smiles before they attack", "5-6 Indifferent, their recent kills lie scattered among the brush"],
+    "image": "Token-Cherub-01.png"
+  }, {
+    "name": "Feral Knight",
+    "details": "One is guarding this spot.",
+    "moods": ["1-3 Prowling, hyper-aggressive and bloodthirsty", "4-5 Indifferent, looking for something", "6 Lies at rest, attacks if disturbed"],
+    "image": "Token-Feral-Knight-03.png"
+  }, {
+    "name": "Hermit Spider",
+    "details": "One is nestled in its home, eyes ever watchful.",
+    "moods": ["1-4 Hungry, lies in wait near a path, ready to strike", "5 Indifferent, recently ate", "6 Busy, looking for a new home"],
+    "image": "Token-Hermit-Spider.png"
+  }, {
+    "name": "Ailiper Nest",
+    "details": "2d6 of them are coiled among one other.",
+    "moods": ["1-3 Angry, aggressive", "4-5 Sluggish, just ate", "6 Surprised, flee from vicinity"],
+    "image": "Token-Ailiper.png"
+  }, {
+    "name": "Slumbering Linnorm",
+    "details": "It is ancient and gigantic.",
+    "moods": ["1 Awakens, demands to know who dares disturb them", "2-5 Stirs, unleashes vermin but doesn't pursue", "6 Indifferent"],
+    "image": "Token-Linnorm.png"
+  }, {
+    "name": "Root Troll",
+    "details": "It is silently weeping among the trees.",
+    "moods": ["1-2 Furious at the intrusion, attacks", "3-4 Irritated, demands a reason for the trespass", "5-6 Indifferent, melancholy and hurt"],
+    "image": "Token-Root_troll.png"
+  }, {
+    "name": "Hunters",
+    "details": "They are ragged and rough, the Wilds have corrupted them.",
+    "moods": ["1 \"Easy prey!\", they eagerly attack", "2-3 Hostile, defending their quarry and supplies", "4-5 Indifferent, so long as you donít screw anything up", "6 Friendly, looking to trade or help, for the right price"],
+    "image": "Token-Ravager_04.png"
+  }, {
+    "name": "Ravager Pups",
+    "details": "2d6 of them are bored and frustrated.",
+    "moods": ["1-3 Attacks, looking for a kill to prove themselves, eat, or pass time", "4-5 Hostile, demands tribute", "6 Offers for you to join them"],
+    "image": "Token-Ravager_05.png"
+  }, {
+    "name": "Ravager Camp",
+    "details": "Contains 2d6 Pups, 1d6 Blooders, and a Fang.",
+    "moods": ["1-2 Hostile, intruders are met with swift punishment", "3-4 Hostile, brought in for questions and robbery", "5 Curious, asks for information to help their raids", "6 Offers for you to join them"],
+    "image": "Token-Ravager_02.png"
+  }, {
+    "name": "Ravager Camp",
+    "details": "Contains 2d6 Pups, 2 Clawdogs, and a Skaalmage.",
+    "moods": ["1-2 Hostile, intruders are met with swift punishment", "3-4 Hostile, brought in for questions and robbery", "5 Curious, asks for information to help their raids", "6 Offers for you to join them"],
+    "image": "Token-Ravager_01.png"
+  }, {
+    "name": "Bauik",
+    "details": "It is stalking and lurking in the shadows.",
+    "moods": ["1-2 Waits to strike, attempts to disarm prey with its power", "3-4 Stalks, attacks at night", "5-6 Follows, but indifferent"],
+    "image": "Token-Bauik.png"
+  }, {
+    "name": "A Devil Stag",
+    "details": "It emerges from the shadows with the smell of sulfur and wicked smile.",
+    "moods": ["1-2 Indifferent, on its way to collect a soul", "3-6 Looking to make a bargain"],
+    "image": "Token-Devil-Stag.png"
+  }, {
+    "name": "Curseweald",
+    "details": "It hangs rotten and wretched, poisoning the ground.",
+    "moods": ["1-3 Hungry and vicious", "4-5 Irritated, fends off intruders", "6 Indifferent, doesn't want to be disturbed"],
+    "image": "Token-Curseweald.png"
+  }, {
+    "name": "Mycelium Zombies",
+    "details": "2d6 zombies have gathered in a patch and hide just out of sight.",
+    "moods": ["1-2 Hostile, highly active and agitated", "3-6 Indifferent, attack if disturbed"],
+    "image": "Token-Myconid-Zombie.png"
+  }, {
+    "name": "Cindersham",
+    "details": "It lurks in the dark.",
+    "moods": ["1-2 Aggressive, desperate for a meal", "3-4 Hungry, looking for an easy meal", "5-6 Indifferent, just passing through"],
+    "image": "Token-Cindersham.png"
+  }, {
+    "name": "Snuff Hounds",
+    "details": "1d6 of them nearby, their haunted cries echoing in the air.",
+    "moods": ["1-3 Hungry, in search of light to eat", "4-5 Curious, waiting for light to eat", "6 Indifferent, passing through"],
+    "image": "Token-Snuff-Hounds.png"
+  }, {
+    "name": "Blukstound",
+    "details": "It twitches with the sound of splintering wood.",
+    "moods": ["1-3 Hostile, looking for a meal", "4-5 Aggressive, defending a recent kill", "6 Indifferent, doesn't want to be approached"],
+    "image": "Token-Blukkstound.png"
+  }, {
+    "name": "False Beggar",
+    "details": "It appears as a mortal along the road, asking for coin or meal.",
+    "moods": ["1-6 If denied a simple charity, will attack"],
+    "image": "Token-False-beggar.png"
+  }, {
+    "name": "Spindle Cat",
+    "details": "It is climbing and hiding among the trees.",
+    "moods": ["1-3 Waiting to strike", "4-5 Hunting other prey, attacks if disturbed", "6 Indifferent, cautious"],
+    "image": "Token-Spindle-Cats.png"
+  }, {
+    "name": "Slavern",
+    "details": "You hear sniffing, and smell acid.",
+    "moods": ["1-2 Hungry, looking for an easy meal", "3-4 Hunting small game, hostile if disturbed", "5-6 Indifferent, keeps its distance"],
+    "image": "Token-Slavern.png"
+  }, {
+    "name": "Grimmking",
+    "details": "It strides through the forest.",
+    "moods": ["1-6 The Grimmking walks the same path as always, its stride always unbroken"],
+    "image": "Token-Grimmking.png"
+  }, {
+    "name": "Wyrd Mage",
+    "details": "A spellcaster who communes with the Wyrd.",
+    "moods": ["1 Hostile and mad, attacks strangers", "2-4 Indifferent, wants to be left alone", "5-6 Curious but strange"],
+    "image": "Token-Dryadi-Branchwytch.png"
+  }, {
+    "name": "Skunk Apes",
+    "details": "2d6 of them, a family hiding in the brush.",
+    "moods": ["1 Hostile, blindly attacks anyone", "2-3 Hungry, looking for an easy meal", "4-5 Hostile, defending a recent kill", "6 Curious and interested, their smell still overwhelming"],
+    "image": "Token-Skunk-Ape.png"
+  }, {
+    "name": "Shamblers",
+    "details": "3d6 of them are moaning and gathered in the dark.",
+    "moods": ["1-3 Hostile, attack intruders", "4-6 Indifferent, for a time"],
+    "image": "Token-Shamblers.png"
+  }, {
+    "name": "Rittermote",
+    "details": "It stands armed and hale.",
+    "moods": ["1-3 Ready for a glorious fight!", "4-5 Curious, indifferent", "6 On its way to a worthy opponent, dare to measure up?"],
+    "image": "Token-Rittermote_01.png"
+  }, {
+    "name": "Arcanis Arachni",
+    "details": "It perches in its web.",
+    "moods": ["1-4 Hostile and hungry", "5-6 Indifferent, weaving a new spell"],
+    "image": "Token-Arcanis.png"
+  }, {
+    "name": "Hideous Totem",
+    "details": "Features decaying wood and a hideous face; its body filled with rusted blades.",
+    "moods": [],
+    "image": "Token-Living-Idol.png"
+  }, {
+    "name": "Cutting Scrawl",
+    "details": "Vicious lines of sharpened language, it slices like a knife.",
+    "moods": [],
+    "image": ""
+  }, {
+    "name": "Bonemeal Quicksand",
+    "details": "A rough pale scree of broken shattered bone.",
+    "moods": [],
+    "image": ""
+  }, {
+    "name": "Jukkenrotter",
+    "details": "It is lonesome and lumbering, it gives off the scent of decay.",
+    "moods": ["1 Upset, hostile", "2-6 Indifferent, busy tending to the Wilds"],
+    "image": ""
+  }, {
+    "name": "Dragon Ticks",
+    "details": "Its swollen body and glittering eyes hide in the trees.",
+    "moods": ["1-4 Hungry, ready to engorge themselves", "5-6 Engorged but still hungry and hostile"],
+    "image": "Token-Dragon-tick.png"
+  }, {
+    "name": "Blight Motes",
+    "details": "1d6 of them, chittering and buzzing near refuse.",
+    "moods": ["1-3 Hostile and hungry to despoil", "4-5 Bored, will harass but avoid direct danger", "6 Indifferent, hostile if disturbed"],
+    "image": "Token-Blight-Mote.png"
+  }, {
+    "name": "Hallucinogenic Moss",
+    "details": "It's a dark purple and thick with a sheen like oil.",
+    "moods": [],
+    "image": ""
+  }, {
+    "name": "Gluttonous Tree",
+    "details": "Its root thick and knotted, a rumbling can be heard from within.",
+    "moods": [],
+    "image": ""
+  }, {
+    "name": "Standing Stones",
+    "details": "It seems newly erected.",
+    "moods": ["1-2 Strange symbols scratched into them", "3-4 Painted with fresh blood", "5-6 Primitive images carved into their faces"],
+    "image": ""
+  }, {
+    "name": "Standing Stones",
+    "details": "It looks impossibly ancient.",
+    "moods": ["1-2 Broken and defaced", "3-4 Tree roots coiled and crushing them", "5-6 Weathered and corroded writing, illegible"],
+    "image": ""
+  }, {
+    "name": "Bramble Beast",
+    "details": "It bristles with thorn and claw.",
+    "moods": ["1-3 Stalks and strikes when the time is right", "4-5 Hungry, looking for an easy meal", "6 Curious, watches from a distance"],
+    "image": "Token-Bramble-Beast.png"
+  }, {
+    "name": "Royal Fox",
+    "details": "Slender and graceful, a grin on its face.",
+    "moods": ["1 Spying on the characters, flees if spotted", "2-3 On business, greets and moves on", "4-5 Curious, willing to chat", "6 Has a message for the characters"],
+    "image": "Token-Royal-Fox.png"
+  }, {
+    "name": "Ether-Rat",
+    "details": "1d6 of them are in a nearby nest.",
+    "moods": ["1-3 Territorial, attacks until hurt", "4 Indifferent, possibly hungry", "5-6 Surprised, teleports away"],
+    "image": "Token-Ether-rat.png"
+  }, {
+    "name": "Wyrd Flare",
+    "details": "The world seems strange here, twisting in subtle ways.",
+    "moods": [],
+    "image": ""
+  }, {
+    "name": "Gripple Bats",
+    "details": "A horrid flock of 1d3 approach.",
+    "moods": ["1-3 Voracious with hunger, attacks and feasts", "4-5 Indifferent, busy eating something", "6 Sleeping, violent if disturbed"],
+    "image": "Token-Gripplebats.png"
+  }, {
+    "name": "Oracle Sludge",
+    "details": "It creeps along the ground.",
+    "moods": ["1-2 Hungry, will try to devour someone", "3-4 Needs information, strikes and flees", "5-6 Indifferent, busy with a plan"],
+    "image": "Token-Oracle-Sludge.png"
+  }, {
+    "name": "Hideous Totems",
+    "details": "Made of decaying wood with hideous faces and hundreds of rusted blades.",
+    "moods": [],
+    "image": "Token-Living-Idol.png"
+  }, {
+    "name": "Reaper's Fingers",
+    "details": "Thin, bony protrusions jut up from the ground.",
+    "moods": [],
+    "image": ""
+  }, {
+    "name": "Grove of violent trees",
+    "details": "Their creaks and groans speak of bloodshed.",
+    "moods": ["1-3 Angry, tries to kill the intruder", "4-5 Territorial, warns and gives a chance to leave before striking", "6 Foul-tempered, will strike if they are mistreated"],
+    "image": ""
+  }, {
+    "name": "Drowning Pond",
+    "details": "A serene pond amidst the sounds of harmonious singing wildlife.",
+    "moods": [],
+    "image": ""
+  }, {
+    "name": "Primal Skaal",
+    "details": "A mournful wail slips from its mouth.",
+    "moods": ["1-2 Angry, attacks in a rage", "3-4 Hungry, looking for an easy meal", "5-6 Indifferent, sings a dangerous song to no one"],
+    "image": "Token-Primal-Skaal.png"
+  }, {
+    "name": "Rotwood Dryadi",
+    "details": "A festering group of 1d8.",
+    "moods": ["1-3 Angry, attack in a frenzy", "4-5 Indifferent, lost in a trance unless disturbed", "6 Waiting to die, desire to be left in peace..."],
+    "image": "Token-Dryadi-Curserot.png"
+  }, {
+    "name": "Adventuring Band",
+    "details": "A group of knaves, cut-throats, and do-gooders.",
+    "moods": ["1 Friends, helpful for a time, backstab the moment it suits them.", "2-3 Hostile, defending a recent score or trophy", "4-5 Indifferent, so long as you donít mess with them too much", "6 Friendly, looking to trade or help, for the right price"],
+    "image": "Token-Ravager_02.png"
+  }],
+  "pathDescriptions": [
+    "A wide footpath, dusted with coal ash and black sand.", "The remains of a stone wall, crumbling, no taller than knee height.", "Rough pale cobblestones, a closer look reveals them to be skulls.", "The path is paved with gravestone, the names and dates still legible.", "A thin recessed trail has been gouged by hoof track and animal use.", "An ancient overgrown road of broken cobble and sand foundation.", "A trail is marked on either side with fat, faintly glowing mushrooms.", "The trail is made of the partially buried spine of some colossal corpse.", "A series of steep eroded switchbacks ascend a mossy cliffside.", "The path is mysteriously devoid of any life.It smells of sulfur and blood.", "A narrow damp fissure, like a hideous scar across the surface.", "Erosion and flooding has gouged a rough, twisting path.", "Through a canyon of loam and dirt, the walls are filled with twitching roots.", "Immaculate, slowly ascending marble steps are lit by bronze braziers.", "A great bed of vine winds onward like a treacherous knotted carpet.", "A series of moldy boardwalks wind through a rancid fen.", "Massive trees have been felled and flattened into an elevated walkway.", "A single aged suspension bridge stretches over a misty gorge.", "What was once a creek is now a muddy, fly-ridden trail.", "The trail is made with glittering quartz, broken into sand and pebbles.", "A single winding a deer path, laden with salt-licks and snares.", "The road winds through a deserted village, haunting eyes watch you.", "A tunnel-like terrace, woven from thick spider web and desiccated bodies.", "The trail of sandstone is lined with countless monstrous totems.", "A eerily straight trail, the sound of echoing voices are ever-present.", "The ground is hot, a path made of smouldering embers.", "A great stone wall, its crumbling battlement serves as a path.", "Slats of wood have been laid down, their surfaces etched with poems.", "A ferry pier and raft operated by a robed figure who is paid in secrets.", "A snaking carpet of ants serves as a trail. They ignore you.", "Next to a stream lies a small weathered trail.", "The trail is littered with shattered glass and mirrors.", "Giant standing stones bearing greedy faces serve as path markers.", "The sound of a whistling bird leads the way through a thicket.", "Countless remains of weapons and armor have been laid out in a trail.", "A giant frog offers to carry you on its back through a poison swamp.", "Through the mouth and gullet of a sleeping Linnorm.", "A trail of rusted pennies winds playfully around trees and stone.", "An ancient stone staircase descends into a wooded gulch.", "A trail of decapitated animals leads into the dark of the woods.", "Trees are carved with the same strange symbol. It unnerves you.", "Great cathedral ruins lie about. The remaining archways mark a path.", "The trail is marked with skeletons hanging from nooses.", "A great line of nithing poles bearing skulls spells a faint foot path.", "The ivy-covered corpse of a great aqueduct now serves as a road.", "A slimy, crusty path of an impossibly large slug. It smells of wet paint.", "The brush has been intentionally burned, carving a blackened footpath.", "A river fjord is marked with crumbling, defaced statues of dead gods.", "A line of robed monks silently point the direction of travel.", "A great, kingly road lies untouched despite its clear age."
+  ],
+  "dangers": [
+    "Feral Knights patrol the trails in pairs.", "Sleep is plagued by nightmares of an unholy shrine.", "Ravagers hunt travellers for sport here.", "Home of a monstrous intelligent spider.", "Is quick to snatch corpses and the fallen.", "Thick canopies cast the area in total darkness. Ground is tumultuous and hungers for flesh. Robs adventurers at every possible turn.", "Travel is almost always up the face of a cliff.", "The game and flora is diseased and unsafe.", "The wildlife all works together to hunt and kill.", "A mad Druid holds the name of a Primal Deity.", "It is far too easy to become lost here.", "A terrible false god demands your worship. Magic and spells have a terrible life of their own. The dead here never stay dead for long.", "Refuses to let any fire or lamplight burn.", "Rust grips metal at an accelerated rate.", "Has a habit of taking eyes and ears.", "The trees and flora conspire against you.", "A Fiend has made its home here in the shadows.", "A cult of gibbering lunatics demand sacrifice.", "No one ever leaves unscathed.", "Flooding happens regularly.", "A crazed bard rules from a ruined keep. Seeming shelters are always trapped.", "Nighttime ambushes are common.", "The private hunting ground of a Wild Elf Lord. Memories are hard to keep.", "A single errant spark will start a wildfire.", "The trails change course every full moon. Vampylfs have infected every living beast.", "Knows your darkest desires.", "Any ground is thick, sinking mud.", "All tolls here are paid in fingers.", "Hates and destroys bearers of holy symbols.", "At least one traveller always goes mad.", "Loud noises alert a primordial beast.", "Wyrd flares cause mutation and worse.", "Loners are always captured.", "The sound of music is met with punishment. Everyone is a backstabber and liar.", "Time is fickle and flows in many directions.", "Trust only what you hear, never what you see. Tests your strength in the most brutal ways. Entering is easy, escape is difficult.", "Trails and paths are spots for ambush.", "Enjoys riddles and punishing unclever sorts. Deadly chill befalls at night.", "Always takes a single life."
+  ],
+  "secrets": [
+    "a tree that tells horrid but perfect predictions.", "a way to acquire immortality", "the name of a powerful primal deity.", "great statues constructed entirely out of gold.", "spell books of an ancient and powerful wyrd mage.", "the location of the wild’s beating heart.", "blueprints for magical weapons of great and terrible power.", "a method for temporarily controlling the wyrd.", "a legendary dryadi craftsman and their workshop.", "standing stones that reveal the future.", "a means of travelling back in time.", "the relic bones of an ascended saint.", "a suit of mythic iron armor, buried with its original owner.", "a grimoire that contains the names and sins of every mortal.", "the invulnerable pelt of an ancient wolf god.", "the last brilliant writings of a warrior poet-queen.", "a magic forge that runs on flesh and bones.", "spider-silk crafted by the first of the spiders.", "the maddening songbook of an insane, but legendary bard.", "the long-held secret of the lady of broken branches.", "a dark ritual, strong enough to change the fate of the world.", "a way to return someone from death, no matter what.", "the teachings and techniques of a legendary warrior.", "the secret of controlling another mortal with word alone.", "a brazier containing a fire that will never go out.", "the body of a powerful but forgotten deity.", "a painting, hidden away for its terrible unmatched beauty.", "the great tomb of a legendary civilization.", "flesh from the body of a divine being.", "the knowledge of every trail and its destination.", "a bow that was said to call storm-clouds and lightning.", "method for preserving the mind, even after the body decays.", "a portal of shadow and ivy that leads to the afterlife.", "an ironwood chest containing the sins of mortal-kind.", "the crumbling tower of demigod who weeps sapphire tears.", "the name of a watchful living star, its powers unknown.", "a memory that is utterly important, but long forgotten.", "the chords of a song that will win any heart.", "a single flower that can cure any ailment or disease.", "a method for killing the ruin.", "the crown of a ruler, worth more than an entire castle.", "a key that can be used to open anything, not just locks...", "the sarcophagus of an ancient and powerful hero.", "the process of removing the curse of the treewylding.", "a forgotten library full of ancient and valuable tomes.", "the last known location of a falling star.", "the buried treasure of a barbarian king.", "an heirloom that spells disaster for a great ruler’s family.", "a terrible truth of a noble lineage.", "the loving embrace of a god."
+  ],
+  "scenes": [
+    "Small undulating loam hills.", "Large wide sinkholes, now overgrown.", "A bog full of twitching bloated corpses", "A field of tiny splintered bones.", "Chaotic mess of dirt piles and rotted logs.", "Armor, weapons, skeletons from a long-forgotten battle.", "Hundreds of burrows pepper the ground.", "Ancient glacial boulder field.", "An abbey, now decayed", "The ruins of a camp, signs of violence.", "Slow decline, dotted with fresh stumps.", "A series of warm leisurely streams.", "A cold fast moving creek.", "Great steep shale field.", "Old riverbed, long since dried.", "A pond, host to many strange tiny beings.", "Field of freshly upheaved dirt.", "Marshy lowland, peppered by large boulders.", "Eerily flat in all directions, the ground moves.", "Steep mountainside with fast moving water run-off.", "Deep gorge, layers of moist earth on both sides.", "Ridge of metamorphic rock juts up angrily.", "A channel laden with stacked-stones.", "A ruined forest altar, shattered on purpose.", "Large cliff face packed with fresh wet clay.", "Stoney ground with a long deep dark fissure.", "Steep incline, cut with several caves.", "A broken stone bridge in the middle of nowhere.", "Decaying masory hundreds of feet all around.", "A burnt out cabin.", "Several ponds, foetid and fly-filled.", "An overgrown graveyard.", "A massive wicked standing stone.", "Soft swampy ground.", "A grove of discarded statues.", "Difficult from all of the rotten logs.", "The overgrown bones of some giant beast.", "Several oddly tall dirt mounds.", "Massive stacks of brush and branches.", "The remains of many trails.", "Tracks of a herd have destroyed the ground.", "Large rolling hills that seem hollow, and hungry...", "A canyon complex is carved deep into the ground.", "The ground is alive with countless industrious insects.", "The earth and stones here are ashen and break easily.", "A bear graveyard.", "Several bonfires smoulder still.", "A large stream disappears down into a hole.", "The ground is naturally terraced.", "Thick viscous mud ooozes and is as warm as blood."
+  ],
+  "woods": [
+    "Faintly glowing coniferious forest", "Solemn ragged pale birch trees.", "Dark gnarled trees, hard as iron.", "Thick pulsating moss carpets everything.", "Thorny underbrush begs for blood.", "Sparse trees in perfect careful rows.", "Thick oaks packed tight.", "Sickly looking conifers with dry rot.", "The thick canopy is a single twisting tree.", "A grove of pear trees, the fruit worm-filled", "Many trees that leak a thick foul white foam.", "Tall grass shifts without wind.", "Trees with branches forming hands.", "Tall thin trees, scorched recently.", "Trees heavy in poison ivy.", "The air is choked with spores that cling to everything.", "Hollow ash trees packed with animal nests.", "Sunken trees coated in stringy moss.", "Ferns that enjoy clinging to skin.", "Deciduous trees, covered in vicious scars.", "Wide short trees with screaming faces.", "Trees with long roots that snake and writhe.", "An inpenetrable canopy obscures all light.", "Trees fat and blistered with disease.", "The ground is thick with sticky fungus.", "Strange topiary woven with bones.", "Thick with dead, fallen, and ruined trees.", "Great pine trees bleeding glowing blue sap.", "Thin trees grow tightly together, like a cage.", "Spindly maples, twigs tipped with blood.", "Umbral oaks carved with angry runes.", "The canopy is thick with spider webs.", "Short grey trees with fleshy trunks.", "Trees and foliage tinted blue and stains ground.", "Sparse, thin, leafless pines.", "A small treeless field of invasive wretched weeds.", "Giant evergreens, long dead, nooses bear skeletons.", "Lonely ash trees, every inch covered in strange scrawl.", "Strong healthy beech trees, roots snarl around skulls.", "Grove of massive elms with translucent leaves.", "Pale white trees that bleed red, with crimson leaves.", "Many trees, all severely windblown to the south.", "Impossibly tall sequoias that disappear into the sky.", "Cherry blossom trees, twisted and perverted somehow.", "Elm trees, all leafless and worm-ridden, but still alive somehow.", "Spruce trees, their needles hard as iron.", "Several of the trees' branches end with hand-like a shape.", "The roots are thick and all connect together in spirals.", "The leaves here glint like silver in the half-light.", "You can’t be sure, but the trees seem to move..."
+  ],
+  "senses": [
+    "SMELL: The smell of rotting cheese chokes your senses", "SOUND: Thousands of skittering legs move about unseen.", "SMELL: Freshly cut grass burns itself deep into your nostrils.", "SOUND: The faint plucking of a strings wafts through the air.", "SOUND: The area fills with bird noises, eventually becoming deafening.", "SMELL: Oddly sweet, like fresh cinnamon rolls. Marked only by a twinge of ozone.", "SOUND: Standing to close to certain areas triggers agonizing tinnitus.", "SMELL: Heavy with burnt wood and cooked flesh.", "SMELL: Tainted by the smell of spoiled meat, but you find yourself wanting more...", "SOUND: A droning noise, like that of a single colossal hornet, surrounds you.", "SMELL: Acrid and pungent like fresh cat urine and spillled alcohol.", "SOUND: Someone or something weeping softly. There is no one.", "SMELL: The scent of stale bread clogs your nostrils.", "SMELL: Something has died and long since rotted, its scent lingers in the air.", "SOUND: A series of owls call to each other. They seem to be talking about you.", "SMELL: Pine sap, acrid and overpowering, its smell clings to everything.", "SMELL: Loamy earthen scents waft all around, they greedily fill your lungs.", "SMELL: Electric coppery scents occasionally strike your nostrils.", "SOUND: The woods go dead silent suddenly, save for your cautious steps.", "SMELL: Almost undetectable, but a warm pheromone. You begin to feel... strange...", "SOUND: The sound of running water deep underneath the ground.", "SOUND: Voices in the darkness chitter and chatter amongst themselves, they know your names.", "SMELL: Pockets of oily burnt air seem to rise up from the ground.", "SOUND: A single piercing note, like an out of tune violin, is heard in the distance.", "SOUND: Pained, shrieking howls from a cat or some animal.", "SMELL: The scent of freshly fallen rain and faint ozone.", "SMELL: Musk and odor stifles the air, growing stronger the deeper you go.", "SOUND: A single unseen bird makes a single note every two seconds without fail.", "SMELL: Expelled bowels and rotted flesh fills the air like a miasma.", "SOUND: Something is stifiling a laughter, malicious chuckles slip out...", "SMELL: The warm comforting smell of cooking food, but something is terribly wrong.", "SOUND: A low rumbling drone from deep under the earth.", "SMELL: Mother's milk, warm and sickly sweet, overwhelming and unenjoyable.", "SOUND: Strange deafening trumpets from beyond the clouds, terrifying and unearthly.", "SMELL: Pungent body odor mixed with the musk of some unkempt animal.", "SOUND: Animal calls, distorted and otherworldly, all as if in pain.", "SMELL: The smell of a tea-shop, pleasantly aromatic at first but overpowering at certain spots.", "SMELL: Animal dung, earthy and foul, especially in the heat of day.", "SOUND: The sound of things dropping from high in the trees. Oddly rhythmic and growing closer.", "SOUND: Iron and metal grinding against one another. Grating and angry.", "SOUND: Piercing cracks, followed by the gentle sound of air escaping from below.", "SOUND: Constant, angry bird calls surrond you from all sides as if they are mocking you.", "SMELL: The smell of rotted eggs and sulfur hangs low to the ground. The scent makes you dizzy...", "SMELL: Fresh air rushes in, but grows steadily foul. You can bear with it for the time.", "SMELL: Pungent like lantern oil, the fumes make it hard to concentrate.", "SOUND: A crackling fire off in the distance, it must be massive to be heard from here...", "SMELL: No smell, in fact it is uncannily devoid of scent. Your own odor creeps into your nose.", "SOUND: The croaks from frogs hidden in the underbrush, a gutteral and gentle song.", "SMELL: A choking loamy scent of mold and moss. It comes in waves and creeps into your lungs.", "SOUND: The gentle hum of a folk song, the singer nearby. Are they friend or foe?"
+  ],
+  "locations": [{
+      "name": "Abbey to the Godflesh",
+      "description": "Through a corroded iron gate, past a line of weeping statues, a great stone abbey sits untouched by the surrounding woods. The inside is rotted and the floorboards give way with a single step. Something wriggles and pulses on the altar, and the world seems to distort.<br>A single piece of still-living flesh from a divine being rests here. Its power untapped, its great influence runs wild in this area.Nothing is what it seems."
+    },
+    {
+      "name": "Abstersion Pool",
+      "description": "The air grows calm here, and the trees form a thick lattice above. The light that shines through seems to form shapes of symbols and beings that dance on a clear crystal pool as the trees sway in the wind. The water is the cleanest you’ve ever seen and no animals dare disturb its shores. <br>Created from the single tear of a god, the pool cleans any impurity or ailment, scars and sickness washing away into the sacred waters. It does not sit unguarded, however; the elder Dryads Ardgal and Aife watch over it judging those worthy who might attempt to bath in the pool."
+    },
+    {
+      "name": "Ale Spring",
+      "description": "A small rocky pool of liquid arises from deep in the ground and flows into a stream. Foamy and gold it smells of hops and ale. It is ale! Well, lager technically.<br> It has a well-rounded flavor and a slight hint of malted sweetness. It flows out cold at 50C, at a rate of about 2 pints a minute, or 15 gallons an hour. There is no detectable magic, but it does beg the question of how it’s being made."
+    },
+    {
+      "name": "Altioc's Grave",
+      "description": "Across this forest of sickly oak trees you see the hints of struggle. Not just a struggle, a great battle. Scattered about the forest floor, under a layer of dirt and leaves piled several bodies deep, you find the ancient corpses of warriors long past, their armor rusted to dust, their weapons sticking up like saplings.<br>These are the remains of an army's failed attempt to combat the Wilds. Led by a self-proclaimed \"Saint Altioc\" they did battle with the beasts of the Wild for many years, before finally perishing here. <br>Altioc's spirit still haunts these woods, appearing as a regal ghost, torn to shreds, ribbons of flesh floating in the invisible wind. His army will fight again, but only if his heart, taken from him by a great beast, can be retrieved."
+    },
+    {
+      "name": "Bathing Pools",
+      "description": "At the top of a stony hill, surrounded by poplar trees, a series of 4d6 shallow pools lie embedded in rocky ground. Faint warm mist radiates from them and the trees block out most of the surrounding sound. <br>A natural hot spring location, its temperature fluctuates between 35 to 380C all times of the year. As well, the waters do wonders on the skin thanks to a natural water softener."
+    },
+    {
+      "name": "Bauik Hive",
+      "description": "A range of forested mountains make travel difficult. They smell foul and the treeline is broken by stony outcroppings of massive metamorphic rock. There are cracks between these stones that run deep into lightless passages, just barely wide enough to squeeze into the hungry fissures. <br>There are voices in the tunnel, sweet like honey and dripping with loving promises. Every passage and opening interconnects to one another, a spiderweb of dirt and earth. Countless Bauiks make their home in these tunnels, their monstrous lord presiding over this lightless kingdom of tunnels. Who knows what riches are hidden within."
+    },
+    {
+      "name": "Bliss Fields",
+      "description": "It is hard to see here. The air is thick with a sweet, fragrant green mist that pours in from all sides. You can only see a few paces in front of you, everything else is just shapes. <br>There is lush, tall grass and flowers, while every few yards large dead trees, stripped of bark and branch, stand like lonely standing stones. There is life here, animals dance about and come close, oblivious even when you kill them for their meat. Many soft voices, speaking like lovers, beckon you deeper into the mist. You feel you mind go blank with euphoria."
+    },
+    {
+      "name": "Boreal Woods",
+      "description": "The crunch of pine-needle and dry branch. The smell of pine and fresh sap. A massive forest of pine, spruce, and larch trees sprout high into the air, looking like thousands of toothpicks stuck into the landscape."
+    },
+    {
+      "name": "Bramble Maze",
+      "description": "Thick vicious undergrowth chokes everything. Caverns of wild thorns and vines hunger for fresh blood. The path that winds through follows strange geometric patterns, and the brush seems to shift when no one is looking at it. It needs to feed; only flesh will do."
+    },
+    {
+      "name": "Bristlepine Grove",
+      "description": "Ancient gnarled pine trees, looking more like dignified shrubs, grasp tightly to the side of their skree hillside. They are ancient beyond measure. The stories they could tell of a world long gone."
+    },
+    {
+      "name": "Broken Shrine",
+      "description": "Pieces of worn stone scatter this grove of moss and leaves. The pieces seem to have been ornately carved once, but now age and vandalism has taken its toll. It once stood as an altar for a cabal of druids and their profane sacrifices. Until something catastrophic happened in a single night."
+    },
+    {
+      "name": "Cairn of the First Hunters",
+      "description": "A seemingly innocent pile of stones are gathered here. However, each one is decorated with a crude image of a prehistoric beast. The first mortals to call themselves hunters would gather here, recording their bloody deeds and triumphs on rock and stone. This is their monument."
+    },
+    {
+      "name": "Cenotaph to a Dead Seraph",
+      "description": "Great stones, roughly carved and formed into a classical structure, stand solemnly in a boreal clearing. Upon the largest face is a vast scripture a hundred lines long. The script is beautiful, but the image of a great winged monstrosity sits in its center. <br>A divine beast fell here once; for a time its corpse lay and its dead form was worshipped. Then one day it was gone. In despair, a memorial was built and the worshippers buried themselves alive."
+    },
+    {
+      "name": "Clifface Amphitheatre",
+      "description": "A great semicircle depression of terraces sink into the ground facing a concave cliff-face. The acoustics at the bottom project sound quite well, much like a stage. Perhaps a show is in order?"
+    },
+    {
+      "name": "Clonal Forest",
+      "description": "The trees here, white bark and sickly green leaves, all look the same. For miles in all directions the only tree found is this one. It shares a great single root structure, stretching miles into the earth. Interconnected under a single will it reigns as king of this plot of land. It would be wise to show it the respect it deserves."
+    },
+    {
+      "name": "Collector's Statue Garden",
+      "description": "A thing of rags and occasional mutterings wanders this stretch of rotted woods. \"The Collector\", it goes by, and scattered through the trees are many beautiful alabaster statues. <br>The statues are always of mortals or animals in throes of anguish or terror, the details impossibly fine. One would suspect foul play. The Collector denies any such allegation."
+    },
+    {
+      "name": "Council of Blind Archmages",
+      "description": "In a clearing you spot them. Once fine robes, now tattered rags, adorn five decrepit figures. They call out and beckon you close with staffs made of rusted iron and dry-rot wood. All five of them are blind and desperate for company. They will talk at great lengths about all manner of things from the mundane (weather, books, favorite soup), to the esoteric (arcane spells, artifact locations, potion ingredients). <br>They were mighty once, until they gazed upon some terrible secret. Afterwards, they fled to the woods and gouged out their eyes to remove what they'd seen and now live as blind hermits."
+    },
+    {
+      "name": "Darkly Lake",
+      "description": "A smooth beach of salt and pepper colored sand surrounds a great lake. Small gentle waves lap at the shore while its depths are the color of dark emeralds."
+    },
+    {
+      "name": "Deciduous Growth",
+      "description": "The trees here have wide trunks and thick canopies. The branches will either be dense with leaves or empty and barren, depending on the season. Small animals can be found throughout this woods, their quick movements echoing through the leafy ground."
+    },
+    {
+      "name": "Desolate Crater",
+      "description": "The ground gives way to blasted stone and gravel. A depression in the earth, like some giant's bowl, collects rain-water and flies. A meteor fell here, who knows how long ago; its ashen remnants buried deep in the center of this crater."
+    },
+    {
+      "name": "Devil's Garden",
+      "description": "The usual diversity of plants and trees disappear here. Only evenly spaced larch trees and a bed of crabgrass can be found here. This is not coincidence, but the careful machinations of a cabal of demonic sprites. <br>They love larch trees and crabgrass and have slowly poisoned anything outside of that, killing it over the course of years. This treatment extends to anything that passes through their little garden."
+    },
+    {
+      "name": "Dwelling of the Scroll Man",
+      "description": "Inside a cave buried into the side of a hill, surrounded by piles of crude vellum scrolls, sits a lone grey-haired being by the name of Gallinade. His skin is etched with thousands of words which he carves off in long vellum sheets every day, only to be healed come sunrise; his skin replaced with new words. <br>He does not age and prefers to be left alone, slowly building his collection of skin-scrolls for a purpose he refuses to answer. For the price of food or entertainment (and only when he feels like it), Gallinade can produce any written work or magic scroll, if he doesn't already have it in his collection."
+    },
+    {
+      "name": "Elk Haven",
+      "description": "A grove of trees and tall grass that smells of musk and fresh animal droppings sits at the edge of a creek. A herd of elk gather here, one of the few areas they have found to be remotely considered safe."
+    },
+    {
+      "name": "Enormous Owl Statue",
+      "description": "The statue of a great owl sits at the base of a cliff, small tendrils of ivy climbing up its legs. Its gaze is ominous and almost alien. You don't like it."
+    },
+    {
+      "name": "Exile's Camp",
+      "description": "3d20 renegades and criminals call this collection of makeshift buildings and tents their home. Giving in to their savage impulses and without the laws of civilization, they are constantly in a state of orderly chaos. If you're careful and they're in a good mood you might be able to trade or interact with them. Keep a weapon at the ready though, and be prepared for a scrap."
+    },
+    {
+      "name": "Fairy Grove",
+      "description": "The trees here, all healthy and lively, all form concentric circles around a fixed point. At the center is a final small ring of mushrooms. A small gathering place for tiny fey beings, they can usually be found here conducting their business and weaving their magic."
+    },
+    {
+      "name": "Fester Pond",
+      "description": "The air reeks of spoiled cheese and sour meat. The air grows thick with clouds of stinging flies. A great pond, green with decaying sludge, bubbles and belches up gas like lazy farts. The pond was not always like this; a group of things lurk at the bottom of this pond, buried in the sludge. They have spoiled it over the many years."
+    },
+    {
+      "name": "Fields of Silence",
+      "description": "A field of silent grass is dotted with the tall flagpole remains of dead pine trees. The light seems to dim here, color desaturates, and the air goes utterly silent. No sound is ever heard or can ever be made while in this spot. An ideal place for an opportunistic hunter."
+    },
+    {
+      "name": "The Fisher King's River",
+      "description": "You hear the sound of running water. A single fast-moving river cuts deep into the earth, creating a trench of dirt and stone a good 15 feet deep. The water itself is black; it goes much, much deeper. Trees grow close to it sticking their jagged, hungry roots into the space above the river. <br>You see corpses tangled in the roots, dangling above the river like horrid lures. Some of them still have gear with them, armor that sparkles and weapons that glint with power. But something big lurks below that darkened water. Something smart. Something hungry."
+    },
+    {
+      "name": "Foetid Garden",
+      "description": "The ground goes soft like pulp here. An abhorrent evil smell surrounds you. The trees and foliage here all seem sickly and in the throes of death, but there is a rabid life here as well. <br>Slimes, molds, fungus, and sickness all thrive and burst with life in this area, clinging to anything they come in contact with. This twisted mockery of a garden swarms with foul protist life as well as clouds of the most diabolical diseases."
+    },
+    {
+      "name": "Fossil Graveyard",
+      "description": "The side of a cliff has collapsed into a great slope of gravel and skree, some smaller trees and weeds finding purchase in this rock. The detritus is not as mundane as it seems though. In each chunk of stone is clustered of hundreds of tiny fossilized trilobites and shells. <br>It's not just minute fossils, for the remains of great ancient and alien beasts, uncovered after eons, can be found embedded in the stone."
+    },
+    {
+      "name": "Fruit Trees of Rotten Truth",
+      "description": "A grove of twisted, sickly fruit trees cling to life in this misty hollow. Their fruits are maggot-ridden and long spoiled. Anyone who manages to stomach a piece of this rotten fruit is imparted with 1d6 seemingly useless facts (the average airspeed of an unladen swallow, the recipe for a sub-par tart). <br>As well there is a 5% chance that the fruit will impart an uncomfortable truth on the eater (your jokes really aren't that funny, your father wishes you had been a boy). The knowledge is erased the next time the eater vomits."
+    },
+    {
+      "name": "Fungal Carpet",
+      "description": "The area is dark, an unnatural ceiling of vines and moss blocks all light as well as traps a damp cool air. The ground is spongy with massive colonies of fungal growth. You can see corroded blades and armor covered in slime molds and night caps, their owners long since digested by the fungal carpet below."
+    },
+    {
+      "name": "Giant Spider Web",
+      "description": "The branches above seem to shimmer. Millions of gossamer spiderwebs coat every surface like an enormous threadbare blanket of silver. The spiders rule this place, and the bones of their many meals fill their webs. <br>The multitude of these beings are not unreasonable however, and are willing to bargain for safe passage, provided you bring enough for everyone to eat."
+    },
+    {
+      "name": "Glowlight Swamp",
+      "description": "This egg-scented marsh of brackish water and lumps of vegetation are perpetually coated in a thick fog. The occasional island of roots and grass is the only solid footing here and the bodies of various beings lazily drift by in the water. 1d10 small colored lights dance in the distance. Do not follow them, they are lures for the swamp."
+    },
+    {
+      "name": "Gorm's Flesh Weald",
+      "description": "The ground grows soft here, squishing under your feet. A foul stench of body odor begins to creep up from all around and you notice the landscape and life begin to take on a grisly form. The trees have ridges like bone, their roots become thick veins pumping blood, and the ground like long slabs of unskinned flesh. <br>It quakes, it breathes, it is alive. It calls itself Gorm through many mouths. It hungers for more flesh to add to its form. This thing hides a secret, though; a single piece of Godflesh that it keeps within itself and acts as the source of its power."
+    },
+    {
+      "name": "The Great Honey Comb",
+      "description": "An immense sound like a thousand snare drums in unison drones and echoes from a massive fissure in the side of a hill. Bees the size of cats flow in and out of this cavern, some laden in pounds of sticky pollen. <br>Inside this cave is a hive of immense proportions crawling with an army of workers, drones, and larva. Those willing or able to brave the guards and queen of this hive find glistening combs laden with honey; the royal jelly, in particular, is said to have strange magical properties."
+    },
+    {
+      "name": "The Grove of Tea and Candles",
+      "description": "It is dark here. The trees are gnarled and old but smell of exotic fragrances; their limbs are adorned with waxen candles, each glowing with a soft warm light. <br>If you follow the trail through this grove of candle-lit trees, you will come upon a campfire, smelling of fresh tea, surrounded by a group of reverent tea-lovers and their kettles. They mean no harm, and will trade their teas for coin or good. Their wares are of the most exotic variety and highest quality."
+    },
+    {
+      "name": "Grove of Millennia Trees",
+      "description": "The trees grow impossibly large. Each one the height of a tower, their branches are as wide as a mountain trail. There is no light here, the canopy blocks all light, and life has made due in the eternal dark. <br>Many things, civilized or savage, make their home upon these great trees, each one large enough to host a village. Things call out in the dark. Great blind Owl-Gryphons hunt the denizens of the treetops, silent as they fly through the darkened maze of these great trees. They never stop growing."
+    },
+    {
+      "name": "Hearthstone of Frost",
+      "description": "The air is much colder here, breath turning to mist. The remains of a great hall lay scattered like common detritus. <br>Only one piece remains untouched: a single flat stone in the center of the ruins with strange runes carefully etched along its base; its surface is freezing to the touch. Cursed by an old god, who was slighted by the original owners, the hearthstone is cursed to alway be freezing."
+    },
+    {
+      "name": "Hungry Ground",
+      "description": "Small clicks like porcelain cups tapping together spring up from the ground. There is a slight movement from under the dead leaves and dirt. A tiny human mouth is imbedded into the ground, its teeth slowly clicking together and tongue hungrily tasting the air. <br>The mouths bite down on anything, chewing it if they can. Alone they are a odd nuisance, but in clusters they prove to be dangerous, ravenously chewing apart unlucky flesh and metal. Some say the mouths can grow to the size of doors, teeth strong enough to sever a man in half."
+    },
+    {
+      "name": "Hysterical Hermit",
+      "description": "A pile of weeds, mud, and detritus make up a crude shabby hovel. A plume of blue acrid smoke rises up from within and crazed laughter can be heard inside. A mad hermit lives within this ramshackle dwelling, constantly shouting random quips or predictions into the air. <br>The hermit always has something to trade if you have something he wants. His wares range from artifacts of power to a petrified cat holding a little lute. All wares are equal in the hermit's eyes."
+    },
+    {
+      "name": "Idol of Bones",
+      "description": "It looks like a tree at first. A tall, pale, fractal thing made of jagged points and ragged velvet. Thousands of skeletal pieces, both human and animal, weave together in a horrid monstrous form. <br>It speaks to you in your sleep. It fills your mind with its twisted alien plans, pressing its vast manipulative consciousness against your own. Only when you speak its name does it show its true self; and then, madness grips you."
+    },
+    {
+      "name": "Infectious Scrawl-Stone",
+      "description": "A single decrepit stone, every inch is covered in an angry primitive scrawl. Crude degenerate caricatures and jagged curses make up just some of the content. Touching the stone transfers the scrawl to the one touching it. <br>In one swift motion the scrawl shoots across the body of the victim, covering skin in degenerate tattoos and insults. They are permanent, but only skin deep."
+    },
+    {
+      "name": "Ire Briar",
+      "description": "Thin waist-high briars coat the ground. Their tiny limbs occasionally whip and snap as if of their own volition. Their thorns, while smaller than a sewing needle, sting like dagger cuts. <br>Any show of aggravation or anger only seems to excite the briars, riling them up into a frenzy of strikes and lashes. It feeds off of this anger, be it people or animals."
+    },
+    {
+      "name": "Jeweled Trees",
+      "description": "Trees of wondrous chromatic greys spread their branches in wide joyous arcs. Their leaves glisten and shimmer in the light like silver. Small nodules sprout out of the trunks of these trees. <br>Digging into these nodules will reveal fat uncarved gems, each tree containing 1d8 of them valued at 1d6 x 10 gold pieces each. These jewel trees are well known by beast and bandit alike though, and adventurers attempting a quick payday should watch their backs."
+    },
+    {
+      "name": "Junkyard",
+      "description": "A colossal kidney-shaped gorge slopes down at a sharp angle on all sides. Inside the gorge lies mountains upon mountains of trash and garbage. It reeks of rot and is alive with pathetic life that picks through the filth for sustenance. <br>The junkyard is filled with almost any common good, typically broken or ruined, but legend has it that there are great treasures buried within the mounds of garbage. So prevalent are these rumors that roving gangs of violent prospectors prowl the tunnels and trenches of this junkyard."
+    },
+    {
+      "name": "Kaleidescopic Trail",
+      "description": "The trail goes straight, that’s what the map says, that’s what it looks like, so it must be so. Yet as you travel deeper down this path, your vision begins to refract. Slightly at first, until it finally splits and reflections in reality begin to occur. <br>Returning the way you came returns the world to normal, but pressing on causes greater and greater divides, sundering reality in a hellish hallucinatory mandala of shape and color. Who knows what might lie on the other side of this path, perhaps the face of a long hidden god."
+    },
+    {
+      "name": "Knowledgeable Knotgrass",
+      "description": "A small field of knotgrass surrounds a lone standing stone, split in half with age. The grass seems to sway on its own, and gently strokes the legs of those passing through it, motioning for them to lie down. <br>Anyone who sleeps on this bed of knotgrass finds dreams filled with visions of histories and philosophies, an attempted gift of knowledge from the kindly knotgrass. There may be no limit to what it knows and it imparts its gift to anyone."
+    },
+    {
+      "name": "Kudzu-ville",
+      "description": "House-sized masses of kudzu vine spread out, strangling everything in their thick leafy vines. Everything appears as sculptures made of the wretched little plant. A once proud village is now being devoured by kudzu. Searching through the masses of kudzu will find houses, wells, stables, and other edifices. Beware exploring the inside though, the kudzu-folk are scared of trespassers."
+    },
+    {
+      "name": "Lair of the Mega-Raccoon",
+      "description": "It reeks of death at the base of this mountain. Great claw marks have sundered trees and innumerable shattered bones mix with the scree. Gouged into the mountainside is a great black cave, its rim coated in dried blood. This is the unholy den of the legendary Mega-Raccoon. You have been warned!"
+    },
+    {
+      "name": "Log Hollow",
+      "description": "Great giant trees have fallen here and been hollowed out over time. Almost like little huts, the largest are two whole arm-lengths in diameter. Some animals and predators have taken up residence in the various hollowed-out logs, and are adept at skulking through the makeshift network of tunnels."
+    },
+    {
+      "name": "Lost Fortress",
+      "description": "A once great bastion now sits empty and in disrepair. Four small towers of wood and stone, as well as a wall of crumbling rock surround a small but well-built keep. While various animals have taken residence here, most of the wealthy furnishings are still intact, as if abandoned overnight. It begs the question of why the residents left in such a hurry."
+    },
+    {
+      "name": "Mead Tree",
+      "description": " Somebody, whether a whimsical fey or a group of deranged brewers, have turned this fat hollowed-out oak tree into an enormous aging barrel. Its contents: the finest honey mead across the land. <br>Tapping this tree produces 10d8 gallons of this sweet yellow mead. There is a 2% chance, however, that the tree's structure will give out and explode in a deadly shower of splinters and alcoholic beverage."
+    },
+    {
+      "name": "Megacolony Mound",
+      "description": "The trees are stripped of bark around this enormous mound of loam and clay. The ground is crawling with a multitude of miniature life; crawling black insects form a network of trails in and out of the mound. The tunnels weave for miles in all directions, crossing leylines deep within the earth. The colony’s queen has a plan."
+    },
+    {
+      "name": "Megalith Circle",
+      "description": "Giant granite slabs are arranged in a pair of concentric circles. Dark in color and cool to the touch, there are faint hints of elaborate petroglyphs, now worn to only a series of shallow grooves. Their placement is no accident. Each megalith is aligned to various star paths and heavenly bodies, acting as a cryptic and primitive astrological clock. Studying the heavens here grants great knowledge, some dangerous."
+    },
+    {
+      "name": "Mirror Copse",
+      "description": "A path runs through this slightly hilly copse, the various trees and undergrowth seem to repeat themselves every so often. Sure enough, they are exact duplicates, down to the cellular level. Be wary, something moves amongst the trees off the path. Perhaps a duplicate of you?"
+    },
+    {
+      "name": "Mocking Ossuary",
+      "description": "Deep in the ground, under a crude burial mound made of stacked stone, sits a chamber with holes carved into the earth, each one a resting place for a single skull. The skulls immediately begin berating you as you enter, casting mocking jokes and poigniant insults all for a cheap laugh. They can be quite knowledgeable and are willing to part with a wealth of information, but only if you can take and receive in their den of insult-comedy."
+    },
+    {
+      "name": "Moebius Creek",
+      "description": "A quick freezing creek winds between the trees. Following it “downstream” just finds you back where you started. A self-contained stream, eternally flowing in a circle."
+    },
+    {
+      "name": "Moot of the Dryadi",
+      "description": "A single hilltop is populated by 2d6 Dryadi elders. Ancient beings who have seen the world when it was young and now decide the direction of the surrounding Wilds. Depending upon their mood, they may ask for your assistance with some monumental task. At worse they strike you down for your insolence."
+    },
+    {
+      "name": "Mossbed",
+      "description": "Thick soft moss carpets every surface, be it rock or tree. Some patches are as thick as a man’s fist while others are just thin dry tendrils. The air becomes choked with their allergy-inducing spore if upset too much."
+    },
+    {
+      "name": "Mushroom Forest",
+      "description": "The trunks of the trees around you are strange. Looking up reveals them not to be trees at all, but gigantic mushrooms. Growing as tall as trees, with caps the size of houses, life has adapted to the strange formations. At night, some of them glow brilliant phosphorescent greens and blues."
+    },
+    {
+      "name": "Muulifans's Myconid Farm",
+      "description": "The canopy is thick and the air is moist, smelling of compost. Clusters of mushrooms bloom all about, planted neatly into row after row of great decaying logs. Every type of mushroom, magic or mundane, can be found here. <br>Carefully maintained by an enormous mirthful grub named Muulifan, who is willing to part with some of its specimens, but only for sufficient help with its garden."
+    },
+    {
+      "name": "Old Growth",
+      "description": "A carpet of pulsing root-like growths cover and strangle everything within sight. The air grows heavy and airless, while life and color is drained from the surroundings. The Old Growth is a primordial lifeform, old when the world was young. It is driven by an insatiable hunger and seeks to consume all in its path."
+    },
+    {
+      "name": "Owl-Gryphon Lair",
+      "description": "A crude covered animal hovel sits upon a mountaintop. Tree branches and broken trunks weave together with animal carcasses and feathers the size of boat oars. A giant owl-gryphon lives in this nest, resting here during the daytime. Occasionally, a clutch of 1d6 owl-gryphon eggs can be found within."
+    },
+    {
+      "name": "Palace of Antlers",
+      "description": "A strange jagged edifice of neatly stacked antlers sits at the bottom of a steep gorge. Inside, the walls and ceiling are all a similar construction of menacing pointed antlers. The mad hunter who built this strange building now stalks the various passageways, bringing ruin to anyone who might disturb this sanctuary."
+    },
+    {
+      "name": "Pete's Shack",
+      "description": "Nestled amongst the trees atop a gradual mountain is the shack of a legendary moonshiner. Stories abound of the medicinal, fortifying, and downright apocryphal qualities of his mythical liquor. He claims to be the absolute greatest brewer in all the land (no matter what his rival Petunia might say)."
+    },
+    {
+      "name": "Petrified Forest",
+      "description": "Great trees devoid of branches rise high into the air like archaic columns. A touch is all it takes to reveal they are made of stone. A fossilized grove, millions of years old, has somehow withstood the test of time. There are markings on these trees, markings made when they were still alive in eons past. By whom may never be known, but there is great power in something as old as this."
+    },
+    {
+      "name": "Petroglyph Cove",
+      "description": "A river snakes past a large hill, carving a cliff into its side. A small, dark gap between the top of the water and bottom of the cliff hints to a cave underneath. If you hold your breath and pass under the stone, a great cavern network is revealed. The first room, after emerging from the water, is a massive circular antechamber of limestone, the walls painted in layers upon layers of prehistoric paintings and carvings. <br>They depict everything from hunting long extinct beasts, to the rituals of daily life. They also depict something darker, great monsters, ancient gods, and practices too nightmarish to speak of."
+    },
+    {
+      "name": "Petunia's Shack",
+      "description": "Nestled amongst the trees atop a gradual mountain is the shack of a legendary moonshiner. Stories abound of the medicinal, fortifying, and downright apocryphal qualities of her mythical liquor. She claims to be the absolute greatest brewer in all the land (no matter what her rival Pete might say)."
+    },
+    {
+      "name": "Pit of Bodies",
+      "description": "The smell of spoiled meat and feces. A wide pit the size of a pond lies filled with grey and mottled mud. Slogging through the pit reveals a terrible detail: the pit is filled with the semi-liquid remains of countless bodies."
+    },
+    {
+      "name": "Plummeting Waterfall",
+      "description": "A running creek points to the sound of gallons of crashing water. The ground rises up into a massive cliff-face of layered stone. A giant waterfall courses over the edge, crashing into a rocky pool below."
+    },
+    {
+      "name": "Ponderous Silhouette",
+      "description": "A shale cliff-face juts out awkwardly. When observing it from a particular spot, the rock formation looks a lot like a pensive and thoughtful face."
+    },
+    {
+      "name": "Prehistoric Butte",
+      "description": "A great plateau rises nearly a hundred men tall, reaching high above the treetops. Vast columns of volcanic rock create this flat-top platform with impenetrable vertical cliff-faces. Scaling this plateau is no trivial matter; there are no handholds, no spots to rest, and the rock is hard for even steel pitons. Rumor has it that dark figures can be seen silhouetted on its top during the full moon, gazing motionlessly from their vantage."
+    },
+    {
+      "name": "Quail God",
+      "description": "A beautiful and opulent quail the size of a dog radiates a nimbus of iridescent and gold light. It stalks the forest with a grand host of other beautiful quails. Uncontested and undisturbed by all beasts, it is a divine being that brings life wherever it travels. It was once the pet of a god and has miraculously outlived its master. Whoever eats of its divine flesh gains incomprehensible power, provided they manage to catch the thing first."
+    },
+    {
+      "name": "Quarry ",
+      "description": "The ground here is cut into clean, geometric shapes, revealing a great marble quarry deeper than a giant is tall. Its bottom has filled with a sludgy pool of rainwater, and all manner of avian creatures have built their nests onto the rocky cuts. Some creatures lie trapped at the bottom, fighting amongst each other for scraps of food or drops of water that fall from above."
+    },
+    {
+      "name": "Respite of the Grey Knight",
+      "description": "Within a glen of ancient trees, upon a mountain of stone and blades, a lone knight sits cross-legged, meditating with its sword. Clad in resplendent silver armor, now greying and tarnished, the knight sits unmoving and silent, wrapped in a tattered blue cape with designs worthy of the greatest tapestries. <br>It will not move unless attacked or challenged to a duel; with the latter, the knight rises into an elegant bow before attacking with a whirlwind of strikes. If the knight is defeated or deems its opponent worthy, it will speak and impart great martial wisdom from an age long-gone."
+    },
+    {
+      "name": "Returning Mound",
+      "description": "Flowering cherry trees, maples, and magnolias paint the world with color. Wildflowers cover the ground and animals skitter about in the tall grass. In the midst of it all sits a great mound of earth, knotted with roots, and a single ancient cherry tree perched upon its summit. <br>It remains unflowered and at its base is a small earthen opening that burrows deep into the center of this loamy mound. Legend says that if you carry a body deep into the tunnels under the tree and bury it there in the dark with a garland of wildflowers, the body will come back to life during the next full moon. <br>But there is a price, for the ones who arise are stripped of their memory in life, and will see their loved ones as strangers."
+    },
+    {
+      "name": "Scrawl Trees",
+      "description": "The pine trees grow large and healthy here. They are covered in strange writing, some painted on with white paint, others carved intricately with fine tools. There must be thousands, each one telling a story in rune and pictograph. <br>The ones who do this hide in the shadows, dressed in crimson cloaks and armed with carver's tools. They make no noise, only ensuring no one defiles the trees. Who knows what can be learned from the writings if they are deciphered and studied. What power or prophecy is kept amongst this library of bark?"
+    },
+    {
+      "name": "Shale Field",
+      "description": "A field of splintered shale spreads out without tree cover. Both great slabs and diminutive chips make up this terrain. Falling down here proves damaging as the edges of the rock cut into exposed flesh quite easily."
+    },
+    {
+      "name": "Singer's Domain",
+      "description": "This copse of trees seems like any other. The only noticeable difference is the lack of any animals or insects. A closer inspection reveals old signs of violence and occasional decaying bones. <br>At night, the dreams of travellers through this area are plagued with a hollow high-pitched sound, almost resembling a song. Day after day they begin to hear this sound while they are awake. The sound pushes them to acts of violence and self-destruction. <br>This is all at the behest of The Singers, strange beings who live in the dirt and call this place home. They hate all visitors."
+    },
+    {
+      "name": "The Slate",
+      "description": "The ground is thick with the roots of many trees, in some places so thick that the very earth disappears. The roots all point to a single area, looking like millions of worms crawling and writhing to some unseen location. In the heart of this forest stands a single crude megalith of slate. <br>Ten men wide by twenty men tall, it is ruined with scratch marks, and covered in the grasping tendrils of many roots. The scratches are not defacements, but thousands of tiny writings in languages both alive and long dead. They tell of constellations, legends, curses, rituals, and of course the end of all things."
+    },
+    {
+      "name": "Sleeping Linnorm",
+      "description": "A great wyrm sleeps here, stretched out like a giant snaking log. Dirt, moss, and underbrush coats its body as it rests, unmoving, through the passage of time. While hard to wake, it can be done, but at the cost of risking its primordial ire."
+    },
+    {
+      "name": "Smoldering Woods",
+      "description": "The smell of burning wood and the fog of a smoldering fire choke your view. Rather than come upon a raging forest fire, you approach a wood blackened with fire and coated with ash. <br>Tiny trails of smouldering cinder slowly crawl across the surface of everything in this area. Cursed to a lifetime of suffering by some powerful thing, the woods here will smoulder but never burn for all eternity. Only a powerful enough fire will finally be enough to spark a blaze and let the forest burn away."
+    },
+    {
+      "name": "Soot Crag",
+      "description": "The air is choked with acrid smoke and the trees are coated in black soot. Fissures spew hot noxious gas as small flecks of ash and occasional sparks rise out of their depths. A massive underground coal deposit has caught fire here. It will continue to burn for 1d6 centuries. With any luck, it hasn't disturbed anything deep below the earth."
+    },
+    {
+      "name": "Spike Throne",
+      "description": "A great throne of dry thorns and bramble sits within a shaded fen of flies and cattails. Who knows who constructed it and to what purpose, as its thorns are quite sharp and as hard as nails."
+    },
+    {
+      "name": "Spiral Earthwork",
+      "description": "In a clearing of trees a great white and grey earthwork forms a gigantic spiral across the ground. It is constructed of small stones and salt, and serves some ceremonial purpose. It is unknown whether this is the work of a small collection of craftsmen or a single deranged artist."
+    },
+    {
+      "name": "Switchback River",
+      "description": "A large and slow river courses through this stretch of land, flowing gently along a beach of river sand and stones. It goes into a dog-leg shape further up, picking up some speed and peppered with large rounded stones."
+    },
+    {
+      "name": "Talisman Garden",
+      "description": "The tree limbs extend in long stretching trails. The sound of wooden wind chimes echoes from somewhere above. There, tied throughout the tree-top canopy, are thousands of tiny little effigies and talismans, each more hideous than the last."
+    },
+    {
+      "name": "Tar Pits",
+      "description": "The smell of hot asphalt and sound of gas escaping from below greets your senses. A great pool of loathsome black sludge bubbles and quakes in the ground. Covered in clusters of leaves and branches, the pit hungrily pulls down anything that weighs too much. There are the remains of once living things, both new and ancient, buried in the bottom of this pit. A literal graveyard of tar and bones."
+    },
+    {
+      "name": "Time-Warped Weald",
+      "description": "The trees and plants seem to grow and regress with terrible rapidity. In one spot ancient trees regress into saplings over the course of an hour, while in another spot ferns spring up and wilt into nothing in a matter of minutes. Affected by some time paradox, travel through this place is quite dangerous. Each day spent in this area either increases or decreases one's age by 1d6 years."
+    },
+    {
+      "name": "Tomb of the First Mortals",
+      "description": "A pile of giant flat stones and packed earth serve as an marker to a primitive tomb. Climbing in through a small crawl-space between the stones and the ground leads to a vertical shaft of dirt. <br>At the bottom is a circular room with several skeletons along the wall. Each is adorned in primitive jewelry and hunting tools, and all sit upon thrones made of bone and horns. These were some of the first mortals. In their time they were heros, and laid the groundwork for all civilizations after theirs."
+    },
+    {
+      "name": "Torpid Marshlands",
+      "description": "A expansive fen of river trees, cattails, and moss form clusters of landmass in slow, almost stagnant, water. The air smells brackish and muddy, and is filled with both dragonflies and mosquitoes. Travel by boat is the only convenient form of travel and safer due to the multitude of leeches that make their home in the waters."
+    },
+    {
+      "name": "Trees Marked by a Dark Touch",
+      "description": "A strange path of decayed and desolate earth blazes a trail. Every so often a dead tree will be spotted along this trail with a single stained handprint, like tar and rot painted upon it. Something terrible made its way through this spot, leaving only tracks and its corrupting mark upon the trees."
+    },
+    {
+      "name": "Vast Mound",
+      "description": "A giant hill seems out of place with the surrounding terrain. Walking across its surface, you can detect a faint hollow sound within. This man-made hill covers a hollow ritual space within. Who knows what Wyrd magics took place inside of its lightless belly."
+    },
+    {
+      "name": "Vermin Fields",
+      "description": "The ground cracks and snaps underfoot. The floor is nothing but animal bones. In the darkened corners of this spot, under root and stone, a multitude of hungry things writhe and gaze out of their hiding spots. Best not to stay here after dark..."
+    },
+    {
+      "name": "Watching Trees",
+      "description": "Tall lonely trees stand like wayward sentinels. The bark is marked with long hard grooves that run up and down. At times, the grooves fold open revealing large glassy eyes. The trees are always watching in this neck of the Wilds. To what purpose is unknown."
+    },
+    {
+      "name": "The Weaver's Den",
+      "description": "A strange knotted structure of branches, twine, and spiderweb contains a single circular entrance into its depths. Within this darkened maze of woven garbage are the remains of previous heros, their bodies covered in web, crammed into the walls like brick and mortar. <br>Swarms of spider-like aberrations patrol the halls, and in the center the Great Weaver sits, weaving away at infinitely intricate designs with twisted bloodied hands."
+    },
+    {
+      "name": "Wyrd Stones",
+      "description": "Stones of shale stand tall and solemn like lonely men. Their surfaces are carved with the most intricate of designs and script. Flowing across their form, the etchings are in perfect harmony with their natural forms. A spell caster who studies these stones for more than a week can learn their secrets, gaining knowledge of 1d4 new spells."
+    },
+    {
+      "name": "Yaruinne's Haven",
+      "description": "A dragon was felled from the sky and impaled on a tree. Through some twisted miracle she survived. Too weak to escape, her wounds healed around it and the tree wove throughout her body. She holds court here with many followers, and deals in information on the location of great and terrible beasts throughout the Wilds."
+    }
+  ],
+  "creatures": [{
+    "name": "Ailiper"
+  }, {
+    "name": "Arcanus Arachni"
+  }, {
+    "name": "Bauik"
+  }, {
+    "name": "Blight Motes"
+  }, {
+    "name": "Blukstound"
+  }, {
+    "name": "Bramble Beast"
+  }, {
+    "name": "Briarscoffs"
+  }, {
+    "name": "Cacophonous Crowmen"
+  }, {
+    "name": "Cherub"
+  }, {
+    "name": "Children of the Woods"
+  }, {
+    "name": "Cindershams"
+  }, {
+    "name": "Curseweald"
+  }, {
+    "name": "Devil Stag"
+  }, {
+    "name": "Dire Horsehair Worm"
+  }, {
+    "name": "Dragon Ticks"
+  }, {
+    "name": "Dryadi Hunter"
+  }, {
+    "name": "Dryadi Wytch"
+  }, {
+    "name": "Rotwood Dryadi"
+  }, {
+    "name": "Fell Hunter"
+  }, {
+    "name": "Ether-Rat"
+  }, {
+    "name": "False Beggar"
+  }, {
+    "name": "Feral Knight"
+  }, {}, {
+    "name": "Gastropal"
+  }, {
+    "name": "Goeroe"
+  }, {
+    "name": "Grimmking"
+  }, {
+    "name": "Gripple Bats"
+  }, {
+    "name": "Hermit Spider"
+  }, {
+    "name": "Jukkenrotter"
+  }, {
+    "name": "Kair"
+  }, {
+    "name": "Kyrkogrim"
+  }, {
+    "name": "Linnorm"
+  }, {
+    "name": "Living Idol"
+  }, {
+    "name": "Mire Ghost"
+  }, {
+    "name": "Moonslaver"
+  }, {
+    "name": "Mycelium Zombie"
+  }, {
+    "name": "Oracle Sludge"
+  }, {
+    "name": "Primal Skaal"
+  }, {
+    "name": "Quilluffs"
+  }, {
+    "name": "Ravager Pups"
+  }, {
+    "name": "Ravager Claw-Dogs"
+  }, {
+    "name": "Ravager Blooders"
+  }, {
+    "name": "Ravager Skaalmage"
+  }, {
+    "name": "Ravager Fangs"
+  }, {
+    "name": "Rittermotte"
+  }, {
+    "name": "Root Troll"
+  }, {
+    "name": "Royal Fox"
+  }, {
+    "name": "Shamblers"
+  }, {
+    "name": "Skunk Ape"
+  }, {
+    "name": "Slavern"
+  }, {
+    "name": "Snuff Hounds"
+  }, {
+    "name": "Sparklight Canaries"
+  }, {
+    "name": "Spindle Cats"
+  }, {
+    "name": "The Skulk"
+  }, {
+    "name": "Trunk Worms"
+  }, {
+    "name": "Weald Sirens"
+  }, {
+    "name": "Vampylf"
+  }, {
+    "name": "Vermincaust"
+  }]
+}

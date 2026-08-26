@@ -1,0 +1,61 @@
+<nav class="webring webring--rail-default" aria-label="Webring">
+  <span class="webring-label"><a href="https://rootr.ing/">rootring</a></span>
+  <div class="webring-links">
+    <a href="https://rootr.ing/prev?site=www.technicalgrimoire.com/blog">Prev</a>
+    <a href="https://rootr.ing/random">Random</a>
+    <a href="https://rootr.ing/directory">Directory</a>
+    <a href="https://rootr.ing/next?site=www.technicalgrimoire.com/blog">Next</a>
+  </div>
+</nav>
+
+<style>
+  .webring--rail-default {
+    margin-top: .5rem;
+    display: flex;
+    gap: .9rem 1rem;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: .45rem;
+    border-top: 1px solid color-mix(in srgb, currentColor 24%, transparent);
+    font: inherit;
+  }
+  .webring--rail-default .webring-label {
+    opacity: .78;
+    letter-spacing: .04em;
+    text-transform: lowercase;
+    font-size: .84rem;
+  }
+  .webring--rail-default .webring-links {
+    display: flex;
+    gap: .8rem;
+    flex-wrap: wrap;
+  }
+  .webring--rail-default a {
+    text-decoration: none;
+  }
+  .webring--rail-default a:hover {
+    text-decoration: underline;
+  }
+</style>
+{% if site.copyright.size > 0 or site.legal.size > 0 or site.hydejack.advertise %}
+<footer class="content" role="contentinfo">
+  <hr/>
+  {% if site.copyright.size > 0 %}
+    <p><small class="copyright">{{ site.copyright | markdownify | replace:'<p>','' | replace:'</p>','' }}</small></p>
+  {% endif %}
+  {% if site.legal.size > 0 %}
+    <nav class="legal"><small>
+    {% for node in site.legal %}
+      {% assign url = node.url | default: node.href %}
+      <a class="heading flip-title" href="{% include_cached smart-url url=url %}">{{ node.name | default:node.title }}</a>
+      {% unless forloop.last %}{{ site.data.strings.separator | default:'|' }}{% endunless %}
+    {% endfor %}
+    </small></nav>
+  {% endif %}
+  {% if site.hydejack.advertise %}
+    <p><small>Powered by <a class="external" href="https://hydejack.com/">Hydejack</a> v<span id="_version">9.1.5</span></small></p>
+  {% endif %}
+  <hr class="sr-only"/>
+</footer>
+{% endif %}

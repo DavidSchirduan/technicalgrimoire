@@ -1,0 +1,316 @@
+{
+  "HP": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "Names": [
+    "Dim",
+    "Ira",
+    "Lash",
+    "Vague",
+    "Flem",
+    "Ail",
+    "Toxen",
+    "Koff",
+    "Dewy",
+    "Misty",
+    "Sopp",
+    "Drip",
+    "Graydon",
+    "Agatha",
+    "Eldon",
+    "Fossil",
+    "Richter",
+    "Pearl",
+    "Gilden",
+    "Millia",
+    "Poba",
+    "Sully",
+    "Scrub",
+    "Tatter",
+    "Hugo",
+    "Larga",
+    "Jumbo",
+    "Mondo",
+    "Runt",
+    "Teena",
+    "Pinta",
+    "Wheetle",
+    "Zip",
+    "Shyan",
+    "Fidget",
+    "Jitter",
+    "August",
+    "Narsis",
+    "Braggen",
+    "Trumpet",
+    "Sharp",
+    "Brainy",
+    "Keen",
+    "Canny",
+    "Tax",
+    "Vex",
+    "Curie",
+    "Meddle",
+    "Boyle",
+    "Shrieka",
+    "Tirade",
+    "Vement",
+    "Stammer",
+    "Chichi",
+    "Bungle",
+    "Sputter",
+    "Slick",
+    "Allure",
+    "Glib",
+    "Dear",
+    "Frank",
+    "Cathy",
+    "Candid",
+    "Gab",
+    "Lance",
+    "Scout",
+    "Rant",
+    "Grunt",
+    "Cash",
+    "Merelda",
+    "Wage",
+    "Monet",
+    "Mac",
+    "Ginny",
+    "Swallow",
+    "Swig",
+    "Richard",
+    "Patricia",
+    "Lofty",
+    "Gilden",
+    "Mark",
+    "Ruby",
+    "Spot",
+    "Trace",
+    "Buzz",
+    "Tattle",
+    "Sland",
+    "Prate",
+    "Doc",
+    "Kit",
+    "Kwak",
+    "Bones",
+    "Bane",
+    "Malvara",
+    "Malek",
+    "Nafeera",
+    "Skip",
+    "Lady",
+    "Chevron",
+    "Doyan",
+    "Hunter",
+    "Veil",
+    "Slayton",
+    "Drak",
+    "Matt",
+    "Allie",
+    "Buddy",
+    "Crony",
+    "Champ",
+    "Hera",
+    "Diana",
+    "Perseus",
+    "Wulf",
+    "Oracle",
+    "Evoka",
+    "Ovate",
+    "Rob",
+    "Frisk",
+    "Crook",
+    "Klept",
+    "Astro",
+    "Marge",
+    "Auger",
+    "Sear",
+    "Shep",
+    "Vicka",
+    "Vine",
+    "Lama"
+  ],
+
+  "Smell":[
+    "Burned Hair", "\"Oregano\"", "Citrus", "Salt", "Light Perfume", "Far too much perfume", "Wet Dog", "Pluff Mud", "Suspiciously...nothing", "Old meat", "Dried blood", "Tobacco", "Piss and Vinegar", "Oiled Leather", "Wet Leaves", "Garlic", "Asparagus", "Stale Beer", "Sulphur", "Can't tell"
+  ],
+
+  "Allergy":[
+    "A common food (apples, peanuts, fish, beer, etc)", "Someone else's blood", "Middle Names", "Day-old food", "Moss", "Old Rainwater", "Spider Webs", "Dye", "Wet Shoes", "The last 10 minutes of every day", "Gold", "Candle Wax", "Torch Oil/Leather Oil", "Wizards", "Magical Light Sources", "Sweets/Candies", "Objects or People whose names start with a specific letter", "Magical Healing", "Don't know, GM will decide later", "Roll twice more"
+  ],
+  "Memento": ["Unsent love letter", "Tip of a broken blade", "Small painted figurine of a man", "Unopened book", "Weathered Stamp", "Bent coin (uncommon currency)", "Unlabeled purple potion", "Portable tea set", "Stale tobacco", "A ring that doesn't fit", "Half-finished ship in bottle", "Religious symbol (well-worn)", "Ocean-smoothed piece of glass", "Half-carved piece of driftwood", "Loaded die", "Sketch of someone's face", "Glove that doesn't fit", "An old shoe", "Complex knot of rope", "Brass key", "Ribbon worn around the neck/waist", "Unopened letter from a distant land.", "Letter of credit from a distant merchant", "Fine Masquerade Mask", "Ocarina", "Wooden box, no opening, rattles", "Gold Thread", "Empty birdcage", "Book with all the pages torn out", "Flask of firewater", "Compass that always points South", "Dull straight razor", "Bloody arrowhead", "Hand drawn map", "Poker chip", "Bag of candy", "Incomplete deck of cards", "Jar of Mud", "Particularly fine acorn", "Fake monkey's paw", "Small tin of gold teeth", "A crumpled note with a long list of names. Some are crossed out.", "A ball of bright red yarn", "Smelling salts", "Bag of dog/cat/horse treats", "A random Lost Thing", "A random Lost Thing", "A random Lost Thing", "A random Lost Thing", "A random Lost Thing"],
+  "Physique": [
+    "Athletic", "Brawny", "Corpulent", "Delicate", "Gaunt", "Hulking", "Lanky", "Ripped", "Rugged", "Scrawny", "Short", "Sinewy", "Slender", "Flabby", "Statuesque", "Stout", "Tiny", "Towering", "Willowy", "Wiry"
+  ],
+  "Face": [
+    "Bloated", "Blunt", "Bony", "Chiseled", "Delicate", "Elongated", "Patrician", "Pinched", "Hawkish", "Broken", "Impish", "Narrow", "Ratlike", "Round", "Sunken", "Sharp", "Soft", "Square", "Wide", "Wolfish"
+  ],
+  "Skin": [
+    "Battle Scar", "Birthmark", "Burn Scar", "Dark", "Makeup", "Oily", "Pale", "Perfect", "Pierced", "Pockmarked", "Reeking", "Tattooed", "Rosy", "Rough", "Sallow", "Sunburned", "Tanned", "War Paint", "Weathered", "Whip Scar"
+  ],
+  "Hair": [
+    "Bald", "Braided", "Bristly", "Cropped", "Curly", "Disheveled", "Dreadlocks", "Filthy", "Frizzy", "Greased", "Limp", "Long", "Luxurious", "Mohawk", "Oily", "Ponytail", "Silky", "Topknot", "Wavy", "Wispy"
+  ],
+  "Clothing": [
+    "Antique", "Bloody", "Ceremonial", "Decorated", "Eccentric", "Elegant", "Fashionable", "Filthy", "Flamboyant", "Stained", "Foreign", "Frayed", "Frumpy", "Livery", "Oversized", "Patched", "Perfumed", "Rancid", "Torn", "Undersized"
+  ],
+  "Virtues": [
+    "Ambitious", "Cautious", "Courageous", "Courteous", "Curious", "Disciplined", "Focused", "Generous", "Gregarious", "Honest", "Honorable", "Humble", "Idealistic", "Just", "Loyal", "Merciful", "Righteous", "Serene", "Stoic", "Tolerant"
+  ],
+  "Vices": [
+    "Aggressive", "Arrogant", "Bitter", "Cowardly", "Cruel", "Deceitful", "Flippant", "Gluttonous", "Greedy", "Irascible", "Lazy", "Nervous", "Prejudiced", "Reckless", "Rude", "Suspicious", "Vain", "Vengeful", "Wasteful", "Whiny"
+  ],
+  "Speech": [
+    "Blunt", "Booming", "Breathy", "Cryptic", "Drawling", "Droning", "Flowery", "Formal", "Gravelly", "Hoarse", "Mumbling", "Precise", "Quaint", "Rambling", "Rapid-fire", "Dialect", "Slow", "Squeaky", "Stuttering", "Whispery"
+  ],
+  "Background": [
+    "an alchemist",
+    "a beggar",
+    "a butcher",
+    "a burglar",
+    "a charlatan",
+    "a cleric",
+    "a cook",
+    "a cultist",
+    "a gambler",
+    "an herbalist",
+    "a magician",
+    "a mariner",
+    "a mercenary",
+    "a merchant",
+    "an outlaw",
+    "a performer",
+    "a pickpocket",
+    "a smuggler",
+    "a student",
+    "a tracker"
+  ],
+  "Misfortune": [
+    "abandoned",
+    "addicted",
+    "blackmailed",
+    "condemned",
+    "cursed",
+    "defrauded",
+    "demoted",
+    "discredited",
+    "disowned",
+    "exiled",
+    "framed",
+    "haunted",
+    "kidnapped",
+    "mutilated",
+    "poor",
+    "pursued",
+    "rejected",
+    "replaced",
+    "robbed",
+    "suspected"
+  ],
+  "MeleeWeapons": [
+    "Dagger",
+    "Cudgel",
+    "Sickle",
+    "Staff",
+    "Baton",
+    "Sword",
+    "Spear",
+    "Flail",
+    "Axe",
+    "Mace",
+    "Longsword",
+    "Battle Axe",
+    "Warhammer",
+    "Halberd",
+    "Guandao"
+  ],
+    "RangedWeapons" : [
+    "Sling and ammo",
+    "Bow and ammo",
+    "Pistol and ammo",
+    "Crossbow and ammo"
+  ],
+  "Armor": [
+    "Breastplate",
+    "Leather Jerkin",
+    "Shield"
+  ],
+  "Equipment": [
+    "Rations (10 uses)",
+    "Torches(10 uses)",
+      "Ten-foot pole",
+    "Coin(100)",
+      "Flint and Steel",
+    "Pen and Paper",
+    "Skin of fresh water",
+    "Bottle of fine wine(3)",
+    "Fine instrument(define)",
+    "Faithful Pet(name, describe) <i>If discarded, is lost forever</i>",
+      "Fancy clothes <i>If discarded, is lost forever</i>",
+      "Spell Rune (of a random spell)"
+  ],
+  "Spells": [
+    "Adhere: Object is covered in extremely sticky slime.",
+    "Animate Object: Object obeys your commands as best it can. It can walk 15ft per round.",
+    "Auditory Illusion: You create illusory sounds that seem to come from a direction of your choice.",
+    "Beast Form: You and your possessions transform into a mundane animal.",
+    "Befuddle: L creatures of your choice are unable to form new short-term memories for the duration of the spell.",
+    "Bend Fate: Roll L+1 d20s. Whenever you must roll a d20 after casting the spell, you must choose and then discard one of the rolled results until they are all gone.",
+    "Body Swap: You switch bodies with a creature you touch. If one body dies, the other dies as well.",
+    "Command: A creature obeys a single, three-word command that does not harm it.",
+    "Control Plants: Nearby plants and trees obey you and gain the ability to move at 5 feet per round.",
+    "Deafen: All nearby creatures are deafened.",
+    "Disassemble: Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them.",
+    "Displace: An object appears to be up to L×10ft from its actual position.",
+    "Elemental Wall: A straight wall of ice or fire L×40ft long and 10ft high rises from the ground.",
+    "Frenzy: L creatures erupt in a frenzy of violence.",
+    "Gravity Shift: You can change the direction of gravity (for yourself only) up to once per round.",
+    "Haste: Your movement speed is tripled.",
+    "Hover: An object hovers, frictionless, 2ft above the ground. It can hold up to L humanoids.",
+    "Icy Touch: A thick ice layer spreads across a touched surface, up to L×10ft in radius.",
+    "Illuminate: A floating light moves as you command.",
+    "Increase Gravity: The gravity in an area triples.",
+    "Invisible Tether: Two objects within 10ft of each other cannot be moved more than 10ft apart.",
+    "Leap: You can jump up to L×10ft in the air.",
+    "Liquid Air: The air around you becomes swimmable.",
+    "Manse: A sturdy, furnished cottage appears for L×12 hours. You can permit and forbid entry to it at will.",
+    "Marble Madness: Your pockets are full of marbles, and will refill every round.",
+    "Miniaturize: You and L other touched creatures are reduced to the size of a mouse.",
+    "Mirror Image: L illusory duplicates of yourself appear under your control.",
+    "Multiarm: You gain L extra arms.",
+    "Night Sphere: An L×40ft wide sphere of darkness displaying the night sky appears.",
+    "Objectify: You become any inanimate object between the size of a grand piano and an apple.",
+    "Ooze Form: You become a living jelly.",
+    "Pacify: L creatures have an aversion to violence.",
+    "Psychometry: The referee answers L yes or no questions about a touched object.",
+    "Raise Dead: L skeletons rise from the ground to serve you. They are incredibly stupid and can only obey simple orders.",
+    "Repel: L+1 objects are strongly magnetically repelled from each other if they come within 10 feet.",
+    "Shroud: L creatures are invisible until they move.",
+    "Smoke Form: Your body becomes living smoke.",
+    "Spider Climb: You can climb surfaces like a spider.",
+    "Swarm: You become a swarm of crows, rats, or piranhas. You only take damage from area effects.",
+    "Telekinesis: You may mentally move L items.",
+    "Telepathy: L+1 creatures can hear each other’s thoughts, no matter how far apart they move.",
+    "Teleport: An object disappears and reappears on the ground in a visible, clear area up to L×40ft away.",
+    "Thaumaturgic Anchor: Object becomes the target of every spell cast near it.",
+    "Thicket: A thicket of trees and dense brush up to L×40ft wide suddenly sprouts up.",
+    "Time Rush: Time in a 40ft bubble starts moving 10 times faster.",
+    "Time Slow: Time in a 40ft bubble slows to 10%.",
+    "Vision: You completely control what a creature sees.",
+    "Ward: A silver circle 40ft across appears on the ground. Choose one thing that cannot cross it: Living creatures, dead creatures, projectiles or metal.",
+    "Web: Your wrists can shoot thick webbing.",
+    "Wizard Mark: Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects."
+  ],
+  "lostThings":[
+    "Broken compass, the needle is stuck. <br><i>If repaired, always points to the nearest source of fresh water (probably Damp Cave). </i>","Small pack of field rations. <br><i>All spoiled.  </i>","Sealed backpack. <br><i>Filled with wood and rocks.  </i>","Cracked bottles held together with wire. "," Stone block with a metal rod poking out. <br><i>Stats as a crappy hammer (d4).  </i>","Greenish brown-colored cloak with a faded Cattail symbol on the back. <br><i>Wearer is Invisible among clumps cattails.  </i>","Bag of 5 rations and several days of water. ","Pack of dried fruit. 2 rations.","A recently cooked pig, slightly eaten. Careful carving results in 4 rations.","Bundle of 5 wooden spears. <br><i>D6 damage, thrown. </i>","40 feet of waxed twine rope. ","d100 coins ","Bag of gems worth 100 coins. ","Wooden spear with masterwork carvings telling an epic tale. <br><i>d20x4 coins to a collector like Old Mire.  </i>","Ruby Ring.  <br><i>Magic has faded, but still valuable. d20x5 coins. </i>","Formula for cloth dye, earth tones.  <br><i>Worth d20x4 coins to the right person. </i>","Beautiful hand-carved flute. <br><i>Worth d20x3 coins to a musician. </i>","Sealed can of MudPaint.<br><i>When applied it protects the object permanently from all water and weather damage. 10 uses, each use can cover a slot’s worth of stuff.  </i>","Bag of heavy winter clothing. <br><i>When all the clothes are worn, the surrounding 100ft around the wearer grows colder and colder until the clothes are taken off. It gets cold enough that nearby water freezes after an hour. </i>","Spellbook of Water Barrel. <br><i>Summon a barrels-worth of saltwater. </i>","An old sealed jar filled with a gallon of yellow sandy mud. <br><i>This mud takes whatever form the user commands, and hardens like steel. If it is ever immersed in water it dissolves permanently. </i>","Book of Necrotic Oysters. <br><i>Soaked and warped, this book describes a simple method for turning normal oysters into throwing weapons. These oysters deal d4 damage, and when retrieved and eaten after inflicting damage restore d4 health. </i>","Wood boots. Only fits smallest PC. <br><i>Any liquid the user steps on turns into a cube of floating wood. </i>","Nightbloom flower, d20 small delicate petals. <br><i>When eaten, grants life-vision for 4 hours. You can see everything living within 100ft, even through walls. </i>","One Size Fits All Hat. <br><i>When thrown onto an enemy and given the correct command, the hat envelopes the targets head, blinding and choking them (d4 damage per round). </i>","Wooden canoe burned and warped by flames. It floats about 6 inches above the ground and can carry 2-3 people or an equivalent amount of stuff. Movement is about as difficult as paddling/pushing a normal canoe through the water.","Crystal armband of engraved fire. <br><i>The wearer can absorb flames and release them later. Every 5 health of flame absorbed fills a Slot. Can be released at will. </i>","Human skeleton covered in runes. <br><i>Follows commands as best as its bones will allow. Each word of a given command will consume the next largest bone. After is loses 20 or more bones it will be extremely limited in what tasks it can accomplish. </i>","Small clay cup with a single rune messily carved in the bottom. <br><i>Pouring clean water into this chalice creates a magical field that repels all insects. The field extends far enough to encompass 5-6 people. </i>","Grimy handkerchief of tiny bones. ","Bag of engraved fish bones. <br><i>When submerged in water they connect and swim around like a fish.  </i>","Rusted cooking pan. ","Large Geode, looks valuable! <br><i>A thin layer of crystal over a normal rock.  </i>","Wet and frayed string buried in mud. <br><i>If carefully pulled on, find a very nice rock tied to the other end. ","Pile of moist algea.<br><i>Changes color with the time of day.  </i>","Sword made from the spine of a Mucker.<br><i>d10 damage, 2 slots, 1 hand. Breaks on a critical success or failure.  </i>","Bag of 5 glowing, squirming leeches.<br><i>When applied, it permanently lowers max HP by 1, and cures any disease or infection. </i>","Bag of invisible mushrooms. <br><i>Perfectly normal poisonous mushrooms, forever invisible. Can be cultivated. </i>","A live, squirming fish. <br><i>Its belly is full of 2d20 coins. </i>","Sharp piece of obsidian.<br><i>d6+2 damage, 1 slots, 1 hand. Breaks on a critical success or failure. </i>","Bag of 4 rations worth of fresh fish.","Large barrel of freshwater. Cattail symbol burned into the side. 4 slots.","Dried ball of mud.<br><i>Contains a rusted wedding ring inside with some simple etchings, d100 coins. </i>","Rusted jewelry box. <br><i>All the metal has rusted away, but the rubies inside are still worth something. D100 coins. </i>","Bag of 50 different kinds of coins of all shapes and sizes and metals. D100 coins, d100 x 5 to a collector.","Child’s wooden sword. <br><i>The wood is from an ancient tree, worth d100 x 2 coins to a mage or craftsman.  </i>","Muckerfish bone inscribed with random scratches and markings. <br><i>Anyone infected with Mucker Disease can translate. Describes how Muckers (or anyone infected) can lie under the mud to double their healing. </i>","Soft skin pouch of blue maggots. <br><i>These maggots absorb all sound made by whoever carries them. After 1 day the maggots finally explode, unleashing all the built up sound. </i>","D20 blue fleshy marbles.<br><i>Eating one of these will grant the user 6 turns of breathing underwater. </i>","A small bag of 12 stone berries.<br><i>When planted/tossed onto a surface a large pointy stalagmite rapidly grows in less than a second; d100 feet tall. </i>","Muckerfish bone inscribed with random scratches and markings. <br><i>Anyone infected with Mucker Disease can translate. It’s a mapping of the tunnels. Using these instructions, the PCs can choose to avoid odd-numbered encounters while traversing the tunnels. </i>","Pile of clear, foul smelling goo. <br><i>When applied, the target becomes invisible while underwater. 10 uses, each use can coat 1 person for 1 hour. </i>","Pile of bright Glowshroom buds. <br><i>Glow as bright as a torch. Immediately destroyed if exposed to sunlight. </i>","A small shriveled piece of flesh with some stringy veins still attached. <br><i>A dried Muckfish brain. Acts like a spellbook: Give L Mucker Warriors or Brutes simple commands.","Hood made of fish-skin and mold.  <br><i>Usually worn by Mucker Shamans. +0 Armor, while worn grants access to the Pluff Trap spell (see Mucker Shaman). </i>","Staff of fishbones & Mucker spine.  <br><i>Usually worn by Mucker Shamans. <br><i>D6-1 damage. Grants access to the Wave spell (see Mucker Shaman). </i>","Hood made of fish-skin and mold.  <br><i>Usually worn by Mucker Shamans. +0 Armor, while worn grants access to the Pluff Trap spell (see Mucker Shaman). </i>","Filmy green egg with a chewy shell.<br><i>When consumed you can command any mass of insects smaller than yourself. Lasts until you next eat. </i>","Silfer coin. The faces shift and change.  ","Pile of multi-colored Archeo feathers. ","Small Silfer box with the top torn off. ","Broken Trilo, futilely trying to sample. ","Buried chunk of silfer. <br><i>The more they try to dig it out, the more the realize how ginormous it actually is. Like tripping over the corner of a buried pyramid.  </i>","Very tiny book, the size of a matchbox. When squeezed, it opens. The reader is shrunk down to about 6 inches tall to better read the alien text. Lasts for 2 hours. ","5ft square sheet of silfer. <br><i>Immovable unless grasped with bare fingers.  </i>","Strange fruit, tastes a little like cheese. <br><i>1 Ration. Re-grows every morning from the acorn-sized seed in the middle. If eaten three days in a row, the PC becomes addicted. </i>","40ft loop of thin wire. <br><i>Undoes any knot after 5 turns. Unbreakable. </i>","Silfer...ice cream scoop? Medical tool? .","Hard rubber tube with a stopper. <br><i>Sloshing liquid can be heard inside. This liquid can eat through any known substance, except the container it came from. </i>","Thin rod, about 5 feet long. <br><i>Grows an inch longer every day. </i>","Silfer bird, like a childs toy. <br><i>Can be activated by pressing the beak. When activated it quickly flies away. </i>","Container of 20 silfer pills. <br><i>When consumed the entire body is numbed for 4 hours and experiences a calm, relaxed sensation. </i>","Beautiful flower in a pitcher with small charred holes around the rim.<br><i>From another world. Requires weekly exposure to intense flames or it will die. </i>","Vial of silfer dust. <br><i>Worth d100 x 3 coins to a blacksmith. Fatal if inhaled. </i>","Flexible square of interconnected silfer plates. 6 inches wide.","Four large silfer wings. <br><i>The wearer can glide for long distances. </i>","Small silfer pin, with a wide head. <br><i>When inserted into a creature, target’s flesh melts away, and the skeleton turns to silfer. It will accept Archeo translated commands. Otherwise it wanders off towards the Vault. </i>","Dormant Trilo. <br><i>Worth d100 x 5 coins to a mage/scholar. </i>","Dormant Archeo. <br><i>Worth d100 x 5 coins to a mage/scholar. </i>","Dormant Anamolo. <br><i>Worth d100 x 5 coins to a mage/scholar. </i>","Dormant Humano. <br><i>Worth d100 x 5 coins to a mage/scholar. </i>","Metal hexagon with small holes. <br><i>When the user speaks into the hex, they are transported above ground to the hex with the same first letter as the first word they said. If no hex matches that letter, is uses the next word, and the next until a match is made. </i>","Two silfer cubes stuck together.  <br><i>When immersed in water, the cubes separate. After both cubes are removed from water they fly towards one another at great speed, no matter how far apart, smashing through rock and earth. </i>","Metal spike with a dark black head.<br><i>When embedded into an object, that object becomes weightless. </i>","Small crystal triangle. <br><i>When swallowed target suffers d20 damage. If they survive, then they immediately gain d6 max HP. </i>","Small silfer globe. <br><i>If kept warm and in contact with flesh for 3 days, the globe hatches into a loyal Archeo that obeys commands. </i>","A VoltCell! <br><i>This VoltCell is completely spent. But Azimech will still accept it for PART III of the Bone Marshes. </i>"
+  ]
+}

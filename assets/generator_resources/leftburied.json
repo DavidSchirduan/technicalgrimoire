@@ -1,0 +1,255 @@
+{
+  "Names": [
+    "Amaris", "Heinrich", "Petyr", "Claribel", "Idony", "Osanna", "Albrecht", "Imrich", "Sarduk", "Constance", "Isolde", "Pleasant", "Connagh", "Iain", "Slane", "Ethel", "Johnchild", "Tesslyn", "Devoss", "Jeremiah", "Viktor", "Emmeline", "Lillian", "Winona", "Dolan", "Luka", "Walt", "Gesine", "Matilda", "Wymarc", "Hartin", "Otto", "Yarold", "Helewise", "Nathalie", "Zayna", "Caspian", "Herman", "Andras", "Orvin", "Margo", "Hemingway", "Pryce", "Pike", "Wold", "Magda", "Cordelia", "Firth", "Adrian", "Calder", "Dylan", "Irving", "Tilde", "Taylor", "Harker", "Rundolph", "Yvonne", "Martel", "Olin", "Christof", "Oscar", "Bella", "Wilbur", "Ryll", "Burke", "Coral", "Eleanor", "Bethan", "Maynor", "Hart", "Nathaniel", "Marie"
+  ],
+  "Stats": {
+    "2 1 0": ["Protagonist", "Veteran", "Traveller", "Cabalist", "Cut-Throat", "Freeblade", "Dwarf", "Lamenter", "Gastropodian"],
+    "2 0 1": ["Protagonist", "Traveller", "Outcast", "Freeblade", "Veteran", "Believer", "Lamenter", "Dwarf", "Awakened Automata"],
+    "1 2 0": ["Cut-Throat", "Veteran", "Scholar", "Freeblade", "Dastard", "Outcast", "Small Folk", "Elf", "Awakened Automata"],
+    "0 2 1": ["Traveller", "Dastard", "Physiker", "Scholar", "Cut-Throat", "Outcast", "Small Folk", "Elf", "Gastropodian"],
+    "1 0 2": ["Scholar", "Cabalist", "Believer", "Protagonist", "Protagonist", "Physiker", "Lamenter", "Dwarf", "Awakened Automata"],
+    "0 1 2": ["Scholar", "Cabalist", "Believer", "Traveller", "Dastard", "Physiker", "Small Folk", "Elf", "Gastropodian"]
+  },
+  "Archetypes": {
+    "Believer": {
+      "Description": "Believers are holy folk, guided by gods' voices: devout preachers, honourable knights, sacred healers or holy monks, a person who puts their faith in some higher being greater than mortals.",
+      "Abilities": ["Holy Mission", "I Am No Preacher, I Am A Prophet", "Hand of the Holy"],
+      "Advancements": ["Eldritch Pact", "The Holy Song of War", "Lay On Hands", "My Shining Armour Gleams", "Radiant Blade", "Spirits of the Beyond"]
+    },
+    "Cabalist": {
+      "Description": "Cabalists are often cultists or wizards' apprentices whose unpleasant, terrifying or otherworldly experiences allow them to handle the underworld better than most.",
+      "Abilities": ["Been There Done That", "I've Seen Things", "Already Slightly Gone"],
+      "Advancements": ["Concoctionist", "Eldritch Pact", "Fire and Lighting Strange", "Witch's Curse", "Otherwordly Senses", "Toxic Blades"]
+    },
+    "Cut-Throat": {
+      "Description": "Cut-Throats are criminals and unsavoury folk: thugs, ruffians, thieves, assassins or general lowlifes. They will lie, cheat and murder to get whatever they want—and do even worse for what they need.",
+      "Abilities": ["Silver Tongue", "Tricks of the Trade", "Honour Amongst Thieves"],
+      "Advancements": ["Marksman's Aim", "Knife From The Shadows", "Nimble Dodge", "Shadow Glamours", "Tough As Nails", "Toxic Blades"]
+    },
+    "Dastard": {
+      "Description": "Dastards are charlatans, tricksters and fast-talkers: mountebanks, noble house's bastards, swashbucklers or pirates—all charismatic and flamboyant, and largely better at talking their way into trouble than getting out of it.",
+      "Abilities": ["You Magnificent Dastard", "Lovable Rogue", "At Home In The City"],
+      "Advancements": ["Flurry of Blows", "Knife From The Shadows", "Master of Deceit", "Nimble Dodge", "Marksman's Aim", "Weapon Master"]
+    },
+    "Dwarf": {
+      "Description": "<i>\"They were short, of course—bearded too. No women either, at least not as far as we could tell. Every Dwarf is born a worker for their huge, underground cave cities. An entire society working towards a single task: digging towards the centre of the earth on some mindless holy crusade to flee the moon.\"</i>",
+      "Abilities": ["Stronghearted", "Tunnel-Vision", "Leadbelly", "Pack Mule"],
+      "Advancements": ["Battle Frenzy", "Concoctionist", "Horde Killer", "Tough As Nails", "Trap Breaker", "Shieldwall"]
+    },
+    "Elf": {
+      "Description": "<i>\"There was an elf who joined us once: Their-Prose-Be-The-Darting-Of-Blade. They always denied their competence—claiming to be a scholar and a poet, not a warrior—but they were an artist with the blade nonetheless. They could hold the wizards in debate, the fighters in duels and outsinging most of the bloody bards.\"</i>",
+      "Abilities": ["Eyes of Blessed Starlight", "Graceful Form", "Shun the Decrepit", "No Sweat On Their Brow"],
+      "Advancements": ["Arcane Wards", "Eyes of the Hawk", "I See Truth In The Stars", "Eldritch Pact", "Shadow Glamours", "Weapon Master"]
+    },
+    "Freeblade": {
+      "Description": "Freeblades are heroes of a financial bent—rather than saving the world or watching it burn, they desire payment as mercenaries, professional soldiers, assassins for hire or spell-swords.",
+      "Abilities": ["Soldier of Fortune", "I'm A Professional", "Heart of Gold"],
+      "Advancements": ["Arcane Wards", "Horde Killer", "Trap Breaker", "Weapon Master", "Shieldwall", "Tough As Nails"]
+    },
+    "Gastropodian": {
+      "Description": "<i>\"Way I hear it, most Gastropodians have been to enough places they know exactly what something's worth and how to convince you to pay just a little more—or them a little less. Great with numbers though, and drink too. No idea where they're from or where they've been or what they're capable of. It's their main advantage: surprise.\"</i>",
+      "Abilities": ["All Manner of Trinkets", "Gastropod Anatomy", "Resistant Physiology", "Far Travelled"],
+      "Advancements": ["Shadow Glamours", "Master of Deceit", "Concoctionist", "I See Truth In The Stars", "Witch's Curse", "Fire and Lighting Strange"]
+    },
+    "Lamenter": {
+      "Description": "<i>\"What? Never seen a Lamenter before? The skull-face can be eerie at first, but I bet after 400 years they get used to it. I met a couple other Lamenters, the same way all. They forget, just like us, only they have a lot more to forget. Very hard ta' kill something already dead, ey?\"</i>",
+      "Abilities": ["Deathless Nature", "Undying", "Necrosis", "Abominations"],
+      "Advancements": ["Spirits of the Beyond", "Tough As Nails", "Shieldwall", "Radiant Blade", "Ears of the Owl", "My Shining Armour Gleams"]
+    },
+    "Outcast": {
+      "Description": "Outcasts adventure because they don't fit in anywhere else. Hedge knights, lone wizards, brooding rangers or asocial hermits—uniformly grim, fiercely capable survivors.",
+      "Abilities": ["True Grit", "Home In The Wild", "Not A People Person"],
+      "Advancements": ["Battle Frenzy", "Concoctionist", "Eyes of the Hawk", "I See Truth In The Stars", "Spirits of the Beyond", "Marksman's Aim"]
+    },
+    "Physiker": {
+      "Description": "Physikers are medical folks enlisted in a Cryptdigging company: disgraced barber-surgeons, medical researchers or military field doctors. Perhaps not the most skilled of combatants—but their medical skills are often useful in the Crypt.",
+      "Abilities": ["I'm A Doctor, Not A...", "Field Surgery", "Do No Harm"],
+      "Advancements": ["Chemiker's Charges", "Concoctionist", "Lay On Hands", "Trap Breaker", "Toxic Blades", "Nimble Dodge"]
+    },
+    "Protagonist": {
+      "Description": "In a world of repugnant moral greys, Protagonists are hope's shining beacons. Cynics may disparage these chosen ones, righteous knights and general do-gooders.",
+      "Abilities": ["Saving the Day", "Saviour of the People", "No Stain on My Honour", "I Shall Protect Thee!"],
+      "Advancements": ["Child of Prophecy", "The Holy Song of War", "Horde Killer", "Lay On Hands", "My Shining Armour Gleams", "Radiant Blade"]
+    },
+    "Scholar": {
+      "Description": "Scholars are invested in accumulating arcane and esoteric knowledge. Reclusive wizards, disturbed researchers or priests whose solace and enlightenment emerges from communion with occult gods.",
+      "Abilities": ["Forbidden Knowledge", "Pendulum Sanity", "Mindcracked"],
+      "Advancements": ["Arcane Wards", "Eldritch Pact", "Fire and Lighting Strange", "Spirits of the Beyond", "Witch's Curse", "Otherwordly Senses"]
+    },
+    "Small Folk": {
+      "Description": "<i>\"Dab hand with a knife and a nose keener than any other, that fierce fool was always welcome alongside us in the Crypt. Always eating, they always are. I don't know how they put it away. Most are less than three and a bit feet tall, child sized, but one could outeat most grown men.</i>\"",
+      "Abilities": ["Helpful for Some, Hindrance for Others", "Happy Go Lucky", "In A Hole In The Ground", "Tiny Hands"],
+      "Advancements": ["Child of Prophecy", "Knife From The Shadows", "Chemiker's Charges", "Marksman's Aim", "Toxic Blades", "Nose of the Dog"]
+    },
+    "Awakened Automata": {
+      "Description": "<i>\"They make 'em in Torre as mechanical slaves for the fields and factories. Our Scholar once told me they force human spirits into metal cages—little better than necromancy. We let 'em join anyway. They don't use up our rations, and can keep watch all night! They're still creepy though.</i>\"",
+      "Abilities": ["Mechanical-Body", "Automaton-Mind", "Field Repairs"],
+      "Advancements": ["Concoctionist", "Chemiker's Charges", "Extra Brawn", "Fire and Lightning Strange", "Trap Breaker", "Extra Brawn"]
+    },
+    "Traveller": {
+      "Description": "Travellers are wanderers who seek adventure in Lendal utilising the many skills learned along the way. While some may be Lendalians on a long journey, others from foreign lands. Not all foreign Cryptdiggers are Travellers—choose the Archetype that bets fits your character.",
+      "Abilities": ["They Were Lucky To Get This Far", "Well Travelled", "Sense of Wonder"],
+      "Advancements": ["Master of Deceit", "Nimble Dodge", "Weapon Master", "The Holy Song of War", "Toxic Blades", "Flurry of Blows"]
+    },
+    "Veteran": {
+      "Description": "Veterans are Crypt's masters, having spent plenty of time below the earth, digging for exotic treasures. Generally, spending too much time here doesn't treat them well.",
+      "Abilities": ["Years of Experience", "Danger Sense", "Battle-Scarred"],
+      "Advancements": ["Chemiker's Charges", "Shieldwall", "Battle Frenzy", "Tough As Nails", "Weapon Master", "Trap Breaker"]
+    }
+  },
+  "Advancements": {
+    "Arcane Wards": "When struck by an Attack, spend 1 Grip to reduce the damage by their Will.<br>Using Arcane Wards multiple times is straining. Each subsequent use in a single combat increases its Grip Cost by 1. (1 the first time, 2 the second, 3 the third, etc.)",
+    "Battle Frenzy": "Spend 2 Grip to enter a Battle Frenzy. Until combat ends, the character makes melee Attacks with the Upper Hand, and all Attacks against them are Against the Odds. While in a Battle Frenzy they must move into melee with the nearest enemy and Attack. By spending 1 Grip, the Battle Frenzy ends early.",
+    "Child of Prophecy": "Luck guides this character toward their destiny. Roll a D6 at the start of each Adventuring Day. The result can replace a single die roll, regardless of who rolled it. Choose to replace the roll after rolling but before applying the outcome.<br>This Advancement is exclusive to character creation or, if the Doomsayer allows, following a weird or wonderful act of destiny.",
+    "Concoctionist": "At the end of each Adventuring Day, the Cryptdigger can brew up to half their Will in Potions for 1 Grip each.<br>When taking this Advancement, choose 2 Potion types they can brew: Amorphous, Aquatic, Blinking, Firebreathing, Flamewreathed, Hex-Proof, Nimble, Shadowclad or Woundknitting.<br>Concoctionist can be taken repeated, learning 2 Potion types each time.",
+    "Chemiker's Charges": "With a few hours' work in a surface camp and appropriate equipment, the Cryptdigger can fashion Chemiker's Charges:<br>• Jerrodine Fire: Popularized by clearing out giant rat nests. Fills the Zone with flames, igniting every creature and flammable object for D3 damage at the start of each turn until doused.<br>• Dupontiane Gloop: Fashioned from gelatinous pine sap, this coats a Zone in sticky residue slowing movement, creatures attempting to move through or out of that Zone make a Brawn Check or remain stationary.<br>• Calmyne Smoke Bombs: A grenade beloved by Calmyn's crime families. Fills a Zone with thick smoke, rendering Observation Checks and Attacks made through or in it Against The Odds.<br>A character with Chemiker's Charges can either set a Charge with a fuse up to a minute long or throw it with an action to a Zone in short range. Either way, the effects last 1 minute. Charges expire 3 days after creation.<br>Charges are volatile and may interact poorly with each other. When a character takes damage while carrying a charge, roll a D6. If the result is equal to or less than the number of Charges, they all explode.",
+    "Ears of the Owl": "All Observation Checks relying on hearing have the Upper Hand.",
+    "Eldritch Pact": "The character pacts with a powerful extraplanar creature like a Cinderbeast, Herald or Beyonder, promising servitude in exchange for world-bending power. Immediately choose 2 more available Advancements as gifts from their patron.<br>Note which Advancements were gained from an Eldritch Pact. These do not grant additional Vigour or Grip nor count towards requisite Advancements to become Titled.<br>Touching such powerful beings' minds adversely affects one's health. Gain a random Affliction, either chosen or rolled randomly (pg 88).<br>Eldritch Pacts always return to bite. Patrons may demand confusing or difficult favours fulfilled. Consequences for refusing can be dire, including but not limited to, additional Afflictions or Injuries, loss of Vigour or Grip, Stat reduction, revocation of Eldritch Pact Advancements or even death.",
+    "Extra Brawn": "Increases the character's Brawn by 1. Remember to recalculate Maximum Vigour.<br><i>The generator does not auto-caculate this detail.</i>",
+    "Extra Grip": "Increases the character's Grip by 3.<br><i>The generator does not auto-caculate this detail.</i>",
+    "Extra Will": "Increases the character's Will by 1.<br><i>The generator does not auto-caculate this detail.</i>",
+    "Extra Wit": "Increases the character's Wit by 1.<br><i>The generator does not auto-caculate this detail.</i>",
+    "Eyes of the Hawk": "All Observation Checks relying on sight have the Upper Hand.",
+    "Fire and Lightning Strange": "When taken, choose an element or magical substance: fire, ice, water, lightning, thorns, gravity etc. The character can magically strike down enemies with this element.<br>Spend 1 to 3 Grip and an action to make a Will based Attack (always with the Upper Hand) against an enemy within short range. Multiply Is it D6 damage? by the Grip Cost. This damage is magical for any relevant Advancements and Adaptations.<br>Fire and Lightning Strange can be taken repeatedly for a new element each time. Specify which elements whenever you attack with the Advancement.",
+    "Flurry of Blows": "Spend 1 Grip when Attacking with a one-handed weapon to make a second Against The Odds attack on the same turn.",
+    "The Holy Song of War": "For 1 Grip and an action, the character can grant the Song of War to up to their Will. Granting the Upper Hand to a single Attack Roll or Stat Check of their choice for a single combat or 5 minutes, whichever is shorter.",
+    "Horde Killer": "When enemies Gang Up on the character, negate the first 2 instances of the Upper Hand.",
+    "I See Truth In The Stars": "At the end of an Adventuring Day, spend Grip to receive cryptic visions from dreaming, stargazing or bone throwing. The more Grip spent, the less cryptic the Doomsayer's description of the next Adventuring Day's events is.",
+    "Knife From The Shadows": "When the character Attacks an unaware enemy, they have the Upper Hand and deal double damage.",
+    "Lay On Hands": "For 1 Grip and an action, roll D3 + Will. Another character you choose gains Vigour equal to the result.",
+    "Marksman's Aim": "The Cryptdigger can take an action to line up a shot, examining their target and its movement. The following turn, they can make an Attack with the Upper Hand using a Ranged Weapon, ignoring any penalties of cover or obscuration.<br>The Doomsayer may allow use of Marksman's Aim before combat starts, provided the character has sufficient time, granting their first Attack Upper Hand.",
+    "Master of Deceit": "The character has the Upper Hand on Wit Checks when lying to NPCs.",
+    "My Shining Armour Gleams": "Non-magical Attacks against the Cryptdigger are Against The Odds.",
+    "Nimble Dodge": "All Wit Checks made to Escape are Trivial.",
+    "Nose of the Dog": "All Observation Checks relying on smell have the Upper Hand.",
+    "Otherwordly Perception": "Each time this Advancement is taken, choose 2 supernatural senses the Cryptdigger can activate:<br>• Eyes of Cinder: Peer through non-supernatural darkness as if it's low light.<br>• Herald's Gaze: See through less than 6\" of a natural substance like dirt, stone or wood. Unnatural or manmade substances, such as metal, leather or glass, are opaque.<br>• Fargone Taste: Taste a distant object as if it was in their mouth.<br>• Whispers of the Seer: Hear distant conversations as if they were whispered.<br>• Thermomancy: Know the exact temperature of a distant object without touching it.<br>• Stain of the Arcane: Tell if Arcane magic was cast, and the mage's identity if the Cryptdigger saw them cast a spell before.<br>Spend 1 Grip to amplify the character's normal senses 1 of their chosen supernatural senses for 5 minutes.<br>This may grant the Upper Hand on some Observation Checks, or make Impossible Observation Checks possible. The process is disorientating and often disrupts other senses, so other Observation Checks not amplified by Otherwordly Perception are Against The Odds while active.",
+    "Radiant Blade": "Spend 1 Grip before an Attack gaining the Upper Hand and dealing an extra D3 damage (magical for any relevant Advancement and Adaptations) if it lands.",
+    "Rallying Shout": "In combat, the Cryptdigger can take an action granting 1 Vigour to each ally in earshot.",
+    "Restored Vigour": "The character immediately returns to their Max Vigour (5 + Brawn + number of Advancements).",
+    "Shadow Glamours": "Spend 1 Grip to do one of the following:<br>• Gain the Upper Hand on a Wit Check to hide.<br>• Observation Checks to spot them are Against The Odds for 1 round.<br>• Alter the character's appearance (clothing, facial detail, hair, etc.) for 1 minute. These changes are visual only.",
+    "Shieldwall": "Spend 1 Grip to reduce a non-magic Attack's damage by D3 or destroy a held shield reducing damage to 0.",
+    "Spirits of the Beyond": "Spend 1 Grip and an action to reanimate a corpse (stats below) to serve for a single combat, or 5 minutes.<br>Armour 8 | Vigour 9<br>BRAWN 1 | WIT 0 | WILL 0<br>Prying Hands (Hand Weapon) | Undead",
+    "Tough As Nails": "Increase Maximum Vigour by 1 for each Advancement. When they suffer an Injury, spend 1 Grip to roll twice on the Injury table, choosing their preferred result. <br><i>The generator does not auto-caculate this detail.</i>",
+    "Toxic Blades": "When taking this Advancement, choose 2 Poisons the Cryptdigger can make:<br>• Brittleskinned<br>• Dulling (-1 Will)<br>• Hex-Addled<br>• Maiming (-1 Brawn)<br>• Paralysing (-1 Wit).<br>At the end of each Adventuring Day spend 1 Grip to prepare 1 dose of 1 Poison.<br>Whenever Toxic Blades is taken, gain 2 new Poison types and make an additional Poison each day.",
+    "Trap Breaker": "The Cryptdigger has the Upper Hand on Stat Checks to make, modify or disable traps or secret doors, and on Observation Checks to detect them.",
+    "Weapon Master": "Each time this Advancement is taken, choose a weapon type. Spend 1 Grip to gain the Upper Hand on Attacks with it until combat ends.",
+    "Witch's Curse": "Spend Grip (minimum 1) equal to any Stat of a creature within short range to curse it. The target is Against The Odds on their next 3 Stat Checks or Attacks using that Stat."
+  },
+  "Abilities":{
+    "Holy Mission": "Each Believer has a Holy Mission. Once per Adventuring Day, if enacting their Holy Mission the player can re-roll one die used in a Stat Check or Attack. This mission could be destroying heathens, evangelizing or gathering funds for temple construction. The Holy Mission may be dictated by the religion's tenets, a leader's instructions, or saintly visions. The Cryptdigger and Doomsayer should collaboratively determine the Holy Mission.",
+    "I Am No Preacher, I Am A Prophet": "Believers have the Upper Hand on Wit or Will Checks spreading their god's word or convincing practitioners to follow instructions.",
+    "Hand of the Holy": "Believers act with divine guidance's surety, beginning play with the Affliction: Guided by the Gods. If this doesn't fit, choose another Affliction from Chapter 8: Consequences.",
+    "Been There Done That": "Cabalists' strange experiences allow them to shrug off what terrifies others. The first time each Adventuring Day a Cabalist would spend or lose 1 Grip, they don't.",
+    "I've Seen Things": "Experts at sacrilege, most Cabalists have seen many awful things. Cabalists have the Upper Hand on Grip Checks.",
+    "Already Slightly Gone": "Cabalists are a little unhinged, beginning play with an Affliction, chosen or rolled randomly from Chapter 8.",
+    "Silver Tongue": "Cut-Throats have the Upper Hand on Wit Checks to deceive.",
+    "Tricks of the Trade": "Cut-Throats excel outside the traditional legal sphere. Once per Adventuring Day, while engaging in illegal activities—such as scaling a sheer surface, breaking a lock or performing legerdemain—you can re-roll 1 die used in a Wit Check.",
+    "Honour Amongst Thieves": "Cut-Throats are unlikely to stick their necks out for others but even the worst criminals adhere to the Code. Cut-Throats can only attempt a Heroic Rescue when saving another Cut-Throat.",
+    "You Magnificent Dastard": "Dastards are extravagant people. Up to 3 times per Adventuring Day, while employing an obnoxiously daring solution to a potentially simple problem (swinging from chandeliers, elaborate blackmail schemes, anything involving disguise), you can re-roll 1 die used in a Wit Check or Wit based Attack.",
+    "Lovable Rogue": "Dastards possess a certain ineffable charm, granting the Upper Hand for Wit Checks interacting with non-hostile NPCs.",
+    "At Home In The City": "Most Dastards lived comfortable lives and are not hardened for the Crypt. Dastards are Against The Odds on Grip Checks.",
+    "Probably Good at Something": "Everymen have a niche skill from their prior life and have the Upper Hand attempting it or something involving it.",
+    "Probably Bad at Something Else": "Everymen have a skill, vice, drawback or negative personality trait that makes actions involving it Against The Odds.",
+    "Soldier of Fortune": "Freeblades constantly risk it all for pay. Once per Adventuring Day, if it results in immediate financial gain (example: quest completion, treasure acquisition or bounty capture), you can re-roll one die used in a Stat Check or Attack.",
+    "I'm A Professional": "Freeblades navigate the job market adroitly, gaining the Upper Hand on Wit Checks related to seeking (or negotiating with) a potential employer.",
+    "Heart of Gold": "Freeblades cannot resist the glint of coin and are Against The Odds on Will Checks resisting bribery.",
+    "True Grit": "Outcasts are grizzled folk used to the world's worst. The first time each Adventuring Day an Outcast would spend or lose 1 Grip, they retain it.",
+    "Home In The Wild": "Outcasts are skilled survivalists, with the Upper Hand on Will Checks to forage or navigate wilderness.",
+    "Not A People Person": "Most Outcasts live outside society's boundaries and are Against The Odds on Wit Checks when interacting with NPCs.",
+    "I'm A Doctor, Not A...": "Medical training leads to other helpful talents. Once per Adventuring Day, you can re-roll 1 die used in a Stat Check where medical experience is relevant.",
+    "Field Surgery": "Physikers know how to stitch people back together even in a Crypt's terrible conditions. With 4 hours of uninterrupted work, the Physiker may make one attempt to heal another character's recent Injury with a passed Wit Check and the patient passes a Brawn Check. If both fail, the Patient rolls a second Injury. Regardless of outcome, both lose 1 Grip.",
+    "Do No Harm": "Physikers aren't skilled combatants and their first Attack each combat is Against The Odds.",
+    "Saving the Day": "What is a hero but the sum of their deeds? Twice per Adventuring Day, while engaging in heroic feats, you can re-roll 1 die used in a Stat Check or Attack.",
+    "Saviour of the People": "The common folk adore Protagonists, granting the Upper Hand on Wit Checks convincing friendly NPCs to assist heroic deeds.",
+    "No Stain on My Honour": "Heroes never lie, even when situations demand it and are Against The Odds on Wit Checks to deceive an NPC. If they succeed, they take a Grip Check.",
+    "I Shall Protect Thee!": "Protagonists never stand by while their friends die. When an enemy uses a Finish Them! move on a downed ally, they must attempt a Heroic Rescue if possible disregarding danger.",
+    "Forbidden Knowledge": "The Scholar asks many questions— some should be left unanswered. Once per Adventuring Day, you can ask the Doomsayer a question the Scholar might have uncovered the answer to while researching forgotten tomes, elder's wisdom or obscure libraries. The Doomsayer names a price in Grip—steeper for chthonic, archaic or unanswerable questions—which the Scholar can pay to receive the answer.",
+    "Pendulum Sanity": "Esoteric knowledge's secrets to Scholars developing coping mechanisms. When taking an Affliction, they reset their Grip to 11.",
+    "Mindcracked": "Scholars are susceptible to a thirst for secrets. The first time each Adventuring Day they spend or lose 1 Grip, they lose an additional point.",
+    "They Were Lucky To Get This Far": "Travelling halfway around the world before dying in a Crypt is an awful shame. Up to 2 times per Adventuring Day, while at half their Maximum Vigour, re-roll 1 die used in a Stat Check or Attack.",
+    "Well Travelled": "Travellers are steeped in skills from their journey or homeland. Agree on a speciality with your Doomsayer. The character has the Upper Hand on Stat Checks or Observation Checks.<br>Possible Skills: Gambling, Diplomacy, Dueling, Survival, Poetry & Music, or Trading",
+    "Sense of Wonder": "One of a Traveler's greatest joys is discovering new cultures and customs, though it can distract them at inopportune moments. Travellers are sometimes Against The Odds on Observation Checks and potentially some Stat Checks when visiting a new settlement or experiencing an unfamiliar culture.",
+    "Years of Experience": "Veterans have seen a fair share of unutterable terrors. Before play, decide with your Doomsayer which creatures you have experience fighting. When fighting them, their first Attack each combat has the Upper Hand. They also have the Upper Hand on Observation Checks noticing them and their omens.",
+    "Danger Sense": "Veterans have learned to spot the Crypt's many dangers. They have the Upper Hand on Observation Checks to detect potential dangers, such as traps or ambushes.",
+    "Battle-Scarred": "Most Veterans have suffered a (randomly rolled) Injury before play begins (pg 87). If this Injury results in death, re-roll it.",
+    "Stronghearted": "Most Dwarves have lived underground their entire lives and are acclimated to the Crypt's horrors. While underground, Dwarves have the Upper Hand on Grip Checks.",
+    "Tunnel-Vision": "Dwarves are colourblind and, outside of gems and gold, see only shades of grey. They are Against the Odds on all Observation Checks to identify colour or pick out coloured details, but have the Upper Hand on Observation Checks to see details obscured by non-magical darkness. Dwarves debate wholeheartedly amongst each other about their favourite shades of grey.",
+    "Leadbelly": "Dwarves' immune systems are legendary, developed to eat strange subterranean foods (brack beer, oil liquor, cave mushroom stew, some rocks). They have the Upper Hand on Stat Checks to resist poison, spoiled food or a disease's effects.",
+    "Pack Mule": "Dwarves have spent centuries carrying everything they need on their backs. Dwarves have 18 Inventory Slots before applying Stat modifiers.<br><i>The generator does not auto-caculate this detail.</i>",
+    "Eyes of Blessed Starlight": "Elves have famously keen eyesight, granting them the Upper Hand on sight-based Observation Checks (stacks with Eyes of the Hawk).",
+    "Graceful Form": "Elves move with practiced perfection. Everything they do looks effortless. Elves have 3 Elven Grip each Adventuring Day that can only be used for Exertion.",
+    "Shun the Decrepit": "Elves adore beauty, worshipping its presence, and they despise the Crypt's disharmony and ugliness. They are Against the Odds on all Grip Checks, and do not gain Experience for passing them.",
+    "No Sweat On Their Brow": "Elves only regain ½ of their maximum Vigour and Grip when Recovering, as they spend their time in typical Elven activity: meditating, writing poetry, singing or appraising things while commenting on their astounding beauty.",
+    "All Manner of Trinkets": "Gastropodians are famous for their remarkable ability to always carry something worth using. How much it actually helps is of some debate, however.<br>Once per Adventuring Day, produce a tool or item of dubious value to assist an ally's Stat Check. Before the Check is rolled, roll a D6 which the other Cryptdigger can swap one of their dice with, before the Check is resolved. ",
+    "Gastropod Anatomy": "Gastropodians are noticeably slower compared to Lendal's other peoples, particularly in tense situations. They are Against the Odds on Stat Checks to move quickly, and if they want to use their action to move an additional Zone in combat, they must pass a Wit Check.<br>However, their anatomy allows them to maintain a ferocious grip on the ground, which grants the Upper Hand on Stat Checks to maintain footing or resist being moved.",
+    "Resistant Physiology": "Gastropodian physiology neutralizes many substances which are toxic or psychoactive to human bodies. Thay have the Upper Hand on Stat Checks resisting such substances' effects unless specifically formulated for efficiency against Gastropodians. They also have the Upper Hand on Stat Checks to see through illusions and other mind affecting magics.",
+    "Far Travelled": "Many Gastropodian societies highly value training in numbers and conversions, with their most skilled citizens becoming expert record keepers and administrators. Most can spout off complex calculations quickly enough that they must know what they're talking about.<br>Gastropods have 2 Gastropod Grip each Adventuring Day, that can only be used for guile, calculation or skill-based Exertion.",
+    "Deathless Nature": "Lacking a connection to the mortal coil, Lamenters do not need to breathe, eat or rest, suffering no penalties for going without. However, they cannot recover Vigour by resting, and are wholly unaffected by Holy Advancements. Their Grip recovery is unaffected.",
+    "Undying": "It is difficult to truly end Lamenters, but fatal experiences still strain them. When reduced to 0 Vigour, Lamenters fall Unconscious. Upon awakening, they regain all lost Vigour. <br>If killed by an Injury received this way or if their form is completely destroyed, they are permanently killed.",
+    "Necrosis": "Despite their continued grasp on existence, their bodies are not immune to death's natural processes. Lamenters smell slightly putrid—though not as much as mundane corpses. Some wear perfume to mask the stench.<br>Sensitively nosed creatures can always detect their necrotic flesh however, which may change their reaction, attacking them more or less than living Cryptdiggers.",
+    "Abominations": "As undead beings, Lamenters face all kinds of prejudices from the living and the divine. Lamenters are Against the Odds on all Checks to convince those aware of their nature of their good intentions. Additionally, Lamenters cannot receive Holy Advancement's benefits. ",
+    "Helpful for Some, Hindrance for Others": "Most Small Folk stand around 3' which has its benefits and disadvantages. Small Folk have the Upper Hand on Stat Checks where being their size is advantageous (hiding, crawling into tight spaces, avoiding notice) but are Against the Odds on Stat Checks requiring more than 3' in height (lifting, reaching, feats of height and strength). Clever environmental interaction or narration may circumvent this.",
+    "Happy Go Lucky": "Small Folk are legendary for being jammy gits. Start each Adventuring Day by rolling a die. This may replace a single die roll at any point in the day, whoever rolls, even after the result is determined. ",
+    "In A Hole In The Ground": "An army marches on its feet, but Small Folk march on their stomachs. The quality of a Small Folk's Recovery only takes into account the quantity and quality of food available. Warmth, comfort and security don't matter, as long as the food is good and plentiful.",
+    "Tiny Hands": "Small Folk don't have the right build for certain weapons. They cannot use Heavy Weapons and must wield Hand Weapons and Long Weapons two handed, without gaining any benefits for doing so. Weapons wielded by other characters or monsters may be of a different weight class for Small Folk.",
+    "Mechanical-Body": "As mechanical beings of wood, wire and ceramic, Automatons do not remember their need to breathe, eat or rest, so suffer no penalties for going without. However, they cannot recover Grip or Vigour by resting or from Holy Advancements.",
+    "Automaton-Mind": "Within their new bodies, most Automatons do not remember their fear of worldly terrors. They have the Upper Hand on all Grip Checks. However, when an encounter triggers memories of their lost humanity, they alone might require a Grip Check (without the Upper Hand).",
+    "Field Repairs": "Awakened Automata are forced to become skilled in self-repair or they're soon destroyed by wear and tear. Once per Adventuring Day, with 1 hour of uninterrupted work and appropriate tools, the Automaton can self-repair by passing a Wit Check to regain D3 Vigour. If failed, they recover only 1 Vigour. Working over 8 hours grants the Upper Hand. If assisted by another creature for the full period, the assistant can roll the check instead."
+  },
+  "Weapons": {
+    "Brawn": [
+      "Greatsword<br><i>(BRAWN, melee range, 2H, -1 INI, +1 DAM)</i>",
+      "Longsword<br><i>(BRAWN, short range, 1H/2H, +1 DAM if 2H)</i>",
+      "Spear<br><i>(BRAWN, short range, 1H/2H, -1 INI, +1 DAM if 2H)</i>",
+      "Kite Shield <i>(Armour+1)</i>",
+      "Handaxe<br><i>(BRAWN, short range, 1H, -1 INI, +1 DAM)</i>",
+      "Scimitar<br><i>(WIT, melee range, 1H, -1 DAM)</i>",
+      "Battleaxe<br><i>(BRAWN, melee range, 2H, -1 INI, +1 DAM)</i>",
+      "Handaxe<br><i>(WIT/BRAWN, short range, -1 DAM if used in melee)</i>",
+      "Halbard<br><i>(BRAWN, short range, 1H/2H, -1 INI, +1 DAM if 2H)</i>",
+      "Heater Shield <i>(Armour+1)</i>",
+      "Shortsword<br><i>(BRAWN, short range, 1H/2H, +1 DAM if 2H)</i>",
+      "Boomerang<br><i>(WIT/BRAWN, short range, -1 DAM if used in melee)</i>",
+      "Pike<br><i>(BRAWN, short range, 1H/2H, -1 INI, +1 DAM if 2H)</i>",
+      "Scrutum <i>(Armour+1)</i>",
+      "Morning Star<br><i>(BRAWN, short range, 1H/2H, +1 DAM if 2H)</i>",
+      "Quarterstaff<br><i>(BRAWN, short range, 1H/2H, -1 INI, +1 DAM if 2H)</i>",
+      "Warhammer<br><i>(BRAWN, melee range, 2H, -1 INI, +1 DAM)</i>",
+      "Maul<br><i>(BRAWN, short range, 1H/2H, +1 DAM if 2H)</i>"
+    ],
+    "Wit": [
+      "Rapier<br><i>(WIT, melee range, 1H, -1 DAM)</i>",
+      "Dagger<br><i>(WIT, melee range, 1H, -1 DAM)</i>",
+      "Shortbow <i>(WIT, long range, 2H)</i>",
+      "Sling <i>(WIT, long range, 2H)</i>",
+      "Throwing Knife<br><i>(WIT/BRAWN, short range, -1 DAM if used in melee)</i>",
+      "Parrying Dagger <i>(Armour+1)</i>",
+      "Scimitar<br><i>(WIT, melee range, 1H, -1 DAM)</i>",
+      "Hachet<br><i>(WIT, melee range, 1H, -1 DAM)</i>",
+      "Longbow <i>(WIT, long range, 2H)</i>",
+      "Crossbow <i>(WIT, long range, 2H)</i>",
+      "Whip<br><i>(WIT/BRAWN, short range, -1 DAM if used in melee)</i>",
+      "War Fan<br><i>(WIT, melee range, 1H, -1 DAM)</i>"
+    ],
+    "Will": [
+      "Quarterstaff<br><i>(BRAWN, short range, 1H/2H, -1 INI, +1 DAM if 2H)</i>",
+      "Sounding Staff<br><i>(BRAWN, short range, 1H/2H, -1 INI, +1 DAM if 2H)</i>",
+      "Spear<br><i>(BRAWN, short range, 1H/2H, -1 INI, +1 DAM if 2H)</i>",
+      "Pike<br><i>(BRAWN, short range, 1H/2H, -1 INI, +1 DAM if 2H)</i>",
+      "Dagger<br><i>(WIT, melee range, 1H, -1 DAM)</i>",
+      "Dueling Sword<br><i>(WIT, melee range, 1H, -1 DAM)</i>",
+      "Throwing Knife<br><i>(WIT/BRAWN, short range, -1 DAM if used in melee)</i>",
+      "Darts<br><i>(WIT/BRAWN, short range, -1 DAM if used in melee)</i>",
+      "Sling <i>(WIT, long range, 2H)</i>",
+      "Crossbow <i>(WIT, long range, 2H)</i>",
+      "Kite Shield <i>(Armour+1)</i>",
+      "Heater Shield <i>(Armour+1)</i>"
+    ]
+  },
+  "StatEquipment": {
+    "Brawn": ["Crowbar", "Pickaxe", "Shovel", "Hammer and Chisel", "Chain", "Pole <i>(10')</i>", "Whetstone", "Bear Trap", "Bullseye Lantern", "Grappling Hook", "Grease", "Manacles"],
+    "Wit": ["Lockpicks", "Bag of Marbles", "Set of Files", "Mirror on a Handle", "Silk Rope", "Caltrops", "Dose of Poison", "Flask of Acid", "Hooded Lantern", "Alchemist's Fire", "Musical Instrument", "Lock and Key"],
+    "Will": ["Book of Alchemy", "Book of Mythology", "Book of Religion", "Book of Magic", "Book of History", "Book of Languages", "Dose of Medicine", "Chalk", "Writing Kit", "Antitoxin", "Holy Water", "Compass"]
+  },
+  "Careers": ["an alchemist", "a bard", "a broom-squire", "a cook", "an escaped prisoner", "a furrier", "an apothecary", "a beggar", "a burlak", "a cooper", "a farmer", "a gambler", "an artist", "a black sheep", "a carpenter", "a corpse-picker", "a fence", "a gaolkeeper", "a baliff", "a black-smith", "a chandler", "a cut-purse", "a fisherman", "a guttersnipe", "a bandit", "a bounty hunter", "a clipper", "a debt collector", "a forger", "a hedge wizard", "a barber surgeon", "a brewer", "a coach-man", "a deserter", "a foreinger", "an herbalist", "a herder", "a miner", "a pilgrim", "a rat catcher", "a soldier", "a tanner", "a knight", "a monk/nun", "a poet", "a roofer", "a spice trader", "a town guard", "a librarian", "a mountebank", "a preacher", "a sage", "a storyteller", "a trapper", "a mason", "a mudlark", "a prostitute", "a scavenger", "a street performer", "an urchin", "a mercenary", "a murderer", "a racketeer", "a scribe", "a student", "a vagrant", "a messenger", "a peddler", "a rake", "a smuggler", "a tallyman", "a woodsman"]
+}
