@@ -301,7 +301,7 @@ _Next Session we will set out for Gordin's Delve to trade and return the two box
 
 <hr>
 
-_First Zavia and Taliesyn play through their letters:_
+_First Zavia and Talisyn play through their letters:_
 
 Sorsha has been rather cold since Zavia left the forge burning overnight. And now Zavia is planning to leave again, this time for an entire week! Despite their tension, both women try to connect and enjoy some quiet moments with one another. It certainly doesn't help that Taliesyn keeps interrupting with news of some Arcana or another. The two have just finished unlocking the secrets of the Spiky Wooden Ring! It only cost them:
 
@@ -357,38 +357,146 @@ Madoc and Taliesyn are unconcerned. "He's always wandering off. He'll be back." 
 
 The PCs set out to search for Stridelong, leaving the rest to guard the camp and keep watch. As the search goes on, Madoc drifts away from the group, wandering near a patch of trees. The others gather around Zavia's lantern, letting her lead the way.
 
-<hr>
+### Session 5
 
-Madoc approaches a copse of trees, thinking Stridelong might have used them to scout the area. Suddenly the ground begins to rumble and shake. She grabs onto a tree and clings to it while the groundquake gets worse. Lying among the Gwead grass nearby she spots a furry...something lying in the dirt. It's fur is clear white, and it's large; larger than any wolf she's ever seen.
+Madoc awakens in the morning with Mistic curled against her. The large wolf breathes slowly, her huge bulk rising with each breath. Madoc avoids the growing puddle of drool as best she can and rouses herself. She hears Taliesyn and Emmet having a muted discussion in the wagon. She can't resist padding over to listen in:
 
-She approaches it carefully, looking for any signs of life. When she runs her hands through the thick fur, the thing shudders and exhales. Soon it's looking right at her; right into her. This creature was an apex: born and bred for the greatest hunt in the spiritual realm. But with this mortal blow it has been cast aside, abandoned. Never to run or track or feast again. Only a long sleep remains.
+"I understand why you feel this way, but I know my Arcana can be of great help to the village!" Taliesyn is saying. "In fact, just last week Zavia and I performed The Convocation of Soil which should improve our yield by--"
 
-Madoc feels a burning within her soul. She gathers it up, along with all of her doubts, fears, and shame. This creature fought hard for its purpose with every breath while she lingered far from her destiny. The creature responds, eager for this trade of purpose for peace. 
+"But at what cost?" asks Emmet with a hoarse voice. "You know I love you and I trust you. That's why I haven't shared your...research with anyone. But that means I'm the only one who can caution you. And I do strongly ask for caution. The people who made these magicks aren't around any more. You never wonder why? Don't you think by drawing on their power we're making the same mistakes?" 
 
-A flash of pain; a dull headache. When Madoc awakes she feels rain on her face. She opens her eyes to see a large, white-furred, grinning wolf looking right at her. Its dopey face and lolling tongue are all that remain of this once legendary killer. 
+There's a pause, and the sound of people shifting their weight. Taliesyn sighs, "We have to do something. Every year it gets harder. Stonetop is special; a lot of people are noticing. Even now, we're going to Gordin's Delve because our little village is in the middle of something. We can't just hide and scrape by forever."
 
-"And I thought I was optimistic." Madoc says. "You look happier than I've ever felt. 'Mistic' seems like a fitting name. Ready to meet the rest of the group?" she asks as she rises up and stretches.
+"Now you sound like Betrys." says Emmet coldly. "At least she is open about her intentions. She has even convinced a few people to join her. While you skulk around in the shadows. I don't like it." Another pause.
 
-Likewise, Madoc also feels changed. A feirce HUNGER burns within her. She wants to run and run and run and run until she can leap on her prey and tear it apart with her claws--hands. She has hands. Madoc shakes her head, gathers her bearings, and returns to camp with a drooling wolf in tow. 
+"You're right. You're absolutely right. I promised myself I wouldn't do this alone any more; that's why I included Zavia. And I will continue to follow my promise. I'll share more with the village. Just let this soil convocation improve the yield, and that will help convince folks that I have a point! Come fall there won't be any more secrets."
 
-<hr>
+Madoc pouts a little as she walks away from the wagon. She likes secrets. And breakfast. Where is breakfast?
 
-Zavia, Taliesyn, and Railan also feel the earth shaking. But unlike Madoc they can see the source clearly in the moonlight: a terrible battle!
+Soon everyone is awake and enjoying the last cool moments of the morning. The rations are hearty, but Madoc is hoping for something a little more exciting at Gordin's Delve. When she asks her mother what the food is like there, Mady just replies, "It will always leave you hungry for more." Madoc rolls her eyes and mutters, "So glad you came along to protect me from any excitement." Mady doesn't even look offended. Just worried.
 
-A large horned figure with a glass spear is dancing away from a massive worm-like creature. It's oily fur leaves a smear of dark liquid along the ground as it thrashes and strikes. Several ghostly wolves surround the creature, striking in coordination with the tall horned hunter.
+As the group is packing up for the final stretch, Stridelong and Railan take some time to train Emmet and Harri in some travel formations. "Anything could come upon us suddenly. Even on the Maker's Road we still need to be alert. As soon as you hear or see anything strange, run to your post. Literally." Railan slaps one of the wagon support beams. "We each take a corner and keep everyone near the wagon. Stash your weapons like this so you can grab them quickly." Harri is humming along to some tune while Emmet focuses on the training drills with a determined look. Tired, though. 
 
-And caught in the middle is an astonished looking Stridelong. He can't decide whether to draw closer or escape; so enraptured is he by the sight of a real Underbeast! If only it wasn't quite so close...or angry.
+"Everyone looks tired" Jeb thinks to himself as he sits in the wagon watching the militia members. "Maybe we should take another day to rest" he says aloud to Madoc as she crawls into the wagon with him. 
 
-Railan ushers the group to take cover behind a fallen tree and they try to come up with a plan. He wants to get Stridelong out of there quickly and quietly. He's trying to strategize, but the others aren't paying any attention. Taliesyn is furiously taking notes in his notebook (how can he even see in the darkness?) and muttering something about "It's a Maker, the Pale Hunter. I knew it. I knew there had to be more that--" 
+"No thank you!" Madoc says in a smiley sing-song voice. "Aren't you a little excited to see what Gordin's Delve is like? You once told me it was different each time." 
 
-Zavia, by contrast, is deeply disturbed. This Underbeast is wrong and dark, in every way that Helior is bright and true. She feels the righteous zeal ignite with her, and her hands are alight before she even realizes what she's doing.
+"It is...but not necessarily in a good way. It's not really a home like Stonetop. People just passing through forever." He lets out a sigh as he finishes packing the wagon. "I kind of hope you hate it, too. Then you, me, and your mom can all return to Stonetop happy."
 
-"Go back to the shadow!" she cries, thrusting her glowing arms towards the Underbeast. There's a terrible squeal, a shudder in the earth, and the Underbeast has escaped underground. She lets out a glowing sigh of relief, only to gasp when the Pale Hunter is suddenly looking directly at her.
+Madoc just puts her arms around him, tousling his hair. "I'm happy now, Jeb. Let's just enjoy the trip as best we can." He huffs, but leans back against her. 
 
-Determined not to show weakness she draws in another breath, turns her back, and begins to stalk away. She feels an icy pressure on her; like she is being stalked. Even during the return back to camp that pressure never lets up. 
+Outside Miriam calls over Little Owl. "Do you think we shuld bother them?"
 
-"You've uh...got a new tattoo, Zavia." Taliesyn whispers, and describes the strange glowing mark on her back shoulder. Just another price of bringing light to darkness. Helior will be there when the Pale Hunter returns.
+"Why?" Asks Little Owl, puzzled.
 
-Stridelong and Taliesyn excitedly talk over one another; legends of the Makers, reports of Underbeasts, unfulfilled prophecies, and ancient travelers' tales. 
+"So we can ride in the wagon!" she exclaims, putting her hand on his shoulder.
 
-In fact the rest of the night is an excited blur of telling and re-telling what everyone experienced that night that no one gets any sleep at camp. Except for Mistic, who snores soundly.
+"I can walk" Little Owl explains, "After all, did you know that on the plains the grasses have a shared root system? That's why the wind affects them all the same. It's like an ocean of--" He's interrupted by Madoc and Jeb tumbling out of the wagon. 
+
+"All yours!" Madoc says brightly, as she straightens her shirt and walks off to help pack. Jeb gives Little Owl a wink, confusing him even further. Miriam tugs Little Owl into the wagon as he tries to finish his explanation. "--we call it 'Gwead' but really it's a dozen different varieties of--"
+
+Soon the group is underway. A few hours later Gordin's delve comes into view. Crumbling walls, pockmarked mountains, a cloud of eternal dust, and vague outlines of people bustling aboud. Conversations slowly trickle off and an awkward silence settles on the road. 
+
+"Okay, let's discuss the plan", says Jeb. "Usually there are three bribes to enter the city: 1 for the scoudnrels on the road, one for the gate guards, and one for the market leaders." He taps 3 jugs of whiskey in the wagon. "I'll sell half of my stock today, pay for an inn, sell the rest tomorrow, and leave by sunset. In and out." He looks expectantly to Mady who nods.
+
+"Agreed. In and out." She explains the general politics of Gordin's Delve (as well as she knows). Gordin's Delve is ruled by several Bosses:
+
+- Mutra the Teeth. The strongest boss, but has been missing for over a year. Their organization is starting to crumble as their underlings try to keep things together.
+- Odin Thriceborn. The up and coming leader. So named because he killed his three oldest sons when they disappointed him. Desperate to expand and take over Mutra's holdings.
+- Honest Draigh. Has an honorable reputation which limits them. Both admired and pitied by folks.
+
+"I say we find an inn or shop run by Draigh, drop off the boxes anonymously, and make it their problem." 
+
+"But if we're seen we could end up in the middle", Counters Railan. "Let's just be direct and honest. Give back the boxes. No need to stories or strategies." Mady shakes her head, but most folks agree with Railan. Only Jeb and Mady look nervous about this plan.
+
+As promised, there's a group of scoundrels lounging near the road a mile outside of Gordin's Delve. Two are standing on an overturned wagon, bows drawn, while 3 others have their hands on their swords. One steps forward, "Welcome to Gordin's Delve, fair travellers!" She gives a cheeky bow.
+
+"We're here to see Thriceborn", Madoc shouts. "Our business is important!" 
+
+The scoundrels shift their weight from foot to foot. "Well Mutra the Teeth runs this town" drawls the leader. "And our welcoming comittee needs to eat." She's already reaching for the jug of whiskey that Jeb offers. Railan and Madoc look insulted, but everyone remains calm. Soon they're approaching the front gates, into which a short line of other wagons has formed.
+
+"We've been waiting for you, Stonetoppers." says the dust-covered guard. "The last jar of your famous whiskey was opened for a wedding last night. Since then we've worked up a mighty thirst." He takes the profferred whiskey and asks, "To the market, I assume?"
+
+"Yes" says Jeb. 
+
+"But! We also have a delivery for Thriceborn." says Zavia. "Can you point us to his nearest holding?"
+
+"I'll do you one better", says the guard. He waves over a tall woman wearing bright colors and brandishing a clipboard as if it were a weapon. "Darya, these folks have a delivery for Thriceborn." 
+
+"Is that so", she asks, both stern and bored at once. "Let's see it" as she walks to the back of the wagon.
+
+Zavia spends a few moments in conversation with the guard, whose name is Otho. He tells her of his debt to Mutra, how his son is held hostage, and how he hopes that they can all accomplish their business with minimal trouble. Zavia feels herself falling into a grandmotherly role...again. "Dammit", she thinks to herself, knowing she has to find someway to help this kind father.
+
+Darya retuns from her inventory red face and flushed. "I'll get word to Thriceborn immediately! Guard, please keep watch on this group until I return. Nothing and no one is to leave your sight." She dashes off in a cloud of dust.
+
+A few hours pass, with the group getting more bored and antsy. "What is taking that woman so long", wonder Madoc. She gets up from the wagon and goes to ask her mom a question, but Mady is nowhere to be found! Trying to avoid drawing attention, she quietly asks Railan and Stridelong if they know where she went. And how long she's been missing.
+
+Finally, just as the sun is setting Mady slinks back to the wagon. The guards looks at her questioningly. "Nature calls!" she says with an embarrased smile. Madoc drags her into the wagon and hisses, "Where have you been? I've--"
+
+"Quiet dear", says Mady, putting her arms gently on Madoc's shoulders. "It's almost over. I made a deal with Honest Draigh. They'll buy all of our whiskey and take the boxes off our hands. Their traders are waiting for us just outside the city. We can leave now and be back on the right by nightfall." Madoc looks more and more surprised, until she finally bursts out.
+
+"What?!" and then much quieter, "Mom, how could you go behind our backs? This isn't just a family trip there are other people who--" Mady starts to get angry (and scared, Madoc can tell).
+
+"Listen! This is safer, faster, and better. And it's already been arranged. If you tell the rest of the group they'll agree, I'm sure." 
+
+"This is not the way Mom. You can't use fear as an excuse to bully everyone else."
+
+"I can, and this time I will. You should never have come, and now I'm making sure we get everyone home safe."
+
+Madoc is fuming, but she and Mady gather everyone together and have a quiet discussion about what to do. While most agree with Mady, there are a few holdouts. Railan, Madoc, and Miriam want to deal with Thriceborn directly. Little Owl and Jeb just looks exhausted and don't care what happens. Stridelong wishes he'd thought of sneaking off alone. He notices Darya returning and hushes the rest of the group.
+
+"Thriceborn will see you now." Realizing their delay made the decision for them, they group up and follow after Darya. Sounds of a lively party drift from a crowded tavern. "Thriceborn's oldest son is getting married." explains Darya. 
+
+"Oldest remaining son", mutters Mady as they step inside. All the tables have been arranged around a dance floor, but most of the guests can barely stand, much less dance. The tables are covered in dirty plates and empty glasses. A voice cuts above the din:
+
+"Welcome Stonetoppers!" says a large-bearded man sitting at the head of the center table. "Welcome to my son's wedding...or is this the afterparty? Doesn't matter. Pull up a chair and tell me of this special gift you've brought."
+
+Madoc is the first to sit and sip and sup. "Oh! This is your special brew, Jeb! I didn't know you already sold it." 
+
+"It's from last years batch", explains Jeb, as Thriceborn looks proudly at the group.
+
+"Only the best for my guests! Anyway, tell me everything." He demands as he takes another sip of soup and swigs his glass. More of it ends up in his beard than his mouth, and there's not a clean napkin to be seen.
+
+The group looks at once another awkwardly, unsure who should speak first. Thriceborn waves a chicken leg at Little Owl, who clears his throat, coughs, chokes a bit, and finally starts the tale. Thriceborn nods along, but doesn't interrupt as Little Owl explains how they met the hillfolk, were given the boxes, and returned them to him directly. "And now...here we are." Little Owl finishes lamely.
+
+There's a pause, then Thriceborn throws down his chicken lag and claps his greasy fingers together. Some folks around the table jerk awake and try to clap along. "Well done! A very good story, I think. Even more rare, a true story!" He says, smiling. The rest of the room is either asleep or half-paying attention. "But there are a few parts of the story that you're missing. Or maybe that you don't know about." His smile grows wider as he tells his own story.
+
+"Once upon a time there was an civilized businessman." he gestures to himself. "Who wanted to bring gifts to his neighbors. He went out to the wildfolk in the hills and offered generous trades of stone and ore for their trinkets. But they were not interested. So he returned with gems and gold. But they were not interested. The man realized that the only thing he had left to offer was the gift of civilization itself. They wouldn't understand at first, but like children, they would grow to thank him for his generosity."
+
+Upon seeing the blank stares of the PCs, he puts his drink down and shakes some of the food from his beard. "Perhaps I am too drunk for a good story, so I'll speak plainly. I want mining rights to those hills, and I made a generous offer to those savages. Far far more generous than they deserve. And yet they not only rejected my offer, but foisted it upon you in an effort to mislead us both! So now I'm sending you back with a message for them: Since I can't purchase the ore, I must assume it is free for the taking. And I will take it."
+
+He sits back, finally satisfied. "And to you I offer nothing but thanks. You could have easily kept that gold and no one would have known. But instead you were...civilized. I'm going to offer top price for your whiskey, and provide any materials or supplies you need for your return journey. What else would you ask of me?"
+
+A few small requests are made, but the biggest ones are from Zavia. "Thriceborn, I have a wishlist of smithing materials I would like. But more importantly I want the guardsman, Otho, to be freed alongside his son." Thriceborn smiles, perhaps the first genuine smile of the evening.
+
+"How can one father deny another? I'll make sure his debts are paid. And all your other wishes granted. Please enjoy the evening with whatever Gordin's Delve has to offer." He sends them out with a voucher to party on his tab, which each decides to enjoy in their own way:
+
+Taliesyn browses the nightmarket, looking for any potential arcana. He finds a massive cylinder of Makerglass that has a familiar vibration. Before reaching for it, he remembers his promise to Emmet, and goes off to find someone else to aid him. He spots Railan wandering the city, taking note of how its defenses are organized. Railan is deep in thought, muttering to himself. "Surely they have a central barracks. Unless...split up aroudn the city. Yes, for quick response--oh, hello Taliesyn." 
+
+"Would you help me with something?" 
+
+"Of course."
+
+"Something...magical?"
+
+Railan pauses. "...maybe. What's up?"
+
+The two of them return to the merchant who is showing the cylinder to another customer. Taliesyn looks imploringly at Railan, who steps in. "Actually, we just purchased this" he says, putting the voucher in the merchant's hands and grabbing the cylinder. At the sight of Thriceborn's voucher, both customer and merchant clam up. As Railan struggles to carry it away, Taliesyn eagerly shares his theory on how Markerglass was actually a byproduct of their energy manifestations, which of course relied upon solar energy to--
+
+They pass by Madoc and Mady who are both stubbornly ignoring the other. More to rile her up than anthing else, Madoc suggests, "Well, shall we get a drink or something?" Mady scoffs. "Mom, how long are you going to be this way?"
+
+Mady stops and turns around, looking hurt. "Once we're back in Stonetop I promise that--"
+
+"No!" Madoc cries. "This isn't a one-time thing. This is going to happen again. I will not be locked up in Stonetop for the rest of my life."
+
+"Of course, dear. I know that. But your destiny is--"
+
+"You don't know my destiny!" Madoc motions all around her. "It could be anywhere! Even someplace that you don't like. I know you're afraid and that you've been hurt by the world. But I'm done hiding. That's not how you raised me."
+
+Mady's expression softens. "You can blame your father for that one. He was always brave." She sighs. "I'm sorry. I'm sorry for everything. I thought I'd feel more relief about returning home. But Thriceborn isn't done with us. This whole trip changes everything." She crumples the Thriceborn voucher in her fist.
+
+"You'll always be my mother. And I'll always love you." Madoc says, gently taking the voucher and smoothing it out. "You taught me to never be wasteful. It would be a shame to miss out on a beautiful evening. Isn't there **anything** fun to do around here?"
+
+Mady pauses, considering. "Actually, there is a dance hall run by Honest Draigh." Madoc grabs her hand and pulls her forward, Mistic following behind. "Um...it's the other direction, dear."
+
+Back at the wagon, Miriam, Jeb, and Emmet---
