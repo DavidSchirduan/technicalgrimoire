@@ -1,10 +1,8 @@
 # Technical Grimoire
 
-I use jekyll to build and test locally: 
+## This Repository is Archived
 
-`docker run --rm --volume="$PWD:/srv/jekyll:Z" -v 'JEKYLL_ENV=production' -it -p 4000:4000 jekyll/jekyll:3.8 jekyll serve`
-
-Every few months generate more webp versions of images: https://www.aleksandrhovhannisyan.com/blog/dev/improve-page-load-speed-in-jekyll-using-the-webp-image-format/
+I've moved all my actual files to a private repository. Sorry! I was dealing with some...vandalism.
 
 [lic]: LICENSE.md
 [pro]: licenses/PRO.md
